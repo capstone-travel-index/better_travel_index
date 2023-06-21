@@ -4,7 +4,7 @@
 notebooks/.env
 
 # Data
-data/
+# data/
 
 .DS_Store
 
