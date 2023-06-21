@@ -1,0 +1,899 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+73155,Apartment in centre of Rotterdam,381163,Kim,Rotterdam Centrum,Stadsdriehoek,51.91791,4.48266,Entire home/apt,135,10,113,2023-01-14,0.78,1,280,12,0599 D9BA 806A 9A56 BDBB
+77592,"Charming, Cozy Rotterdam Center",416305,Jos,Delfshaven,Middelland,51.91444,4.46297,Entire home/apt,155,2,18,2022-10-02,0.12,1,31,8,Exempt
+101526,Apartment Dependance Rotterdam,531869,Loes,Rotterdam Centrum,Dijkzigt,51.91256,4.46603,Entire home/apt,125,7,16,2023-03-25,0.11,1,302,4,0599 51CC CA3A 88B0 CEF1
+283124,Design apartment in Rotterdam,132430732,Stefan,Overschie,Overschie,51.94346,4.42488,Entire home/apt,132,5,183,2023-03-06,1.35,1,218,9,0599 8987 6E27 0035 1F55
+539905,Sunny garden apt in Kralingen/R'dam,2652971,Michael,Kralingen-Crooswijk,Kralingen Oost,51.92102,4.51345,Entire home/apt,150,4,24,2022-09-11,0.19,1,177,5,0599 F642 774A E974 C0A9
+763422,City appartment: b&b Walenburg,4024319,Machteld,Noord,Blijdorp,51.93021,4.46853,Private room,106,2,336,2023-03-25,2.82,1,80,46,0599 0D64 133D 0093 457A
+878959,Apartment  Rotterdam Noord,4646003,Michel,Noord,Oude Noorden,51.93529,4.47731,Entire home/apt,93,6,18,2022-12-31,0.15,1,14,4,0599 8D6D 8745 6244 F5F9
+880045,Boatappartment with great view on river Maas 1-5p,4653985,Eric,Kralingen-Crooswijk,De Esch,51.91351,4.5194,Entire home/apt,150,3,135,2023-03-26,1.10,2,295,38,0599B70AE638E5C31DDB
+1193092,Lovely Apartment in the Old district Gay Friendly,6520705,Semek,Delfshaven,Middelland,51.918643951416016,4.457880020141602,Private room,99,3,18,2022-10-14,0.15,1,183,4,0599 C862 FC6E 7BB7 D73C
+1322782,Spacious room close to city centre,6926282,Marion,Delfshaven,Middelland,51.92139,4.4573,Private room,41,3,113,2023-03-13,1.16,3,65,12,0599 7F3D 2D0E ECD3 0C97
+1329363,Blue single room close to city center,6926282,Marion,Delfshaven,Middelland,51.92098,4.45795,Private room,33,3,58,2023-03-03,0.54,3,124,22,0599 7F3D 2D0E ECD3 0C97
+1403364,Romantic deckhouse on historic ship central R'dam,7574324,Esther,Rotterdam Centrum,Stadsdriehoek,51.91489,4.48261,Entire home/apt,86,2,500,2023-03-25,4.37,2,258,75,0599 55C3 36A7 F981 E15C
+1419544,Bright Modern Home in Central Rotterdam,52802754,Anneloes,Noord,Agniesebuurt,51.93037,4.47521,Entire home/apt,75,56,20,2021-05-23,0.21,1,203,0,0599 06D2 84E6 2980 9BAD
+1436796,Room in Center of rotterdam,7718807,Hostel Ani & Haakien,Rotterdam Centrum,Cs Kwartier,51.92254,4.4646,Shared room,38,1,53,2022-12-12,0.61,5,246,4,0599 9D05 A5B5 FBE4 DAD6
+1439548,Shared Room 500 mtr from Central station,7718807,Hostel Ani & Haakien,Rotterdam Centrum,Cs Kwartier,51.92259,4.46454,Shared room,39,1,159,2022-11-08,1.37,5,241,5,Exempt
+1504950,Luxe Guest house in Hooimijt,8040675,Det,Hillegersberg-Schiebroek,Hillegersberg Noord,51.96373,4.48512,Entire home/apt,134,2,113,2023-02-21,1.10,1,241,10,0599 5DEA B875 55B2 AA00
+1634923,Unique room in bow of historic ship central R'dam,7574324,Esther,Rotterdam Centrum,Stadsdriehoek,51.91512,4.48423,Entire home/apt,76,2,204,2023-03-20,2.32,2,240,47,0599 55C3 36A7 F981 E15C
+1705269,Sunny bedroom and cosy living/dining room (w/bike),9001123,Sjoerd,Delfshaven,Nieuwe Westen,51.91873,4.45123,Entire home/apt,65,21,18,2022-09-29,0.16,1,256,2,0599 459E 7E8F 7E70 A328
+1839719,Groepsverhuur Luciana en/of Catherina te Rotterdam,9614440,Pieter,Rotterdam Centrum,Nieuwe Werk,51.90625,4.4806,Entire home/apt,485,2,46,2023-03-05,0.55,2,158,11,Exempt
+2007748,Fully equipped 2 bedroom appartment,10333630,Dieter,Feijenoord,Afrikaanderwijk,51.90595,4.49885,Entire home/apt,80,121,21,2021-08-30,0.19,1,133,0,0599 DE3E 4174 D1B2 4473
+2097520,Casa La Rosa – B&B / Shortstay,10698794,Fabiana & Rocco,Delfshaven,Nieuwe Westen,51.9182,4.45194,Entire home/apt,65,6,202,2023-01-23,1.82,1,1,3,0599 8351 BBF5 58F6 7DE0
+2317332,Sleep by the bridge with great view,11834678,Maarten,Delfshaven,Spangen,51.91796,4.44328,Entire home/apt,80,1,363,2022-10-30,3.77,1,177,26,0599 9CCB BF45 C894 A053
+2417980,B&B De Speelman (home; 2 pers),12357210,Yvonne,Overschie,Overschie,51.93734,4.41808,Private room,65,2,192,2023-03-19,1.75,1,245,17,0599346D7400C35C8639
+2523676,Bed and Breakfast huis Ze Zeggen,12921610,Janny,Hillegersberg-Schiebroek,Hillegersberg Noord,51.94625,4.49093,Entire home/apt,115,2,94,2022-12-01,0.87,1,242,9,059947BEE51E8597009E
+2692286,Near Erasmus University long stay.,13768594,Eliza,Prins Alexander,Nesselande,51.97034,4.58319,Private room,55,2,62,2023-01-28,0.57,2,316,5,0599 CD13 E32F 3E3C 879A
+3561821,ZooZooHouse,6052050,Cristina Cassandra,Rotterdam Centrum,Cs Kwartier,51.9224,4.46649,Entire home/apt,86,60,12,2022-07-08,0.14,1,116,1,0599 8688 86C8 C175 83A6
+3611862,Appartement Rotterdam Centrum/West,13929889,Liz,Delfshaven,Middelland,51.91222,4.45955,Entire home/apt,121,7,38,2022-10-05,0.36,1,362,6,0599 AC19 DC21 5C86 C342
+3628774,Beautiful room in Rotterdam,7395931,Gilles,Kralingen-Crooswijk,Kralingen West,51.92459,4.50305,Private room,30,1,37,2022-09-11,0.35,1,0,11,0599 9DB9 AF58 5703 C5AC
+3670038,Big appartement with a garden.,17799395,Manon,Rotterdam Centrum,Oude Westen,51.91277,4.4663,Entire home/apt,196,2,324,2022-10-31,3.07,1,271,56,0599236183B652A3A69E
+3856476,A Loft with a View,19894111,Arjen & Nathalie,Feijenoord,Hillesluis,51.8944,4.51132,Entire home/apt,75,2,704,2023-02-26,6.76,5,16,61,0599EA6CB84047FA222B
+3868358,Vintage Apartment,19894111,Arjen & Nathalie,Feijenoord,Hillesluis,51.89636,4.51134,Entire home/apt,76,2,651,2023-03-12,6.79,5,17,39,0599EA6CB84047FA222B
+3885640,Imagine My bnb,20096660,Wij Zijn Danny En Hedwig,Noord,Liskwartier,51.94023,4.47632,Entire home/apt,60,2,19,2022-06-06,0.26,1,25,3,0599 930F 2515 C952 0AA0
+3885660,Near Erasmus University,13768594,Eliza,Prins Alexander,Nesselande,51.9702,4.58418,Private room,55,2,135,2023-02-05,1.29,2,316,7,0599 CD13 E32F 3E3C 879A
+4313919,Karen's Rooftop Apartment,9244807,Edwin,Feijenoord,Noordereiland,51.91098,4.49588,Private room,227,2,2,2022-07-24,0.09,4,259,1,0599683860C3082CAC4E
+4430364,"Apê Calypso, Rotterdam center",8691402,Alex,Rotterdam Centrum,Cool,51.92143,4.47281,Entire home/apt,156,3,200,2023-03-24,1.96,1,199,31,0599 6336 8C4B DB76 3254
+4684683,Spacious | Comfortable | Private,4661950,Jet & Frank,Delfshaven,Middelland,51.9188,4.4587,Private room,114,1,562,2023-03-19,5.54,1,261,60,0599 E2C2 6946 0690 5E19
+4921646,Rotterdam countryside like home & inhouse elevator,25348830,Ejal,Kralingen-Crooswijk,Kralingen Oost,51.920158,4.529109,Entire home/apt,450,3,1,2022-12-25,0.32,1,0,1,0599 F7C6 279C FD17 6A78
+5074353,Familiehuis in Kralingen,26203468,Hans,Kralingen-Crooswijk,Kralingen Oost,51.92472,4.51384,Entire home/apt,350,6,9,2022-10-14,0.11,1,115,4,0599 7557 08F4 941E CB76
+5156210,Under architect renewed house,26658229,Gerard,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.9458,4.47589,Entire home/apt,170,7,100,2023-03-26,1.04,1,317,29,0599 4C5B E806 E449 E042
+5216321,Very Beautiful Private Studio,23729777,Erik,Delfshaven,Nieuwe Westen,51.91874,4.45048,Entire home/apt,59,2,319,2022-10-01,3.23,1,0,35,0599 578C 20D4 8FCB 10AF
+5313738,Red single room close to city centre,6926282,Marion,Delfshaven,Nieuwe Westen,51.91933,4.45593,Private room,33,3,53,2023-03-03,0.57,3,132,5,05997F3D2DOEECD3OC97
+5398600,Charming hotel on the waterside different rooms,27986148,Jan,Delfshaven,Nieuwe Westen,51.90952,4.45249,Private room,91,2,21,2022-07-10,0.22,9,83,1,Exempt
+5502133,Family home with huge garden at the Riverside,10403266,Nicoline,Hillegersberg-Schiebroek,Hillegersberg Noord,51.94779,4.49908,Entire home/apt,105,2,25,2022-08-06,0.26,1,3,6,0599 1F4E CDF7 D92E 259F
+5551490,Lovely place in the north of town.,28785270,Anne-Lise,Noord,Liskwartier,51.93885,4.47084,Private room,60,5,30,2022-09-15,0.60,1,168,14,0599E596E0CC6F96C64D
+5557758,La Maison Parfaite,4978203,Andres,Kralingen-Crooswijk,Kralingen West,51.92634,4.50836,Entire home/apt,135,2,60,2023-03-19,0.62,1,21,7,0599 0B89 1F2A 862B 7FE4
+5640686,Rotterdam's coolest apartment,575281,Cait,Rotterdam Centrum,Cool,51.91653,4.47677,Entire home/apt,225,2,160,2023-03-26,1.64,1,258,42,Exempt
+5766744,"Apartment in Rotterdam, direct connection to Ahoy",29918299,Nathalie,Noord,Blijdorp,51.93277,4.45988,Entire home/apt,69,14,8,2023-03-13,0.08,1,99,1,0599 26C8 18FF 9CA4 9C6F
+5768576,Cozy B&B Rotterdam Center 1,29927312,Tatjana,Rotterdam Centrum,Cs Kwartier,51.92317,4.46272,Private room,100,1,9,2022-06-15,0.10,3,339,2,0599722D8BC4D4780238
+5887149,Pincoffs 2 Room Rooftop Apartment,9244807,Edwin,Feijenoord,Noordereiland,51.91139,4.49579,Private room,357,1,1,2023-02-26,1,4,351,1,0599683860C3082CAC4E
+5967526,Cozy B&B Rotterdam Center 2,29927312,Tatjana,Rotterdam Centrum,Cs Kwartier,51.92272,4.4643,Private room,70,1,58,2023-03-18,0.62,3,302,16,0599722D8BC4D4780238
+5967858,Cozy B&B Rotterdam Center 3,29927312,Tatjana,Rotterdam Centrum,Cs Kwartier,51.92349,4.46473,Private room,75,1,28,2022-10-02,0.30,3,332,6,0599722D8BC4D4780238
+6009466,Luxury penthouse overlooking the water - Rotterdam,29522046,Tamara,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.9452232,4.4873288,Entire home/apt,130,20,1,2023-01-03,0.36,1,116,1,0599 2520 0E65 9659 6C50
+6090097,Spacious family home with garden near CS and Zoo,31579292,Marc,Noord,Blijdorp,51.93129,4.46516,Entire home/apt,150,3,34,2023-01-03,0.36,1,1,5,0599 E3B1 C92B 6375 9D89
+6104060,"Kindvriendelijk, ruim app. in hippe wijk",31670824,Marlot,Feijenoord,Katendrecht,51.89987,4.48218,Entire home/apt,300,4,11,2017-07-30,0.11,1,170,0,0599 FAFF AAE4 B92A E8BD
+6316212,Strand und Düne,21121206,Rainer,Hoek van Holland,Strand en Duin,51.99155,4.13328,Entire home/apt,93,4,21,2022-07-29,0.26,1,82,2,
+6509777,Getaway in Centre of Rotterdam long term rent only,34033361,Esther,Rotterdam Centrum,Cool,51.92358,4.47718,Entire home/apt,120,30,199,2022-06-30,2.83,1,326,3,Exempt
+6633646,"Appartment in ""centrum/west"" (the place to be)..",9440897,Pedro,Delfshaven,Nieuwe Westen,51.91616,4.45338,Entire home/apt,80,14,24,2023-02-06,0.81,1,44,17,0599 3A89 A07B DAF2 BF7F
+7365902,Lovely bright 2-bedroom apartment Rotterdam Centre,38594237,Dane,Noord,Blijdorp,51.93021,4.45615,Entire home/apt,165,3,10,2022-08-20,0.94,1,5,10,0599 5447 1709 F52D 45D3
+7390440,Spacious and luxurious apartment,3673357,Nicolien & Auke,Delfshaven,Tussendijken,51.91177,4.44423,Entire home/apt,59,60,1,2016-09-09,0.01,1,83,0,0599 432D CB39 99CE 6B03
+7407962,sunny spacious quiet apartment,38817037,Richard,Noord,Blijdorp,51.93297,4.46222,Entire home/apt,105,3,166,2023-03-24,1.78,1,218,38,0599 DED0 98A6 6E26 4DFA
+7521148,"Spacious studio, near City Centre / Rotterdam CS",39412781,Cj,Delfshaven,Middelland,51.92066,4.45862,Private room,49,2,270,2023-02-27,2.92,2,34,32,0599 0C55 6722 9182 59AB
+7545245,Stylish riverside apt in R'dam West,7623258,Rebecca,Delfshaven,Tussendijken,51.91334,4.44525,Entire home/apt,100,2,46,2023-03-14,1.19,1,13,22,0599 A930 D557 A67D C904
+7610938,Cozy Stay Rotterdam City Centre,15169843,Ditha,Rotterdam Centrum,Stadsdriehoek,51.92197,4.49013,Entire home/apt,152,3,17,2019-10-12,0.19,1,88,0,0599 C262 60E0 67DF D6DB
+7986487,Downtown city center,20210197,Maarten,Rotterdam Centrum,Cs Kwartier,51.92534,4.47558,Entire home/apt,129,90,113,2022-09-30,1.23,1,272,1,0599 D5A7 89D8 5B69 13A6
+8126093,Flat in Rotterdam Oostplein area,42746784,Elaine,Kralingen-Crooswijk,Kralingen West,51.92468,4.50151,Private room,40,15,15,2023-02-23,0.25,1,253,6,0599 366C BAC0 8EF6 1868
+8215997,Stylish studio near Central Station / City Centre,39412781,Cj,Delfshaven,Middelland,51.92123,4.45971,Private room,49,2,270,2023-03-10,2.94,2,36,48,0599 0C55 6722 9182 59AB
+8281318,"Bright, luxury downtown apartment with garden",30191197,Maarten,Kralingen-Crooswijk,Kralingen West,51.92538,4.50121,Entire home/apt,240,2,33,2022-08-12,0.39,1,279,4,0599 5E40 F045 CDFB 68FB
+8347352,Comfy Room @ Historical Delfshaven,35512851,Kim,Delfshaven,Tussendijken,51.91013,4.4464,Private room,60,2,422,2023-03-05,4.62,3,277,43,0599 2E0D 3ACF 9737 561E
+8354818,Lovely Room @ Historical Delfshaven,35512851,Kim,Delfshaven,Bospolder,51.90979,4.44576,Private room,56,2,526,2023-02-12,5.75,3,278,48,0599 2E0D 3ACF 9737 561E
+8433150,B & B the Green Room  in Rotterdam,44405381,Hendrik,Kralingen-Crooswijk,Kralingen West,51.93045,4.50407,Entire home/apt,89,2,337,2023-03-02,3.69,1,209,42,0599 D5DA F6D0 E8FC 90D9
+8469839,Vintage apt.@ Historical Delfshaven,35512851,Kim,Delfshaven,Bospolder,51.90939,4.44681,Entire home/apt,100,2,212,2023-03-01,2.35,3,230,18,0599 2E0D 3ACF 9737 561E
+8696087,"Scooter's Garage, city center, brand new, unique!",32107258,Geert-Jan,Rotterdam Centrum,Stadsdriehoek,51.9232,4.4909,Entire home/apt,50,1,533,2023-03-12,6.41,2,0,80,0599 DBA3 FF2A 896E F530
+8950399,Cozy room in Rotterdam Centrum,31328064,Jose,Noord,Oude Noorden,51.92718,4.48241,Private room,52,2,314,2023-03-23,3.48,2,43,49,0599 75EF F284 D409 087F
+9071171,"Stylish home with Sunny garden, good vibes only!",29444308,Aletta,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.94541,4.46883,Entire home/apt,139,2,12,2023-01-03,0.30,1,135,1,0599 3966 32F8 CD6C 8796
+9163013,Apartment in Rotterdam Blijdorp (north),24525520,Johan,Noord,Blijdorp,51.93329,4.45679,Private room,45,3,38,2022-07-17,0.43,1,0,1,0599 4DCC 8C3B BC17 86DC
+9207481,Lovely Holiday house Oostvoorne,47888236,Henri,Botlek-Europoort-Maasvlakte,Europoort,51.92892,4.16162,Entire home/apt,75,7,41,2022-07-01,0.49,1,68,3,
+9268682,Cozie apartment in rotterdam center,34748520,Rubén,Prins Alexander,Oosterflank,51.942394689408715,4.564174530688465,Private room,70,2,3,2022-08-26,0.41,3,85,3,0599 F1CE 8B1E F70B 3FB9
+9457670,Apartment opposite  the Kunsthal and Erasmus MC,2689894,Anna,Rotterdam Centrum,Nieuwe Werk,51.9094,4.47496,Entire home/apt,69,3,169,2023-01-02,1.94,1,0,24,0599ADF8DBB4B3AAA6B8
+9474240,Special&Spacious urban family house,21087902,Maureen,Delfshaven,Spangen,51.9183,4.44071,Entire home/apt,325,2,81,2023-01-08,0.91,1,296,10,0599 E74E F8FA DC02 BA73
+9623594,Cute Room for Two in Amazing Historic Ship!,46700761,Premala,Rotterdam Centrum,Stadsdriehoek,51.91562,4.48552,Private room,76,1,555,2023-03-26,7.40,3,111,120,0599 AAF3 18FD 89FC 0D3A
+9628874,Apartment city centre Rotterdam,49801582,Tamar,Rotterdam Centrum,Cool,51.92278,4.47319,Entire home/apt,151,2,359,2023-03-19,4.07,1,62,31,05995F51B0CD687606F9
+9656246,Bed in shared room in the center of Rotterdam,7718807,Hostel Ani & Haakien,Rotterdam Centrum,Oude Westen,51.92137,4.46472,Shared room,41,1,123,2023-01-29,1.38,5,241,12,0599 9D05 A5B5 FBE4 DAD6
+9679472,En suite room in quite street@edge of city centre,50007663,Ralf & Rahmat,Delfshaven,Middelland,51.91263,4.46176,Private room,65,2,566,2023-03-09,6.42,1,16,89,0599 DFA5 B440 A440 8B32
+9742216,Bed in the center of Rotterdam,7718807,Hostel Ani & Haakien,Rotterdam Centrum,Oude Westen,51.92187,4.46619,Shared room,40,1,69,2022-10-31,0.78,5,245,9,0599 9D05 A5B5 FBE4 DAD6
+9901756,Spacious urban appartment in heart of Rotterdam,17803041,Liek,Rotterdam Centrum,Cool,51.91481,4.4777,Entire home/apt,130,3,48,2022-11-20,0.83,1,3,7,0599 25AC 820B 16C8 21BD
+10355221,Luxurious apartment downtown,53295634,Oskar,Rotterdam Centrum,Oude Westen,51.91901,4.46809,Entire home/apt,109,1,239,2023-03-12,2.74,1,31,56,0599 88BA 5B65 5B99 35C1
+10375079,Loft in bruisende centrum Rotterdam,20750635,Rudolf,Delfshaven,Middelland,51.91934,4.45976,Entire home/apt,120,25,14,2019-11-17,0.16,1,102,0,0599c4c7c8547ce1672a
+10383405,Cosy bright apartment in a lovely neighborhood,9118753,Patricia,Hillegersberg-Schiebroek,Terbregge,51.94455,4.48693,Entire home/apt,130,2,12,2022-11-27,0.18,1,23,5,0599 A34E 0762 972F DFA2
+10431393,Spacious family city apartment with garden (150m2),302893992,Michiel,Delfshaven,Middelland,51.91208,4.46143,Entire home/apt,189,2,25,2022-10-30,0.31,12,18,11,0599 D518 3821 351D AE0E
+10766851,Comfortable Apartment,19894111,Arjen & Nathalie,Feijenoord,Hillesluis,51.89584,4.51067,Entire home/apt,75,2,442,2023-01-29,5.09,5,8,42,0599EA6CB84047FA222B
+11005301,Spacious artist house/apartment in Rotterdam West.,57107708,Jeroen,Delfshaven,Middelland,51.91823,4.45721,Entire home/apt,160,2,0,,,1,96,0,0599 C67A 22CF EB37 7971
+11108069,Large bedroom Lets be surprized,24851404,Shirley,Rotterdam Centrum,Oude Westen,51.92016,4.46379,Private room,80,2,321,2023-03-11,3.77,1,91,55,0599807E83206F04E7C7
+11234725,Big apartment near center,58570764,Marnix,Delfshaven,Nieuwe Westen,51.91638,4.45202,Entire home/apt,167,3,55,2023-01-02,0.64,1,180,5,0599 4A0C 8839 F092 0C04
+11428019,Third floor for guests near centre,18824030,Jose,Delfshaven,Nieuwe Westen,51.92089,4.44955,Private room,71,2,570,2022-11-07,6.64,1,263,61,0599 1625 ACB6 AAE7 C4AC
+11475177,Comfortable romantic boat 1892 top!,60379943,H.M.Lansdorp,Feijenoord,Kop van Zuid - Entrepot,51.90697,4.50242,Entire home/apt,89,29,3,2019-08-22,0.04,2,86,0,0599 BD9D 318B 688E 8266
+11499957,B&B BOAT NAUTILUS ROTTERDAM,60379943,H.M.Lansdorp,Feijenoord,Kop van Zuid - Entrepot,51.90688,4.50374,Entire home/apt,98,1,432,2023-03-21,5.03,2,204,97,0599DB9D318B688E8266
+11633078,Cosy apartment in Rotterdam center,940898,Jc,Rotterdam Centrum,Cool,51.91581,4.47803,Entire home/apt,200,2,143,2023-02-18,1.68,1,0,24,0599 B7C4 2277 24D7 A340
+11936314,Spacious cozy house Rotterdam north,46367492,Bertine,Noord,Liskwartier,51.93498,4.47384,Entire home/apt,110,1,211,2023-03-13,2.85,2,209,46,0599960460A65DE2D305
+11945440,"Fully Renovated Design Loft, Next to Euromast Park",3700605,Jamilla,Delfshaven,Delfshaven,51.90655,4.45427,Entire home/apt,177,4,24,2020-08-02,0.28,1,351,0,0599 BFC5 91BE 0D22 1B54
+12049772,"Top spot Rotterdam centre, own bathroom/toilet",37531148,Bernadet,Rotterdam Centrum,Dijkzigt,51.91182,4.46887,Private room,65,2,114,2023-03-11,1.34,1,27,6,0599 4B64 BCA5 F31C 6AEE
+12080166,Hostel Rotterdam,7718807,Hostel Ani & Haakien,Rotterdam Centrum,Oude Westen,51.92201,4.46631,Shared room,39,2,21,2022-12-11,0.26,5,246,4,0599 9D05 A5B5 FBE4 DAD6
+12752053,"Luxe appartement nabij zee, strand en duinen",65713563,Ben,Hoek van Holland,Strand en Duin,51.98184,4.11742,Entire home/apt,130,3,61,2023-03-15,0.78,1,158,14,
+12942838,Spacious apartment in Rotterdam Blijdorp,71102000,Floris,Noord,Bergpolder,51.9348,4.46274,Entire home/apt,74,3,74,2022-08-07,0.89,1,0,2,0599 8AB2 EE03 5AA4 C389
+13235050,Spacious Room next to the Erasmus University.,74320263,Ewald. M.A.,Kralingen-Crooswijk,Kralingen Oost,51.91768,4.51865,Private room,34,3,13,2019-08-25,0.22,1,85,0,Exempt
+13520818,Luxurious penthouse in the center of Rotterdam,31610110,Julien & Michel,Rotterdam Centrum,Stadsdriehoek,51.91537,4.48714,Entire home/apt,295,4,19,2022-08-12,0.23,1,0,3,0599 A0B4 554E CAD5 9ED7
+13706363,MyPlace - Apartment in Central Rotterdam,79996117,Lance,Rotterdam Centrum,Stadsdriehoek,51.91332,4.48146,Entire home/apt,90,2,367,2023-02-25,4.49,1,200,59,059937EE6AF74224B6E9
+13811450,Cosy barnhouse surrounded with nature!,51894047,Marieke & Arne,Overschie,Noord Kethel,51.95722579956055,4.397226810455322,Entire home/apt,80,2,259,2023-03-03,3.19,1,213,41,05996AE60B510A724DC8
+13941233,Peaceful place in the city center!,18154189,Laura,Noord,Oude Noorden,51.92547,4.48303,Entire home/apt,212,1,5,2022-08-13,0.07,1,0,2,0599 4862 9052 D63E CF83
+13987081,Luxurious studio in the city Center R'dam.,52925696,Fatima,Rotterdam Centrum,Cool,51.91643,4.47559,Entire home/apt,133,1,101,2023-03-23,1.28,5,232,10,Exempt
+14047222,♡  Room in pittoresk area with great vieuw!,4908529,Luna,Delfshaven,Bospolder,51.90797,4.4467,Private room,72,7,106,2022-10-31,1.31,2,255,8,0599 2B5A D2BA B1F3 7008
+14778037,Lovely apartment in a popular area with park view,49103690,Bas,Noord,Blijdorp,51.92937,4.45585,Entire home/apt,96,7,20,2021-09-15,0.26,1,0,0,0599 8710 5E89 CF54 B64E
+14912543,Captain's Hut in historic city center,46700761,Premala,Rotterdam Centrum,Stadsdriehoek,51.91575,4.48535,Entire home/apt,112,1,548,2023-03-25,6.88,3,120,104,0599 AAF3 18FD 89FC 0D3A
+14923755,Cozy room in amazing historic ship!,46700761,Premala,Rotterdam Centrum,Stadsdriehoek,51.91575,4.48569,Private room,71,1,586,2023-03-23,7.36,3,125,102,0599 AAF3 18FD 89FC 0D3A
+14963938,"Hotspot in Rotterdam,  eigen douche, wc, airco",93599077,Sandra,Kralingen-Crooswijk,Kralingen West,51.92419,4.51082,Entire home/apt,54,2,369,2023-03-18,4.72,1,8,80,0599 B7E6 E02A 01C5 1727
+15097129,Loft studio,52925696,Fatima,Rotterdam Centrum,Cool,51.91613,4.47417,Entire home/apt,133,1,95,2023-03-16,1.22,5,270,29,Exempt
+15393033,Spacious studio in a vibrant street in Rotterdam,52925696,Fatima,Rotterdam Centrum,Cool,51.91475,4.47657,Entire home/apt,163,1,73,2023-02-06,1.01,5,291,15,Exempt
+15461971,Cosy and spacious near city center,4777563,Arnout,Delfshaven,Nieuwe Westen,51.91834,4.45192,Entire home/apt,140,3,24,2022-08-06,0.31,1,0,3,0599 8D9E 7087 BFE7 3126
+15520217,An island within the city. Silent and central!,99762586,Vincent,Rotterdam Centrum,Stadsdriehoek,51.91672,4.48613,Entire home/apt,170,16,33,2023-03-08,0.42,1,249,6,0599 C070 A7CA 0D1F 2F7E
+15593577,Historical sailing ship in city centre,34569260,Deniz,Rotterdam Centrum,Stadsdriehoek,51.91817,4.48704,Entire home/apt,470,1,59,2023-01-01,0.76,1,2,6,0599 0C39 B05C 0E87 FA04
+16286764,Completly renovated private appartment in centre,51393842,Peter Frank,Delfshaven,Nieuwe Westen,51.91478,4.44915,Entire home/apt,75,30,18,2022-07-01,0.24,1,192,1,0599 7896 13A1 266D C603
+16306501,"Groeps accommodatie ""Marie Galante"" in Rotterdam",9614440,Pieter,Rotterdam Centrum,Nieuwe Werk,51.90718,4.47861,Entire home/apt,485,2,68,2023-03-12,0.91,2,271,23,Exempt
+16416492,A room with a bunk bed in the heart of Rotterdam,21552245,Peter,Kralingen-Crooswijk,Rubroek,51.92541,4.49292,Private room,50,3,182,2023-02-20,2.43,1,0,11,05993417180029D28928
+16594089,Garden Room Apartment in the city center,26899206,Kees,Rotterdam Centrum,Oude Westen,51.91385,4.46512,Entire home/apt,82,2,218,2023-01-29,2.94,2,256,40,0599 9599 9618 E789 DA19
+16599892,Amazing skyline apartment!,3127780,Nienke,Rotterdam Centrum,Dijkzigt,51.90918,4.45879,Entire home/apt,156,5,61,2023-03-03,1.06,1,0,11,0599 1FDE 9F3E 6E8A 371C
+16629230,Spacious private room AAA location,109830974,Mark,Rotterdam Centrum,Nieuwe Werk,51.90928,4.48099,Private room,90,1,76,2023-03-26,1.32,1,25,8,0599 352E F95A 91BF 43AC
+16649402,Historic house near center Rdam,11562876,Petra,Noord,Bergpolder,51.93427,4.4646,Entire home/apt,115,3,47,2023-03-22,0.62,1,0,11,0599 1E94 29C4 7952 FD4F
+16699987,Super cozy house in Rotterdam Center.,110619700,Berty,Rotterdam Centrum,Stadsdriehoek,51.91431,4.48143,Entire home/apt,100,1,253,2023-03-12,3.39,2,312,50,Exempt
+16749023,18 goedkope slaapplekken in hartje Rotterdam,105778145,Sudermar,Rotterdam Centrum,Stadsdriehoek,51.91919,4.48694,Entire home/apt,342,1,40,2023-03-05,0.53,1,107,11,0599 14DC C621 E839 2532
+17037437,Spacious cozy house in the center of Rotterdam.,110619700,Berty,Rotterdam Centrum,Stadsdriehoek,51.91434,4.48168,Entire home/apt,116,1,331,2023-03-19,4.51,2,270,83,Exempt
+17264818,Rotterdam: Apartment with a View!,116391361,Sam,Delfshaven,Tussendijken,51.91268,4.44667,Entire home/apt,124,2,87,2023-03-23,1.20,1,227,13,0599 F318 7C24 24F0 D613
+17310034,Charming renovated carriage house,116814166,Nicolette,Hillegersberg-Schiebroek,Hillegersberg Noord,51.95494,4.49332,Entire home/apt,149,3,73,2022-08-29,0.99,1,25,7,0599A528A7E808959D10
+17352498,3 pers Apt in City Centre close to Central Station,117247688,Jasper,Noord,Provenierswijk,51.92507,4.46457,Entire home/apt,130,7,12,2022-10-26,0.16,1,164,2,LT723780000009713789
+17361998,"Room with private balcony, bathroom and toilet.",24606148,Marjolijn,Delfshaven,Middelland,51.91314,4.45669,Private room,72,1,217,2023-03-21,2.99,1,32,72,0599D26233115906D772
+17488663,"AirBnBeautiful: pretty, chic & light, 180 m2",377140,Mark,Kralingen-Crooswijk,Struisenburg,51.91936,4.51409,Entire home/apt,320,4,6,2018-06-23,0.08,1,27,0,0599 B953 D6E7 69CC D566
+17622969,Private studio with  complete kitchen and bathroom,76424652,Anny,Feijenoord,Noordereiland,51.91199,4.49257,Entire home/apt,64,1,582,2023-03-21,8.01,1,259,83,0599 C925 85FB E97B BA64
+17634182,Wikkelboat Nr1 in city centre with Spa,436284753,Wikkelboat,Rotterdam Centrum,Stadsdriehoek,51.918,4.48984,Entire home/apt,206,1,207,2023-03-19,2.95,11,148,25,0599 3828 DC90 C9F5 D984
+17835388,Family apartment with rooftop deck & fireplace,121985828,Marijn,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.9458,4.4877,Entire home/apt,220,2,19,2022-08-05,0.28,1,0,3,0599 53A0 134C 0589 4EE7
+18154606,Spacious apartment in city centre incl. parking,35521948,Ruben,Rotterdam Centrum,Stadsdriehoek,51.91753,4.48442,Entire home/apt,95,4,66,2023-02-27,0.92,1,36,3,0599 3FF2 C7EF C20D 0793
+18214488,"Quiet, comfortable and central",111544605,Rogier,Feijenoord,Kop van Zuid - Entrepot,51.90738,4.5005,Entire home/apt,168,5,28,2022-09-07,0.40,1,0,5,0599 2FE7 8E2A 542B FF7A
+18350003,Appartment in Rotterdam,11086498,Iveta,Noord,Bergpolder,51.93393,4.46239,Entire home/apt,106,5,30,2023-01-26,0.42,1,323,14,05996D1C05536BA7CF6B
+18558518,private room in historical house near Ahoy,124107653,Jos,Charlois,Zuiderpark,51.88243,4.45852,Private room,80,2,113,2023-02-23,1.92,1,166,34,0599 D2EA 3B81 A5D5 1D47
+18625942,Private room and luxurious private bathroom,36136045,Hans,Kralingen-Crooswijk,Rubroek,51.92897,4.48912,Private room,71,2,251,2023-03-25,3.56,1,265,49,0599934A670E5F03745B
+18727144,Cozy room + Private Bathroom in Center,31328064,Jose,Noord,Oude Noorden,51.92693,4.48184,Private room,55,2,75,2023-03-19,1.95,2,43,50,0599 75EF F284 D409 087F
+18853407,Bright spacious city house with lush garden,7064154,Menno,Delfshaven,Nieuwe Westen,51.91837,4.45319,Entire home/apt,129,2,18,2022-07-03,0.31,1,0,4,0599 22D9 1913 33BB 7A8E
+19065423,Prachtig ruim appartement in centrum Rotterdam,11333021,Tanja,Kralingen-Crooswijk,Struisenburg,51.9224846,4.4983201,Entire home/apt,240,3,0,,,1,85,0,0599 25E9 AFE9 B5DD D906
+19640528,MyCityLofts - Calypso,1193642,Mesut,Rotterdam Centrum,Cool,51.92107,4.47195,Entire home/apt,180,7,12,2019-12-19,0.17,3,0,0,Exempt
+19658264,Spacious two-story luxury app near Erasmus bridge,86841355,Serap,Feijenoord,Kop van Zuid - Entrepot,51.90825,4.4963,Entire home/apt,119,2,74,2023-02-19,1.07,1,0,3,0599 CF75 FC1D 955B 6295
+19882401,"The Artist studio, 65m2, sunny garden & 2 bikes",3015900,Patricia,Charlois,Oud Charlois,51.88899,4.4692,Entire home/apt,91,2,152,2023-03-20,3.31,1,14,49,0599A0A7135AB86E7804
+20292414,Private studio in vibrant street in Rotterdam,52925696,Fatima,Rotterdam Centrum,Cool,51.91708,4.47338,Entire home/apt,133,1,53,2022-11-27,0.78,5,247,7,0599 1A43 5B99 34EF 222E
+20419324,Delfshaven- gehele woning met tuin aan het water,145648970,Marlies,Delfshaven,Tussendijken,51.91158,4.44698,Entire home/apt,90,2,29,2023-03-12,0.43,1,2,11,0599 94C6 482C EC3E 4465
+20478300,Central apartment with garden,2697263,Evie,Noord,Bergpolder,51.93372,4.46331,Entire home/apt,175,17,9,2022-07-15,0.14,1,0,2,0599 219D 2CA5 705B 065E
+20636797,Room with the best view over the city skyline,11042357,Nico With Pan,Charlois,Tarwewijk,51.89594,4.49263,Private room,44,1,267,2023-03-23,3.95,1,31,80,0599 4AB6 60CC 6591 2F0A
+20647352,Iconic Cube House - Cloud Room,494772942,Peter,Rotterdam Centrum,Stadsdriehoek,51.91953,4.48926,Private room,30,90,60,2022-07-31,0.89,4,123,2,0599 FEE1 77A6 AE90 6F32
+20648401,Iconic Cube House - Tree Room,494772942,Peter,Rotterdam Centrum,Stadsdriehoek,51.91905,4.49018,Private room,31,90,56,2022-08-01,0.84,4,32,3,0599 FEE1 77A6 AE90 6F32
+20658699,Spacious apartment with garden behind CentrStation,560723,Ingetje And Davide,Noord,Blijdorp,51.92926,4.46678,Entire home/apt,200,3,11,2023-01-01,0.19,1,19,6,0599 962F 793F C179 1AC1
+20684218,Loft with private sauna and jacuzzi,4023544,Paul,Delfshaven,Nieuwe Westen,51.913013,4.450722,Private room,109,2,117,2023-01-08,1.73,1,54,17,0599 976E 15B3 0175 DC64
+20758014,Luxurious and spacious apartment,9554078,Roderik,Delfshaven,Middelland,51.91655,4.45809,Entire home/apt,150,5,16,2023-03-01,0.25,1,2,2,0599 F148 BECB 9016 9D56
+20842463,Iconic Cube House - Sky Room,494772942,Peter,Rotterdam Centrum,Stadsdriehoek,51.92028,4.48931,Private room,35,90,42,2023-01-12,0.63,4,139,1,0599 FEE1 77A6 AE90 6F32
+20870353,"CHEZ ALET, Rotterdam centrum, Delfshaven",140880972,Alet,Delfshaven,Nieuwe Westen,51.91417,4.44685,Entire home/apt,176,2,152,2023-02-26,2.26,1,43,28,0599 D7AD A3E0 C52C BEA1
+20884401,Room and roof terrace with a stunning skyline-view,54968850,Gerdie,Feijenoord,Noordereiland,51.91088,4.49028,Private room,66,2,165,2023-03-26,2.45,2,251,60,0599 12CF A197 26A7 900D
+20930326,Comfortable appartment @Urban # Katendrecht,6282651,Micha,Feijenoord,Katendrecht,51.90068,4.48427,Entire home/apt,195,2,7,2023-03-17,0.14,1,318,3,0599 B538 1C0D F465 ACF6
+21011141,Characteristic house in lush Kralingen,32522278,Renee,Kralingen-Crooswijk,Kralingen West,51.93078,4.50701,Entire home/apt,103,2,21,2022-07-24,0.33,1,0,9,0599 923C FFB7 F730 0E18
+21585026,Tiny Studio in Central District near C.S.,156981915,Hester & Alex,Noord,Provenierswijk,51.92646,4.46731,Entire home/apt,62,1,323,2023-03-19,4.96,1,51,69,0599 32D2 4DCD A703 5DFE
+21592988,"Classy apartment in 'old west' area, near center",34275737,Karin,Delfshaven,Middelland,51.91636,4.45968,Entire home/apt,85,3,19,2022-04-19,0.30,1,0,2,0599 0C5E A214 8B47 3B2F
+21909690,Group accommodation Rooms on Water,34928695,Moniek,Rotterdam Centrum,Stadsdriehoek,51.917850494384766,4.483282089233398,Entire home/apt,891,2,30,2023-03-26,0.51,2,211,11,Exempt
+21946533,"Rotterdam, Center Isle.",94315381,Caspar,Feijenoord,Noordereiland,51.9113,4.49021,Private room,90,2,149,2023-03-20,2.33,1,2,28,05992EF6FC50C91F1472
+22037852,Cozy house 10 min. from the centre of Rotterdam,104009576,Erik,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.94597,4.47297,Entire home/apt,73,2,110,2023-02-19,1.75,1,115,26,0599 C5B5 F0DE AC2E 0657
+22112524,City Apartment with Great View FREE Parking,17229228,Gio,Rotterdam Centrum,Stadsdriehoek,51.91765,4.48891,Entire home/apt,192,1,358,2023-02-18,5.58,1,153,86,Exempt
+22156693,Rotterdam Centrum kamer voor 3 personen,27986148,Jan,Delfshaven,Delfshaven,51.90833,4.45382,Private room,149,2,14,2022-12-11,0.27,9,89,3,Exempt
+22246737,Nice and modern room in city center apartment,7113705,Ozkan,Rotterdam Centrum,Stadsdriehoek,51.92152,4.49307,Private room,55,2,116,2023-03-12,1.82,2,299,34,0599F03FCD4E43EEB19F
+22246956,Nice and modern room in city center apartment,7113705,Ozkan,Rotterdam Centrum,Stadsdriehoek,51.92252,4.49146,Private room,55,2,76,2023-02-19,1.21,2,313,28,0599F03FCD4E43EEB19F
+22291054,NiceHouse;Rotterdam;10min from Centre; FreeParking,733310,Rahman,Charlois,Pendrecht,51.87394,4.46689,Entire home/apt,219,1,38,2020-11-22,0.60,1,0,0,0599FAAFC7AB237EF8BA
+22291659,Hip&modern studio on a vibrant street in Rotterdam,52925696,Fatima,Rotterdam Centrum,Dijkzigt,51.91447,4.47419,Entire home/apt,133,1,120,2023-03-14,1.92,5,206,28,Exempt
+22353706,Green oasis in the city center,163451598,Paul,Rotterdam Centrum,Cool,51.92057,4.47598,Private room,90,1,316,2023-03-19,4.97,1,260,95,0599 7F58 E353 5B85 8931
+22366418,"Private bathroom,free-parking
+二人间,私人浴室 
+Rotterdam",163547348,Mei,Prins Alexander,Ommoord,51.96597,4.55556,Private room,33,2,109,2023-01-09,1.71,3,77,35,0599 FF93 D613 EB98 3DA3
+22420569,Studio SUIKER - Ruime design studio met terras,15905794,Marc,Overschie,Overschie,51.93933,4.42107,Entire home/apt,110,2,67,2022-11-08,1.10,1,30,14,0599 2D46 4A0D 8CC9 6DED
+22456584,Bright  room in city center,44321408,Eric,Rotterdam Centrum,Stadsdriehoek,51.92222,4.49421,Private room,49,5,37,2023-02-06,0.60,2,34,6,05993BA48E6C39E6BD80
+22460560,"Family's stay三/五人间free parking适合一家人最多五人入住,max 5",163547348,Mei,Prins Alexander,Ommoord,51.96585,4.5562,Private room,36,4,96,2022-12-30,1.50,3,221,1,0599 FF93 D613 EB98 3DA3
+22465465,Comfortabele apartment with roofterrace,3410828,Valerie,Noord,Blijdorp,51.93078,4.45685,Entire home/apt,109,7,11,2022-09-08,0.17,1,0,1,0599 64AD FEE1 074B 4F08
+22501376,"comfortable,cheap room for backpackers
+near subway",163547348,Mei,Prins Alexander,Ommoord,51.96521,4.55528,Private room,21,3,90,2023-01-03,1.42,3,179,2,0599FF93D613EB983DA3
+22540750,Luxurious apt (110m2) near the Centre of Rotterdam,165580358,Alex,Feijenoord,Kop van Zuid,51.90651,4.49589,Entire home/apt,103,5,53,2022-09-30,0.85,1,39,13,0599 BE76 3CB4 8462 EFB9
+22822923,Bed & Bike The Gardenhouse - Rotterdam,33046805,Jan Laurens,Hillegersberg-Schiebroek,Terbregge,51.95253,4.52174,Entire home/apt,90,2,143,2023-02-23,2.73,1,244,42,0599 37C5 32BE AF01 641E
+23011472,Attic room with a view over the river Maas,54968850,Gerdie,Feijenoord,Noordereiland,51.91099,4.49127,Private room,39,2,108,2023-03-24,2.61,2,243,66,0599 12CF A197 26A7 900D
+23020345,"Iconic apartment with river view, near city centre",24648407,Steef,Feijenoord,Noordereiland,51.91504,4.49534,Entire home/apt,143,2,15,2022-08-12,0.30,1,0,1,0599 2B2F 1539 F8BC C92E
+23164688,CRASH'NSTAY | Maison du Ville,152817780,Peter,Charlois,Zuidwijk,51.8746,4.49518,Entire home/apt,128,1,136,2023-03-06,2.28,1,142,24,0599 6EE3 CBDA F2A6 7795
+23641053,"beach house ""Joyce"" | near the beach",48523957,Robert,Hoek van Holland,Strand en Duin,51.989849,4.127783,Entire home/apt,54,7,36,2022-10-22,0.62,2,191,11,
+23692288,Central semiprivate floor great for solo travelers,34201668,Koko,Delfshaven,Nieuwe Westen,51.91304,4.44775,Private room,52,2,21,2022-12-23,0.34,1,0,16,0599DD9250931EF73576
+23737593,large room heart of the city   also for longterm,44321408,Eric,Rotterdam Centrum,Stadsdriehoek,51.92182,4.49426,Private room,49,10,51,2022-07-04,0.84,2,43,4,05993BA48E6C39E6BD80
+23765420,Welcome to our lovely house in Rotterdam!,178258660,Esther,Delfshaven,Nieuwe Westen,51.91633,4.44633,Entire home/apt,206,3,9,2022-08-19,0.15,1,6,5,0599 333E 9959 7575 2B93
+23877771,Spacious townhouse in Rotterdam,8350215,Vincent,Hillegersberg-Schiebroek,Hillegersberg Noord,51.94706,4.48451,Entire home/apt,235,5,7,2022-08-16,0.16,1,122,5,0599 173C 7A97 394D 7749
+24154708,Stylish apartment for the great Rotterdam getaway,98952450,Ingrid,Delfshaven,Delfshaven,51.90912,4.4498,Entire home/apt,111,3,43,2022-07-11,0.71,1,188,3,0599 1F2D A0AC 4367 1954
+24236804,A clean and cosy private studio in Rotterdam,31581715,Loc,Delfshaven,Middelland,51.91512,4.4626,Private room,65,2,116,2023-03-25,2.67,2,187,56,05992CAC64CBEA1259F0
+24236975,Luxe design appartement Rotterdam,182446106,Angela,Kralingen-Crooswijk,Kralingen West,51.92403,4.50035,Entire home/apt,90,2,198,2023-03-12,3.29,3,49,40,0599 66F8 96E2 24BC 46BA
+24362649,Boat apartment Rothor on top location (1-4 pers),4653985,Eric,Rotterdam Centrum,Stadsdriehoek,51.91996,4.49471,Entire home/apt,150,3,149,2023-03-05,2.64,2,257,53,0599B70AE638E5C31DDB
+24574941,Rotterdam Central 26th-floor Design Apartment,43591468,Lu,Rotterdam Centrum,Cs Kwartier,51.92489,4.47438,Private room,99,2,110,2022-12-21,1.87,1,325,34,0599 2ACC 6858 F130 03E7
+24727252,Boat apartment Hoop,4104827,Casper,Feijenoord,Kop van Zuid - Entrepot,51.9082,4.50196,Entire home/apt,265,2,72,2023-01-08,1.23,9,0,8,Exempt
+24869801,Private room in cozy flat,50743437,Robin,Noord,Oude Noorden,51.93189,4.48073,Private room,50,2,5,2019-11-03,0.12,1,0,0,0599 6392 8096 5C1B B672
+24957939,Family house near Historical Delfshaven,188685738,Sandra,Delfshaven,Delfshaven,51.90548,4.45201,Entire home/apt,150,2,22,2023-03-19,0.39,1,17,9,0599 B0F2 13B1 F1E8 D006
+25127319,Homely apartment with garden and bath,63049117,Mariette,Noord,Bergpolder,51.93442,4.46119,Entire home/apt,72,3,14,2022-10-05,0.24,1,0,8,0599 5106 BA67 25D9 D90A
+25525525,Cozy Oasis in Rdam with Balcony,26888885,Luca,Noord,Blijdorp,51.93054,4.46804,Entire home/apt,59,2,39,2023-03-04,0.67,1,0,10,0599 64DA C669 3F68 10AA
+25563767,Wikkelboat Nr. 2-free jacuzzi & e-bikes in centre,436284753,Wikkelboat,Rotterdam Centrum,Stadsdriehoek,51.9187,4.49042,Entire home/apt,224,1,154,2023-03-19,2.70,11,151,32,0599 3828 DC90 C9F5 D984
+26100220,"Ruime, dubbele bovenwoning in Rotterdam Kralingen!",28667732,Liesbeth-Isabelle-Joachim,Kralingen-Crooswijk,Kralingen West,51.92129,4.5093,Entire home/apt,250,2,21,2023-03-05,0.39,1,16,11,0599 D451 FE44 53C2 273B
+26389819,Heart of the City!,198438793,Simone,Rotterdam Centrum,Stadsdriehoek,51.91543,4.48076,Entire home/apt,190,3,12,2022-11-13,1.15,1,309,12,0599 34E2 6F97 A721 7AA1
+26447001,Comfortabel appartement in gallerie district,8823918,Chyta,Rotterdam Centrum,Oude Westen,51.9163,4.46491,Entire home/apt,87,8,78,2022-05-20,1.36,1,10,3,0599 08FD 3DF7 CB05 6E65
+26464181,Fancy apartment with 2 rooftop terraces,175218562,Saskia,Rotterdam Centrum,Stadsdriehoek,51.92351,4.48085,Entire home/apt,239,2,12,2022-10-30,0.21,1,164,8,0599FB89387DED743A2D
+26834243,"Perfectly central located, modern & clean city app",13011940,Aimee,Rotterdam Centrum,Cs Kwartier,51.92532,4.46802,Entire home/apt,204,3,36,2023-02-10,0.74,1,37,8,0599 021A 973A 02EB 6294
+27040061,Maria's Zoho Private Ensuite - Rotterdam,5331233,Maria,Noord,Oude Noorden,51.93094,4.47871,Private room,74,4,41,2023-01-30,1.03,1,28,14,0599 3898 9880 C514 0AE8
+27077866,Rotterdam ruim en stijlvol ingericht appartement dichtbij vliegveld Zestienhoven en Rotterdam centrum.,85607457,Martin,Overschie,Overschie,51.94296,4.42335,Entire home/apt,115,3,22,2022-08-06,0.39,1,0,5,0599 C074 9116 A700 C41A
+27082709,Nieuw ingericht appartement in Kralingen met tuin,4932763,Evelien,Kralingen-Crooswijk,Struisenburg,51.92057,4.51037,Entire home/apt,40,150,0,,,1,88,0,0599 7268 2085 1533 354F
+27239212,"monthly rent Room for 1, 2,3  pers,  showertoilet.",27986148,Jan,Delfshaven,Nieuwe Westen,51.9093,4.45353,Private room,81,2,5,2023-02-26,0.10,9,72,2,Exempt
+27599386,B&B On the Schie,186011003,Herman,Overschie,Schieveen,51.961929,4.394548,Entire home/apt,79,2,329,2023-03-01,6.06,1,0,43,0599 6CCC 1533 6E46 E0FD
+27628383,Little oase in the city,17626289,Paulien,Noord,Bergpolder,51.93606,4.46813,Entire home/apt,90,7,7,2022-08-16,0.13,1,27,2,0599776B526AD89EC7CE
+28027249,4 persons bed room.,27986148,Jan,Delfshaven,Nieuwe Westen,51.909298,4.45353,Private room,166,2,13,2019-11-03,0.25,9,90,0,Exempt
+28036246,Rotterdam Hotel Baan,27986148,Jan,Delfshaven,Delfshaven,51.90839,4.45238,Private room,145,2,0,,,9,78,0,Exempt
+28386528,"Stunning appt with big garden,shower and kitchen",19265448,Jeremy,Noord,Liskwartier,51.9405,4.47803,Entire home/apt,125,4,1,2022-10-21,0.19,1,116,1,0599 5F40 0000 DA23 A996
+28905565,Authentic City App. with peaceful garden.,217489604,Harald,Noord,Bergpolder,51.93261,4.46437,Entire home/apt,300,2,35,2022-11-26,0.65,1,0,8,0599 F80F C953 5927 DBBB
+28974921,CityHub Rotterdam!,2551509,CityHub,Rotterdam Centrum,Cool,51.91646,4.47589,Hotel room,85,1,1180,2023-03-24,21.97,1,364,506,Exempt
+29197941,Design appartement Rotterdam,182446106,Angela,Kralingen-Crooswijk,Kralingen West,51.9238,4.49993,Entire home/apt,94,2,173,2023-03-12,3.22,3,31,53,0599 66F8 96E2 24BC 46BA
+29504752,Urban corner studio in the heart of Rotterdam. Age 25+ years only!,219819481,Urban Residences,Rotterdam Centrum,Cool,51.91958,4.47926,Entire home/apt,271,2,37,2022-09-18,0.80,7,296,19,0599 8E32 17DD 390C 94A2
+29504803,Urban Apartment with panoramic Rotterdam views. Age 25+ only!,219819481,Urban Residences,Rotterdam Centrum,Cool,51.92089,4.47847,Entire home/apt,291,2,7,2019-06-20,0.13,7,302,0,0599 8E32 17DD 390C 94A2
+29504911,Urban Family Suite. Age 25+ years or families only,219819481,Urban Residences,Rotterdam Centrum,Cool,51.91978,4.47927,Entire home/apt,349,2,61,2022-11-20,1.85,7,305,29,05998E3217DD390C94A2
+29504929,Urban Apartment with panoramic views. Age 25+ only!,219819481,Urban Residences,Rotterdam Centrum,Stadsdriehoek,51.92122,4.47975,Entire home/apt,420,2,25,2022-11-30,0.47,7,285,10,05998E3217DD390C94A2
+29504987,Urban Large Apartment | panoramic views. 25+ only!,219819481,Urban Residences,Rotterdam Centrum,Cool,51.92078,4.47903,Hotel room,440,1,5,2022-10-26,0.15,7,296,4,05998E3217DD390C94A2
+29505013,Urban Penthouse w. panoramic views. Age 25+ only!,219819481,Urban Residences,Rotterdam Centrum,Cool,51.92082,4.47928,Hotel room,494,2,1,2022-03-18,0.08,7,281,0,05998E3217DD390C94A2
+29505073,Urban Large Penthouse . Age 25+ only!,219819481,Urban Residences,Rotterdam Centrum,Cool,51.91989,4.47832,Hotel room,514,2,4,2022-07-03,0.09,7,275,1,05998E3217DD390C94A2
+29679864,Dutch treat apartment,5794184,Rob,Overschie,Overschie,51.94351,4.42295,Entire home/apt,145,5,19,2023-02-17,0.37,1,0,3,0599 4D50 AD2E 35BF C959
+29960062,Room 1.0 in family house Casa Rivera,30488216,Carli,Noord,Oude Noorden,51.92675018310547,4.482180118560791,Private room,45,1,248,2023-03-25,4.68,2,16,149,0599 6F90 E276 D075 DA14
+29971449,Luxury design apartment near Rotterdam city center,2907315,Koen,Noord,Blijdorp,51.92741,4.45664,Entire home/apt,129,30,73,2023-02-08,1.38,1,86,25,0599 DD7B BD6E 3CB5 555D
+30014911,Best apartment in most vibrant street,29340357,Kick&Neda,Rotterdam Centrum,Cool,51.91551,4.47501,Entire home/apt,122,7,30,2022-03-14,0.57,11,201,0,0599 6C59 81B1 3BFC FABB
+30063122,Beautiful 1930’s en suite apartment in Rotterdam,225920389,Daan,Noord,Bergpolder,51.9332,4.46459,Entire home/apt,127,2,31,2023-03-19,0.60,1,70,12,0599 8931 7F81 FA50 1336
+30290990,Central Park - Entire Apartment,494772942,Peter,Kralingen-Crooswijk,Oud Crooswijk,51.93274,4.50172,Entire home/apt,100,2,145,2023-03-05,2.81,4,103,61,0599 4F2A 397D 7C79 CF49
+30386823,"Uniek Pension Schip in Rotterdam, Kop van Zuid",228183003,Mario,Feijenoord,Kop van Zuid,51.90465,4.48447,Private room,737,1,64,2023-03-05,1.26,2,258,14,Exempt
+30491897,"Beautyfull house, with super sweet cat.",84253207,Carmilla,Overschie,Zestienhoven,51.93966,4.43748,Entire home/apt,90,7,8,2022-08-08,0.16,1,18,2,0599 8BC6 1A9F B40F 367C
+30788101,Spacious and sunny apartment with skyline view,9266651,Tessa,Rotterdam Centrum,Stadsdriehoek,51.9214,4.49604,Entire home/apt,119,2,3,2021-12-17,0.06,2,0,0,0599 B699 102A 70F4 EBE7
+30895507,Nicest place of Rotterdam multiple rooms.,27986148,Jan,Delfshaven,Nieuwe Westen,51.91009,4.45297,Private room,91,2,0,,,9,78,0,Exempt
+30917464,Nice 2 pers.room including shower toilet,27986148,Jan,Delfshaven,Delfshaven,51.90863,4.45188,Private room,68,2,2,2021-07-31,0.06,9,86,0,Exempt
+30957876,"Cozy, artistic, vintage hotspot in populair area",134940016,Gwen,Noord,Bergpolder,51.9346,4.46715,Entire home/apt,90,21,2,2023-01-29,0.04,1,0,1,0599 6F40 8E2F 6D45 5CCC
+31079227,Rotterdam 3 persoons kamer,27986148,Jan,Delfshaven,Nieuwe Westen,51.91038,4.45272,Private room,99,2,4,2023-03-12,0.36,9,236,4,Exempt
+31131206,Charming hotel beside harbour 2 pers.,27986148,Jan,Delfshaven,Nieuwe Westen,51.90983,4.45391,Private room,81,2,13,2023-01-30,0.28,9,86,8,Exempt
+31140086,Luxury Modern Home in City Center,35307100,Coco,Rotterdam Centrum,Oude Westen,51.92051,4.47111,Entire home/apt,203,5,28,2022-11-06,0.57,5,15,12,0599 6B09 CD75 20F5 02D1
+31322845,"Modern apartment, city centre and next to the park",234471769,Maarten,Delfshaven,Middelland,51.91953,4.45681,Entire home/apt,99,2,1,2021-05-22,0.04,2,312,0,0599 7ECE 0D66 705D 35DF
+31402999,A Cosy stay in Rotterdam,235206975,Armando,Hoogvliet,Hoogvliet Zuid,51.85681,4.36023,Shared room,58,1,19,2022-11-29,0.37,1,190,6,
+31427490,Comfortable bedroom 'I' in center of Rotterdam,7601125,Brigitte,Noord,Provenierswijk,51.92621,4.47386,Private room,45,2,90,2022-11-06,1.81,2,0,22,0599 A856 6574 FFF6 BDEA
+31794556,Cosy room in the city center,34626101,Aliya,Rotterdam Centrum,Stadsdriehoek,51.91351,4.48388,Private room,81,1,2,2022-12-30,0.34,2,55,2,0599 5468 E805 EAE1 A0E9
+31926616,Bright & spacious private apartment,25937426,Boj,Delfshaven,Nieuwe Westen,51.91413,4.45092,Entire home/apt,140,3,8,2022-08-29,0.17,1,0,4,0599 CA37 22EA B02A 01C4
+32027137,Luxurious heritage lodge at lakeside - Studio 2/2,240126449,Stadsherstel Rotterdam - Ericia,Kralingen-Crooswijk,Kralingse Bos,51.93211,4.52187,Entire home/apt,118,3,166,2023-03-10,3.82,2,169,34,0599 42BA 8B7B 1099 5E6B
+32155886,Light and cosy Apartment,100487487,Daan,Charlois,Carnisse,51.8887,4.47416,Entire home/apt,70,6,7,2023-01-16,0.14,1,0,3,0599 371D F1DE 5715 D345
+32830542,Standard Studio · Standard Studio · Standard Studi,503491020,Rosalie,Kralingen-Crooswijk,Struisenburg,51.92121,4.50543,Private room,131,1,8,2022-08-27,0.17,3,259,5,Exempt
+32907729,Prachtig appartement in Blijdorp Rotterdam,144946244,Pepijn,Noord,Blijdorp,51.93006,4.45827,Entire home/apt,149,14,0,,,1,145,0,0599 6CD5 321D 4E07 1A84
+33003728,Modern and cozy central apartment,103824345,Leonardo,Noord,Bergpolder,51.93529,4.46604,Entire home/apt,95,2,14,2023-01-01,0.30,1,110,4,0599 862C A882 66E7 4B0D
+33083907,Luxurious heritage lodge at lakeside - Studio 1/2,240126449,Stadsherstel Rotterdam - Ericia,Kralingen-Crooswijk,Kralingse Bos,51.93226,4.52061,Entire home/apt,118,3,168,2023-03-08,3.87,2,150,40,0599 42BA 8B7B 1099 5E6B
+33122712,Comfortable bedroom 'B' in center of Rotterdam,7601125,Brigitte,Noord,Provenierswijk,51.92733,4.4732,Private room,40,28,39,2022-11-14,0.80,2,0,18,0599 A856 6574 FFF6 BDEA
+33512932,The James Hotel Rotterdam - Standard Double,181405884,Reservations,Rotterdam Centrum,Cool,51.92165,4.47744,Private room,169,1,107,2023-03-03,2.68,8,331,12,Exempt
+33534409,Lovely big Room  in house with great vieuw,4908529,Luna,Delfshaven,Bospolder,51.90785,4.44718,Private room,90,2,17,2022-08-22,0.36,2,275,12,ABCD 0599 D2BA B1F3 7008
+33536689,The James Hotel Rotterdam - Standard Twin,181405884,Reservations,Rotterdam Centrum,Cool,51.92193,4.4784,Private room,169,1,29,2023-01-09,0.62,8,335,15,Exempt
+33536780,The James Hotel Rotterdam - Comfort Double,181405884,Reservations,Rotterdam Centrum,Cool,51.92029,4.47761,Private room,177,1,9,2022-11-06,0.20,8,352,4,Exempt
+33536829,The James Hotel Rotterdam - Comfort Twin,181405884,Reservations,Rotterdam Centrum,Cool,51.92038,4.4781,Private room,177,1,6,2023-01-05,0.15,8,346,5,Exempt
+33536902,The James Hotel Rotterdam - Comfort Double Plus,181405884,Reservations,Rotterdam Centrum,Cool,51.92015,4.47728,Private room,186,1,1,2022-08-02,0.13,8,329,1,Exempt
+33537273,The James Hotel Rotterdam - Comfort Twin Plus,181405884,Reservations,Rotterdam Centrum,Cool,51.92232,4.47831,Private room,186,1,1,2022-09-18,0.16,8,343,1,Exempt
+33537400,The James Hotel Rotterdam - Superior Double with Guaranteed City View,181405884,Reservations,Rotterdam Centrum,Cool,51.91997,4.47854,Private room,219,1,0,,,8,341,0,Exempt
+33537557,The James Hotel Rotterdam - Junior Suite with Guaranteed City View,181405884,Reservations,Rotterdam Centrum,Cool,51.92027,4.47711,Private room,244,1,1,2019-11-17,0.02,8,345,0,Exempt
+33640413,Lovely Centrum A Location,1193642,Mesut,Rotterdam Centrum,Stadsdriehoek,51.92113,4.48496,Entire home/apt,180,5,1,2022-12-30,0.34,3,364,1,Exempt
+33669009,Cozy apartment in Kralingen close to City Center,17274290,David,Kralingen-Crooswijk,Kralingen West,51.92879,4.50651,Entire home/apt,187,3,123,2023-03-24,2.55,1,249,38,0599 1990 32C4 8DB2 FDF6
+33904675,Cottage in secluded garden near centre Rotterdam,18660354,Henrico,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.94568,4.46627,Entire home/apt,87,2,90,2023-03-23,1.90,1,138,27,0599 659F 844A E379 442F
+33921892,At Maashaven》Nice room with excellent location!,209982729,Priya,Charlois,Tarwewijk,51.89732,4.49415,Private room,53,2,16,2022-12-14,0.74,2,323,8,0599 F23A CC64 8563 A8F2
+33923384,Single room near Rotterdam Central Station,251492505,Hotel Milano,Rotterdam Centrum,Oude Westen,51.91889,4.46357,Hotel room,91,1,9,2023-03-01,0.46,5,252,8,Exempt
+33923630,Deluxe Single Room near City Centre,251492505,Hotel Milano,Delfshaven,Middelland,51.918488,4.462693,Hotel room,94,1,0,,,5,255,0,Exempt
+33924083,Deluxe twin room near Rotterdam Central Station,251492505,Hotel Milano,Delfshaven,Middelland,51.918488,4.462693,Hotel room,139,1,0,,,5,252,0,Exempt
+33924264,Triple room near Rotterdam Central Station,251492505,Hotel Milano,Delfshaven,Middelland,51.91928,4.46214,Hotel room,157,1,15,2023-02-27,0.47,5,235,9,Exempt
+33924589,Familiyroom near Rotterdam Central Station,251492505,Hotel Milano,Delfshaven,Middelland,51.918488,4.462693,Hotel room,194,1,3,2022-12-22,0.15,5,173,2,Exempt
+33932402,Historic apartment very close to city center,36362801,Maarten,Delfshaven,Middelland,51.91166,4.45824,Entire home/apt,140,3,52,2022-10-16,1.10,1,162,32,0599 8597 7FED 969E 6A22
+33986152,Urban City House - Rotterdam Centre,7416276,Tjalling,Rotterdam Centrum,Stadsdriehoek,51.91366,4.48074,Entire home/apt,275,2,24,2022-07-10,0.52,1,0,8,0599 BF81 D227 43B6 8D6D
+34081753,Bright and spacious multi-level apartment,6462386,Milou,Noord,Bergpolder,51.93302,4.46532,Entire home/apt,130,2,6,2019-10-15,0.13,1,82,0,0599 9FBF 3EEC 7B62 24D5
+34135133,Calypso at Centrum Rotterdam,1193642,Mesut,Rotterdam Centrum,Cool,51.92195,4.47136,Entire home/apt,150,7,0,,,3,351,0,Exempt
+34176722,Super Relaxed Rooftop and Upper-Living Appartment,21900516,Lee,Hillegersberg-Schiebroek,Schiebroek,51.94637,4.47017,Entire home/apt,260,2,7,2023-01-03,0.15,1,339,1,0599 2817 D26E D49A AE1F
+34273736,Warm and spacious apartment,13147992,Johan,Noord,Bergpolder,51.9356,4.46207,Entire home/apt,76,3,17,2023-02-24,0.44,1,0,5,0599 4C2B 3687 6D32 9B08
+34730319,"Room in the heart of Rotterdam, Central Station",261945423,Maria,Noord,Blijdorp,51.92755,4.45868,Private room,76,15,10,2022-12-19,0.22,2,359,3,0599 73AE 4F31 4862 FEB3
+34830480,"Rotterdam centre 10min, behind Eurovison song 2020",142786604,Cherelle,Charlois,Oud Charlois,51.89033,4.47217,Entire home/apt,500,1,14,2021-04-11,0.30,1,26,0,Exempt
+34963922,Stylish apt. in the city center + private parking!,46383924,Olga,Noord,Agniesebuurt,51.93023,4.47691,Entire home/apt,115,3,48,2023-03-19,1.04,1,28,13,0599 15CC A8B7 092E 6554
+35024683,(2-4 guests) Private apartment + 2 bikes,263851437,Loes,Noord,Blijdorp,51.93353,4.45747,Entire home/apt,130,2,17,2023-02-19,0.37,1,0,2,0599 D2AC E839 B8E6 4091
+35148753,Modern studio + two bicycles in cozy Liskwartier!,11481607,Rosanne,Noord,Liskwartier,51.93621,4.47447,Entire home/apt,114,2,134,2023-03-22,2.91,1,90,52,0599 0B2D A1A0 DEFB FDE9
+35299007,Bright Spacious Duplex Apt. Close to City Center.,21759633,Jon,Delfshaven,Middelland,51.91209,4.46241,Entire home/apt,178,3,97,2023-02-27,2.12,1,66,36,0599 B9BF 61F9 1DBD 0C1B
+35418970,Lovely Loft,29340357,Kick&Neda,Rotterdam Centrum,Cool,51.91479,4.47655,Entire home/apt,144,7,9,2020-01-11,0.20,11,223,0,0599 D07A DC85 05ED 88C8
+35427627,Museum district with bars and restaurants,29340357,Kick&Neda,Rotterdam Centrum,Cool,51.91651,4.47602,Entire home/apt,135,7,6,2020-06-20,0.13,11,328,0,0599 AB42 B0B7 E601 729E
+35573539,BEACH HOUSE Hoek van Holland JUST BEHIND THE DUNES,16412144,Aitor,Hoek van Holland,Strand en Duin,51.99074,4.12536,Entire home/apt,151,6,29,2022-08-13,0.64,1,290,7,
+35749988,City Center/Central Station (long term),55812273,Yi Jen & Junyong,Noord,Provenierswijk,51.92597,4.46934,Entire home/apt,250,7,65,2022-07-10,1.42,1,160,9,0599 4F3F 78E5 5928 B08F
+35778108,Great familyhouse with lovely waterfront garden,259344736,Dyantha,Delfshaven,Tussendijken,51.91235,4.44715,Entire home/apt,125,14,4,2020-01-03,0.09,1,0,0,0599 495C EB74 24EE 769B
+36196355,Zolderstudio in centrum Rotterdam,5869194,Esther,Delfshaven,Middelland,51.91321,4.46049,Entire home/apt,85,7,10,2023-02-04,0.22,1,241,3,0599 84BF B405 EA55 2E9F
+36197237,Quiet and central: 90m2 apartment with garden,7706526,Sabine,Noord,Blijdorp,51.9287,4.46127,Entire home/apt,140,6,10,2022-08-21,0.22,1,6,3,0599 6132 2FC5 2F72 4230
+36434180,"Light, spacious, art, green, central + 2 bikes",35491154,Don,Delfshaven,Nieuwe Westen,51.91151,4.45562,Entire home/apt,100,3,44,2023-03-06,0.99,1,4,8,0599 CFD8 ED39 6A78 00F9
+36695249,Colourful appartment in a colourful neighbourhood,101923621,Lev,Kralingen-Crooswijk,Oud Crooswijk,51.93177,4.49287,Entire home/apt,75,4,14,2022-09-10,0.32,1,0,4,0599 A7BC 2EC7 9DF3 44B8
+36753153,Classic/modern apartment in Rotterdam North.,29125023,Tessa,Noord,Oude Noorden,51.93811,4.48147,Entire home/apt,150,7,2,2020-02-19,0.05,1,0,0,0599 5842 AF6C 9F26 FB5C
+36862946,Superior · Luxourious and spacious double room,503491020,Rosalie,Kralingen-Crooswijk,Struisenburg,51.9205,4.5038,Private room,127,1,7,2021-05-24,0.16,3,246,0,Exempt
+36862952,Super Suite · Spacious and stylish downtown suite,503491020,Rosalie,Kralingen-Crooswijk,Struisenburg,51.92145,4.50372,Private room,130,1,11,2021-08-02,0.25,3,318,0,Exempt
+36961417,Amazing location - Modern designer apartment,102629640,Leonieke,Kralingen-Crooswijk,Kralingen West,51.9316,4.5078,Entire home/apt,179,7,20,2023-02-19,0.46,1,238,13,059988F327C368DC1941
+36991819,Appartment Rotterdam North,229718010,Linde,Noord,Bergpolder,51.93703,4.4646,Entire home/apt,100,2,13,2023-02-19,0.31,1,0,7,0599 B662 E033 CC3B 4228
+37190448,City center 1 floor appartment,36769461,Chantal,Delfshaven,Middelland,51.91176,4.46306,Private room,100,3,44,2022-11-29,1.36,1,32,26,0599 4B70 3F22 D3EB 7FA2
+37393699,210M2  XL Loftstyle Dreamhouse in Rotterdam Centre,141648912,Marco,Rotterdam Centrum,Oude Westen,51.9127,4.46468,Entire home/apt,595,5,21,2022-08-02,0.48,1,179,2,05998A47F5DCF8F5D4A0
+37673545,Spacious apartment in Rotterdam near city centre,21221226,Sabine,Noord,Blijdorp,51.93304,4.45916,Entire home/apt,65,4,14,2022-07-21,0.32,1,0,6,0599 7062 3200 DEF8 28B3
+37681336,Light spacious family house in quiet neighbourhood,11514046,Jort,Prins Alexander,Oosterflank,51.94366,4.55981,Entire home/apt,149,4,3,2022-08-01,0.07,1,0,2,0599 76F0 5A6C C144 2071
+37859043,Light and cosy house in green area Rotterdam.,9625303,Otto,Hillegersberg-Schiebroek,Hillegersberg Noord,51.95709,4.49448,Entire home/apt,150,4,2,2020-02-03,0.05,1,0,0,0599 8EDB C44A 3B8E 36DC
+37927500,Boatapartment Animathor on top location (1-4p),7491912,Jeanette,Rotterdam Centrum,Stadsdriehoek,51.91871,4.49492,Entire home/apt,150,3,107,2023-03-19,2.53,1,215,40,0599150600CE834B08EB
+38148657,Beletage,19894111,Arjen & Nathalie,Feijenoord,Hillesluis,51.89427,4.50981,Entire home/apt,70,2,95,2023-02-26,2.18,5,6,37,0599EA6CB84047FA222B
+38201304,Spacious Room in Lively Neighbourhood Rotterdam,290273124,P.Ruis,Prins Alexander,Het Lage Land,51.94306,4.54461,Private room,51,2,3,2021-07-27,0.07,1,0,0,0599 018B 01DD 737D 4D2A
+38212622,⭐️ Geheel appartement met uitzicht over Rotterdam,64716677,Boyd,Noord,Provenierswijk,51.92631,4.4627,Entire home/apt,103,3,11,2022-07-30,0.84,1,0,8,0599 1D7B 84BD A298 5468
+38213645,Beautiful spacious house in Rotterdam near beach,42844205,Thirza,Prins Alexander,Nesselande,51.97166,4.58839,Entire home/apt,575,1,12,2022-05-01,0.32,1,0,2,0599 8E9B 81B5 588A 99D3
+38247286,Modern house with a garden in the heart of R'dam,5666926,Egle,Rotterdam Centrum,Oude Westen,51.91803,4.46909,Entire home/apt,250,5,5,2023-01-02,0.26,1,16,3,0599 1DD0 3129 7B03 2D59
+38248482,luxurious apartment with garden near center,159480600,Pieter,Kralingen-Crooswijk,Kralingen West,51.9239,4.5052,Entire home/apt,345,3,21,2022-09-09,0.49,1,177,8,0599 72DD E355 7C91 240C
+38251530,Appartment with Garden(s) nearby CS & Centre,73221649,Joke,Noord,Blijdorp,51.92917,4.46353,Entire home/apt,600,2,0,,,1,174,0,0599 C4FE 4C88 AECD FCB8
+38260467,Luxury penthouse downtown,2794650,Sven,Rotterdam Centrum,Cool,51.91759,4.47296,Entire home/apt,230,4,0,,,1,14,0,0599 8B84 BC94 7171 FF2C
+38275804,Quiet appt with great view! 54m2,20465009,Alette,Charlois,Pendrecht,51.87439,4.46784,Entire home/apt,73,28,11,2022-10-04,0.34,1,173,3,0599 B64E 18FC 1CA3 E0F9
+38285419,"Space, comfort, not far from City, Stadium, Ahoy",291034859,Han,Feijenoord,Hillesluis,51.89477,4.50762,Entire home/apt,120,2,29,2023-03-20,0.69,1,144,9,0599 E03E 693F 7039 0C4A
+38337851,Luxurious Harbour Loft,291733004,Hans,Kralingen-Crooswijk,Struisenburg,51.92192,4.50031,Entire home/apt,287,2,2,2023-03-20,1.62,1,300,2,0599 B79D 7E96 E252 7CF4
+38370522,Net appartement met uitzicht over Rotterdam- Zuid!,26237249,Joan,Feijenoord,Vreewijk,51.88649,4.49275,Entire home/apt,180,3,3,2022-07-11,0.07,2,0,1,0599 DF33 8E64 798F D623
+38430175,Beautiful apartment near central train station,102386191,Ron,Noord,Blijdorp,51.93151,4.46508,Entire home/apt,140,4,7,2022-04-23,0.16,1,0,2,0599 FACB 21E9 C1EC 0B7D
+38447005,Very spacious and bright 3-room apartment,60622866,Fleur,Kralingen-Crooswijk,Kralingen Oost,51.92079,4.512,Entire home/apt,125,3,0,,,1,279,0,0599 EDDE C39A 5417 DC59
+38452475,"Stylish and spacious 4 person appartment, 95m2",75377335,Leonie,Noord,Blijdorp,51.92907,4.45668,Entire home/apt,99,5,3,2020-08-18,0.07,1,0,0,0599 9B42 A492 E571 5C06
+38454157,Luxurious Apartment | Modern Area | Skyline View,19526149,Bram,Delfshaven,Schiemond,51.90193,4.45788,Entire home/apt,140,3,12,2023-03-20,1.16,1,0,12,0599 5942 0DCA 2625 E161
+38459060,Stadswoning midden in Rotterdam!,302893992,Michiel,Rotterdam Centrum,Stadsdriehoek,51.91162,4.4791,Entire home/apt,139,2,16,2022-10-29,0.41,12,2,6,05991BB5CE40E4352D13
+38510612,City Center Loft Museum and Bars,29340357,Kick&Neda,Rotterdam Centrum,Cool,51.9156,4.47592,Entire home/apt,129,7,6,2022-09-01,0.14,11,0,2,0599 D91B EC1E E9FD 5891
+38658322,Good Vibes 🇳🇱 Appartement met prachtig uitzicht!,26237249,Joan,Feijenoord,Vreewijk,51.8881,4.49257,Entire home/apt,195,3,2,2023-01-01,0.25,2,9,2,0599 DF33 8E64 798F D623
+38686727,"Nice, comfortable apartment with the best view!",10426698,Jantine,Rotterdam Centrum,Stadsdriehoek,51.91386,4.4843,Entire home/apt,160,5,35,2022-07-10,0.92,1,75,6,0599 DFE2 7A89 A122 DA5A
+38698296,Rustig gelegen appartement dichtbij het centrum,18305242,Tyske,Noord,Blijdorp,51.93377,4.45908,Entire home/apt,50,1,17,2023-03-03,0.40,1,9,14,0599 2A19 6803 29B5 868B
+38721240,Cosy '30's house near Rotterdam city centre,13120541,Mandy,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.94198,4.47314,Entire home/apt,85,4,10,2022-10-01,0.25,1,0,1,0599 0C74 A718 9B7E 3BAF
+38722659,Appartment with garden next to central station,56347440,Karen,Noord,Bergpolder,51.93388,4.46536,Entire home/apt,175,2,9,2022-10-21,0.92,1,0,9,05995D65CCE216EB949C
+38723586,Luxury apartment in Rotterdam Center,37221791,Joey,Noord,Oude Noorden,51.92601,4.48377,Entire home/apt,361,4,0,,,2,62,0,0599 E5FD 6C2F 7CBF 099F
+38768481,Beautiful apartment + garden close to city centre,45623464,Jozien,Noord,Blijdorp,51.93183,4.45961,Entire home/apt,92,6,13,2023-02-02,0.32,1,0,7,0599 E676 6F00 5885 E8D1
+38795006,Ruime gerenoveerde kamer met privé dakterras.,28455159,Amber,Prins Alexander,Prinsenland,51.93117,4.54135,Private room,45,60,0,,,1,2,0,0599 C2EF 9BB5 8B56 ABC2
+38798435,"2 large bedrooms in beautiful, spacious townhouse",46875452,Ruurd En Willemijn,Hillegersberg-Schiebroek,Schiebroek,51.94661,4.46915,Entire home/apt,214,2,3,2022-08-21,0.26,1,72,3,0599 6111 3008 8B16 9EA4
+38817825,0,109593993,Anton,Hoogvliet,Hoogvliet Noord,51.8656,4.36674,Private room,1295,1,0,,,1,270,0,
+38846140,"Cosy, newly renovated bedroom",12120452,Lena,Charlois,Carnisse,51.89086,4.47591,Private room,59,2,20,2022-12-22,0.54,1,195,10,0599 86EE 9670 EF20 B7A8
+38917999,Apartment - Rotterdam City Centre - de Meent,44771883,Simone,Rotterdam Centrum,Stadsdriehoek,51.92279,4.4835,Entire home/apt,100,7,61,2023-01-20,1.49,1,23,25,0599 3EB3 9D46 38D9 9D95
+38979425,"Beautiful, spacious, romantic loft with a view",267661592,Sjoerdtje,Feijenoord,Katendrecht,51.90116,4.48734,Entire home/apt,101,2,46,2023-02-15,1.79,1,56,17,0599 8E55 B62D 7C5E 87A2
+39079436,Cosy house in Rotterdam,21478611,Esmee,Kralingen-Crooswijk,Kralingen West,51.92608,4.50772,Entire home/apt,129,2,17,2023-03-05,1.10,1,85,14,0599 59DB 83D6 6482 CF54
+39116219,The old milk factory,261632928,Leonardus,IJsselmonde,Oud IJsselmonde,51.89907,4.5452,Entire home/apt,39,2,143,2023-03-26,3.48,1,14,44,0599 0FE4 E096 F598 3A7E
+39245552,Room with tree top view and private bathroom,3540844,Astrid,Delfshaven,Nieuwe Westen,51.91407,4.45047,Private room,95,2,22,2022-11-27,0.53,1,43,16,0599 3910 7E29 7A7F 6687
+39325007,Comfy and modern apartment in the city centre,24136730,Wiwine,Rotterdam Centrum,Stadsdriehoek,51.92285,4.48386,Entire home/apt,120,3,23,2022-08-31,0.58,1,0,13,0599 A024 B6C3 3D18 5257
+39348102,Cozy room near to Central Station,261945423,Maria,Rotterdam Centrum,Cool,51.92355,4.47731,Private room,70,5,11,2022-11-17,0.26,2,365,6,0599 73AE 4F31 4862 FEB3
+39384211,Luxury apartment with garden and private pool,11633270,Antonius,Noord,Blijdorp,51.92933,4.45761,Private room,195,5,0,,,1,0,0,0599 C073 92A5 EF6F CFF9
+39390172,Pincoffs Luxury Suite with whirlpool,9244807,Edwin,Feijenoord,Noordereiland,51.91174,4.49719,Private room,315,2,1,2021-11-09,0.06,4,284,0,0599 6838 60C3 082C AC4E
+39404486,Modern decorated house in Rotterdam,293141100,Marianne,Prins Alexander,Ommoord,51.95704,4.54209,Entire home/apt,140,7,7,2023-01-26,0.22,1,0,4,0599 E1D8 8435 C47D BEBO
+39630124,Whole apartment in Rotterdam. FREE parking!,25623759,"Stefanie, Brigitte, Samantha",Prins Alexander,Het Lage Land,51.94383,4.54819,Entire home/apt,95,2,41,2023-02-04,1.00,1,0,17,0599 54F9 CFCA E641 BAB8
+39737914,Quite and spacious place in the heart of the city,11634203,Kim,Noord,Oude Noorden,51.92727,4.48237,Entire home/apt,135,28,4,2023-01-29,0.40,1,0,4,0599 127F 0BB9 A84E C716
+39814691,Lovely 1-bedroom apartment in centre of Rotterdam,55933461,Shirley,Rotterdam Centrum,Stadsdriehoek,51.92436,4.48391,Entire home/apt,104,3,5,2022-11-25,0.55,1,7,5,0599 D5B4 D8D7 4695 39A3
+40005900,Beautiful design apartment in Katendrecht,18343619,Jeroen,Feijenoord,Katendrecht,51.90068,4.48298,Entire home/apt,125,2,47,2022-08-07,1.22,1,10,5,0599 1DA4 1136 8D95 BB2B
+40080578,Spacious private room in trendy loft,210722405,Jolie,Delfshaven,Schiemond,51.90357,4.45926,Private room,75,1,104,2023-03-26,3.31,1,39,46,0599 38BF 3471 46AC 8B56
+40193777,Roomy city centre Apt with views,6920616,Onno And Rinske,Rotterdam Centrum,Cs Kwartier,51.92614,4.47624,Entire home/apt,81,28,42,2022-08-21,1.04,1,41,4,0599 3DFC 66A7 3FD4 0801
+40279473,Private Bedroom in Beautiful City Center Apartment,37653390,Mateus,Kralingen-Crooswijk,Rubroek,51.92453,4.48849,Private room,194,5,3,2022-08-23,0.10,1,39,1,0599 826C D4DB 882F BF5D
+40344582,Large comfortable family house - city center,5627758,Merel,Rotterdam Centrum,Oude Westen,51.91396,4.46393,Entire home/apt,205,14,1,2022-10-21,0.19,1,0,1,0599 DBC1 7205 9398 FF78
+40435428,Cosy apartment in BEST area R'dam city centre!,312758750,Gijs,Rotterdam Centrum,Stadsdriehoek,51.92462,4.48721,Entire home/apt,170,3,24,2022-10-30,0.73,1,0,13,0599 5F61 7C6E 7558 128E
+40529691,Comfy & compact apartment near city centre,36559029,Louise & Maarten,Delfshaven,Spangen,51.91672,4.43958,Entire home/apt,139,2,1,2020-08-05,0.03,1,0,0,0599 16D8 D03B 4F30 5619
+40565205,Quiet newly renovated flat near the city center,314322328,Christos,Noord,Blijdorp,51.93677,4.45962,Entire home/apt,169,5,0,,,1,85,0,0599 DCB3 AFEE 02A6 D133
+40599814,Heerlijk appartement midden in het centrum!,26432249,Rama,Noord,Agniesebuurt,51.92929,4.47443,Entire home/apt,64,10,4,2022-12-17,0.10,1,15,2,0599 128E 2721 1158 9084
+40600417,Luxurious Central Studio in Monumental Warehouse,15238776,Bas,Rotterdam Centrum,Nieuwe Werk,51.90794,4.47797,Entire home/apt,119,2,161,2022-10-30,4.77,1,18,35,0599 2CCF 0FA1 CB23 6A7A
+40636537,Modern & Trendy apartment near city center,182446106,Angela,Kralingen-Crooswijk,Kralingen West,51.92248,4.50726,Entire home/apt,83,2,63,2023-03-07,1.57,3,111,27,0599 66F8 96E2 24BC 46BA
+40727242,Attic retro floor in Rotterdam Zuid/Ahoy,24482474,Lia,Charlois,Oud Charlois,51.89365,4.46838,Entire home/apt,62,13,1,2019-12-18,0.03,2,176,0,0599 1133 1924 5FC4 881D
+40835614,"Nice apartment 100m2,  ideally located",94514520,Ellen,Hillegersberg-Schiebroek,Schiebroek,51.94635,4.4717,Entire home/apt,125,3,23,2023-03-12,1.09,1,32,14,0599 FD42 7162 5D9B B6F2
+40859743,Perfectly located Rotterdam apartment in Blijdorp,12485459,Kiki,Noord,Bergpolder,51.93591,4.46317,Entire home/apt,85,2,8,2021-04-01,0.23,1,0,0,0599 60E8 F469 B799 22CA
+40995331,PENTHOUSE PRISON (in) THE HEART OF ROTTERDAM,319775420,Penthouse Prison,Rotterdam Centrum,Oude Westen,51.91665,4.47269,Private room,231,1,118,2023-03-05,3.08,1,230,57,0599 0C6B C6D7 6630 FDA9
+41131153,Groot appartement in historisch Oud-Charlois,145828807,Joni,Charlois,Oud Charlois,51.89021,4.46694,Entire home/apt,99,2,37,2023-01-21,1.00,1,0,18,059923AFC1059A4586DA
+41149856,Beautiful renovated house close to the city centre,173705970,Noud,Noord,Liskwartier,51.94032,4.47056,Entire home/apt,134,2,6,2023-03-19,1.20,1,235,6,0599 E682 84B4 F965 2AC7
+41208733,Spacious and modern apartment near city centre.,38580299,Joppe,Delfshaven,Spangen,51.91439,4.43669,Entire home/apt,120,2,9,2023-02-01,0.27,1,4,4,0599 F1FF 7C1C 61D8 95A1
+41293802,Waterfront loft with City and Port view Rotterdam!,7432981,Antonio,Delfshaven,Schiemond,51.90413,4.4574,Entire home/apt,86,3,69,2022-12-28,1.80,1,0,38,059915D53F04EDA778A5
+41433990,Een herenhuis op een eiland midden in de stad.,20907549,Dua,Feijenoord,Kop van Zuid,51.9098,4.49066,Entire home/apt,169,60,5,2023-02-12,0.58,1,23,5,0599 B6BA 8FA9 7AEC 444B
+41453457,"Ruime,moderne woning in het hippe R`dam Noord",326207345,Els,Noord,Oude Noorden,51.93574,4.48338,Entire home/apt,110,2,7,2022-07-23,0.19,1,62,2,0599C97E8EFEA00F0B4C
+41489552,"Charming, comfortable house close to citycentre.",10883584,Krista,Noord,Oude Noorden,51.93754,4.48215,Entire home/apt,250,2,3,2022-09-05,0.17,1,19,2,0599 ECC4 287A DA56 8EF9
+41575899,Charming room with private bathroon,9244807,Edwin,Feijenoord,Kop van Zuid - Entrepot,51.91064,4.49776,Private room,178,1,7,2022-07-31,0.22,4,271,1,0599683860C3082CAC4E
+41601107,Private Room Nearby Ahoy and Downtown located,18903641,Shu,Feijenoord,Vreewijk,51.8895,4.50134,Private room,46,5,36,2023-03-07,0.94,4,4,19,0599 4660 F05D C378 BE28
+41640383,Verblijf tijdens Eurovision Songfestival!,328479297,Sebas,Hoogvliet,Hoogvliet Zuid,51.85727,4.35292,Entire home/apt,1000,1,0,,,1,180,0,
+41653069,Central located appartment with garden,9381499,Wim,Noord,Blijdorp,51.93128,4.45923,Entire home/apt,96,2,5,2022-12-11,0.81,1,6,5,0599 33EC 25EB 2D2F A0FA
+41764206,"Spacious townhouse, roof terrace with a view!",45441966,Martine,Rotterdam Centrum,Oude Westen,51.91677,4.46497,Entire home/apt,220,5,11,2022-10-09,0.94,2,37,11,0599 6307 016F 2136 8279
+41831638,Popeye's Cabin @ De Coaster,436284753,Wikkelboat,Rotterdam Centrum,Stadsdriehoek,51.91731,4.4862,Private room,134,1,34,2022-10-13,1.03,11,135,7,0599 3828 DC90 C9F5 D984
+41832996,"Olive's Cabin @ De Coaster, Maritiem District",436284753,Wikkelboat,Rotterdam Centrum,Stadsdriehoek,51.91718,4.48628,Private room,145,1,47,2023-03-21,1.34,11,134,21,0599 3828 DC90 C9F5 D984
+41945192,Lovely place in north Rotterdam for yourself,115006545,Erwin,Noord,Oude Noorden,51.93523,4.48443,Entire home/apt,95,8,2,2020-03-06,0.05,1,27,0,0599 AD4C 135C AA7B 2847
+41947298,Classic townhouse with nice singel views in centre,162323,Louis,Delfshaven,Nieuwe Westen,51.91207,4.45575,Entire home/apt,110,3,13,2023-01-02,0.53,1,211,6,0599 A798 6C3A C02D F287
+41968585,Private Room Nearby Ahoy and Downtown located,18903641,Shu,Feijenoord,Bloemhof,51.89089,4.49953,Private room,51,5,33,2023-01-15,1.36,4,4,21,0599 4660 F05D C378 BE28
+41971600,Apartment near Eurovision 2020 venue & city centre,243051244,Rowin,IJsselmonde,Oud IJsselmonde,51.89653,4.52321,Entire home/apt,390,4,0,,,1,173,0,0599 1479 2F87 2577 FEF8
+41983276,"Kaappark, bright parkview apartment.",34085173,Niels,Feijenoord,Katendrecht,51.90078,4.4823,Entire home/apt,75,2,89,2023-03-24,2.37,1,55,45,0599 342F 7865 6598 DD68
+41992082,Rotterdam centre skyline (min 5p),3758857,Emilie / Kris,Noord,Blijdorp,51.92829,4.45772,Entire home/apt,400,3,5,2022-07-11,0.16,1,311,3,0599 B36A 5EF8 A181 03D7
+42030206,Kid friendly design home near city centre - 131 m2,2569929,Pepijn,Kralingen-Crooswijk,Struisenburg,51.91970969354553,4.513713179994929,Entire home/apt,220,1,5,2023-01-01,0.13,1,5,3,0599 C931 07E0 3EC6 11DC
+42032640,Beautiful Apt with VIEW citycenter FREE park,333111117,John,Rotterdam Centrum,Stadsdriehoek,51.9177,4.49003,Entire home/apt,200,1,185,2023-02-19,5.00,1,286,58,Exempt
+42106740,Bright & Comfy Apartment with Spacious Garden,302893992,Michiel,Noord,Bergpolder,51.93563,4.46769,Entire home/apt,101,2,17,2022-09-24,0.52,12,1,14,0599 2747 C9AE B373 D58E
+42152127,1st floor apartment,334480302,Jeroen,Noord,Bergpolder,51.93625,4.46049,Entire home/apt,95,3,3,2022-08-08,0.37,1,0,3,0599 F587 99FE DA22 0430
+42174495,Large & Bright Cozy Beach Townhome,1733409,Whitney,Hoek van Holland,Strand en Duin,51.98986,4.13519,Entire home/apt,160,4,50,2023-02-28,1.51,1,103,21,
+42216784,Beautiful modern colonial mansion (150m2),278856023,Therese,Delfshaven,Nieuwe Westen,51.91959,4.45055,Entire home/apt,195,4,11,2022-05-30,0.29,1,0,6,0599 940B 7801 C962 5E37
+42253784,"je eigen verdieping: 
+2 kamers +badkamer+keukentje",335692286,Vincent,Charlois,Tarwewijk,51.89312,4.47906,Private room,35,1,23,2023-02-01,0.71,2,0,10,0599 7A01 2317 0D70 E00D
+42319729,City center apartment,6810047,Michael,Rotterdam Centrum,Stadsdriehoek,51.92358,4.491405,Entire home/apt,130,1,9,2022-09-22,0.93,1,0,9,0599 C68D 66CB 4DC8 A6A8
+42331022,Sfeervol jaren 20 huis met tuin nabij het centrum,80655295,Roel,Delfshaven,Nieuwe Westen,51.91968,4.45,Entire home/apt,190,3,4,2023-03-04,0.50,1,45,4,0599 F52A 682B 5500 2DBA
+42357791,Nature & city life. Your vacation & home office,17810764,Han,Noord,Blijdorp,51.93484,4.45627,Entire home/apt,97,2,11,2022-12-21,0.30,1,0,3,0599 7359 E7E2 0D96 F961
+42410280,"Knus Tinyhouse in R’dam, dichtbij het centrum!",15855950,Carola,Prins Alexander,'s-Gravenland,51.92363,4.56234,Entire home/apt,99,1,0,,,1,149,0,0599 5080 5F4E 3DD5 2713
+42577188,Chic Spacious City Apartment,323938482,Dila,Rotterdam Centrum,Cool,51.91456,4.47685,Entire home/apt,98,7,3,2021-09-30,0.08,4,65,0,0599 E348 0C27 5331 3CE7
+42642187,Authentic dyke house in Old Charlois,292824910,Ate,Charlois,Oud Charlois,51.89246,4.46498,Entire home/apt,130,3,8,2021-09-30,0.24,1,0,0,0599 1748 4F6A 3B54 2B85
+42658596,Spacious & Modern Apartment with Garden,302893992,Michiel,Noord,Bergpolder,51.93359,4.46747,Entire home/apt,119,2,18,2022-10-15,0.53,12,0,11,0599 ECF2 FC7B F37A 75F7
+42729279,Stylish Private Home in Prime Rotterdam,20218342,Linde,Noord,Provenierswijk,51.92777,4.46775,Entire home/apt,94,2,8,2023-03-15,4.21,1,4,8,0599 D88D 5124 A773 9BBE
+42735350,Authentic 30's house in the South of Rotterdam,1490519,Anne Maike,Charlois,Tarwewijk,51.89238,4.48302,Entire home/apt,100,2,52,2023-03-26,1.61,1,82,40,0599 644F 388D 1915 7CE6
+42806693,Studio with private entrance and balcony!,18138978,Jacco,Noord,Bergpolder,51.93681,4.46577,Private room,75,2,124,2023-03-19,3.64,1,32,56,0599 D774 49C9 A75D FA20
+42902571,Modern | Luxurious bathroom |  baby bed | Plants,302893992,Michiel,Noord,Agniesebuurt,51.93093,4.47803,Entire home/apt,169,2,16,2022-07-21,0.48,12,0,4,0599 8900 5FC9 F65E 817B
+43041179,171. Modern Urban Design,342537323,Denni,Rotterdam Centrum,Oude Westen,51.91372,4.46531,Private room,140,1,6,2022-07-03,0.25,3,306,1,0599 8622 7896 3B7A 013A
+43053313,Dutch River Family Cottage,269746771,Sherry,Hillegersberg-Schiebroek,Terbregge,51.95728,4.51948,Entire home/apt,148,3,52,2023-03-20,1.57,1,51,23,0599 608A 6C6C 8954 8AE7
+43058542,Serene Apartment in City Centre,342758755,D,Rotterdam Centrum,Cs Kwartier,51.92314,4.46009,Entire home/apt,90,3,41,2023-03-12,1.13,1,27,15,0599 231F F8E0 048A 1E9E
+43129921,Double Trouble,340185211,Supernova Hotel,Rotterdam Centrum,Oude Westen,51.91562,4.46426,Private room,153,1,3,2022-08-07,0.17,8,346,1,Exempt
+43129940,Double Trouble +,340185211,Supernova Hotel,Rotterdam Centrum,Oude Westen,51.91601,4.46369,Private room,158,1,47,2022-12-30,1.45,8,345,24,Exempt
+43129977,Quadruple Room,340185211,Supernova Hotel,Delfshaven,Middelland,51.91593,4.46286,Private room,248,1,13,2023-02-04,0.41,8,326,10,Exempt
+43130019,Superior room with balcony,340185211,Supernova Hotel,Delfshaven,Middelland,51.91701,4.46254,Private room,163,1,16,2022-12-30,0.50,8,334,13,Exempt
+43130041,Super Deluxe,340185211,Supernova Hotel,Rotterdam Centrum,Oude Westen,51.9167,4.46412,Private room,178,1,1,2020-07-26,0.03,8,353,0,Exempt
+43130049,Super Standard,340185211,Supernova Hotel,Delfshaven,Middelland,51.91671,4.46195,Private room,138,1,20,2022-10-27,0.61,8,321,8,Exempt
+43130067,Triple Room,340185211,Supernova Hotel,Delfshaven,Middelland,51.91532,4.46267,Private room,203,1,16,2023-03-13,0.48,8,273,7,Exempt
+43130096,Urban Oasis with terrace,340185211,Supernova Hotel,Delfshaven,Middelland,51.9169,4.46243,Private room,178,1,25,2023-03-12,0.77,8,355,10,Exempt
+43227572,"Roos appartement, dorpse sfeer in de stad",344225839,Inge & Tony,IJsselmonde,Groot IJsselmonde,51.87343,4.54646,Entire home/apt,95,2,66,2022-11-13,1.91,2,9,8,0599 C1C2 882A BAFC 0D2A
+43422167,Central garden apartment on a lush boulevard.,19998362,Tomas,Noord,Provenierswijk,51.92844,4.46861,Entire home/apt,180,4,0,,,1,8,0,0599 89C3 2ED8 56CE F2E3
+43456712,Slaap in een droom van artistiek porselein.,346441199,Gilbert,Charlois,Carnisse,51.89007,4.47919,Private room,51,1,110,2023-03-05,4.90,1,25,87,0599 0964 17D8 6FD3 C07E
+43502968,171. Special Urban Design,342537323,Denni,Delfshaven,Middelland,51.91332,4.46351,Private room,183,1,1,2021-05-16,0.04,3,307,0,0599 8622 7896 3B7A 013A
+43503221,171. Classic Urban Design,342537323,Denni,Rotterdam Centrum,Oude Westen,51.91475,4.46395,Private room,163,1,0,,,3,307,0,0599 8622 7896 3B7A 013A
+43532059,"Captain's Cabin @ De Coaster, Maritiem District",436284753,Wikkelboat,Rotterdam Centrum,Stadsdriehoek,51.91705,4.48823,Private room,130,1,72,2023-03-24,2.10,11,142,10,0599 3828 DC90 C9F5 D984
+43535387,The Coaster: Unique ship with huge terraces,436284753,Wikkelboat,Rotterdam Centrum,Stadsdriehoek,51.91693,4.48764,Entire home/apt,558,1,18,2023-03-19,0.55,11,121,12,0599 3828 DC90 C9F5 D984
+43541339,Luxury Loft City Living,323938482,Dila,Rotterdam Centrum,Cool,51.91637,4.47671,Entire home/apt,150,7,2,2022-06-27,0.13,4,74,1,0599 D37C 8EA1 5583 95A5
+43617815,Rooms on Water Group accommodation 8 persons,34928695,Moniek,Rotterdam Centrum,Stadsdriehoek,51.917213439941406,4.483367919921875,Entire home/apt,647,2,1,2021-05-02,0.04,2,158,0,Exempt
+43638250,The COOLest apartment in Rotterdam city centre,26152189,Liad,Rotterdam Centrum,Cool,51.91621,4.47875,Entire home/apt,225,2,106,2023-03-19,3.13,1,83,56,0599 4287 3C58 73EE 0471
+43692943,Authentiek Rotterdams Dijkhuisje,348988911,Annemarie,Overschie,Overschie,51.93697,4.41896,Entire home/apt,165,3,47,2022-09-11,1.43,1,65,10,0599 761A 786A E1F8 DF0B
+43882530,Comfortable room in characteristic suburban home,105771911,Marjolijn,IJsselmonde,Groot IJsselmonde,51.88259,4.54356,Private room,80,1,37,2023-03-12,1.19,1,184,28,05993062BB9EF403B77A
+44178675,Pension schip MLV Castor,228183003,Mario,Feijenoord,Kop van Zuid,51.90353,4.48507,Private room,57,1,0,,,2,62,0,Exempt
+44300121,Light Spacious Home Close to City Center,2176855,Federico,Noord,Bergpolder,51.93479,4.46818,Entire home/apt,150,5,2,2022-08-24,0.10,1,53,1,0599 C235 82B2 485B 4AC5
+44309254,Roof terrace | Spacious & Modern | Rotterdam style,302893992,Michiel,Noord,Liskwartier,51.93354,4.472,Entire home/apt,229,2,14,2022-10-23,0.43,12,0,6,0599 8e33 ab03 3597 8b1d
+44788663,Beach house nabij zee én bos!,88656506,Paula,Hoek van Holland,Strand en Duin,51.99353,4.12907,Entire home/apt,120,5,6,2021-08-26,0.19,2,0,0,
+45130010,Enjoy Rotterdam,186376672,Kamil,Charlois,Oud Charlois,51.88836,4.47019,Private room,58,1,61,2023-03-05,1.97,2,40,36,0599 2AFC C2BD 01EB 2412
+45311573,Houseboat at a unique location in Rotterdam!,14847029,Amber En Robert,Noord,Blijdorp,51.93544,4.45728,Entire home/apt,188,2,47,2022-10-05,1.58,1,67,22,0599 4A66 4720 C40A ECFF
+45342531,Corner King Room,365217950,Bianca,Noord,Agniesebuurt,51.9293,4.47502,Private room,107,1,3,2022-07-18,0.15,12,360,2,Exempt
+45345145,Rotterdams Stadshuis met zonnige tuin,46736017,Robbert,Hillegersberg-Schiebroek,Schiebroek,51.96253,4.4687,Entire home/apt,310,7,3,2022-12-16,0.15,1,338,2,0599 E304 8BEB 9697 9FE4
+45357804,"Architect's Hideout. Bright, Comfy, Central Luxury",234684765,Fien,Delfshaven,Middelland,51.91655,4.45752,Entire home/apt,140,2,179,2023-03-26,5.82,2,38,81,0599 BCD2 F0E7 336D 5EF1
+45359058,"Architect’s Apartment. Central, Spacious, Luxury.",234684765,Fien,Delfshaven,Nieuwe Westen,51.91831,4.45618,Entire home/apt,125,2,140,2023-03-12,4.71,2,34,79,0599 BCD2 F0E7 336D 5EF1
+45438398,Tiny Coconut Beachhut at Hoek van Holland,9733671,Jin,Hoek van Holland,Strand en Duin,51.99429,4.13148,Entire home/apt,99,4,9,2022-09-26,0.46,1,322,7,
+45481648,Cosy hostel in city center Rotterdam,10090607,ROOM (Hostel),Rotterdam Centrum,Nieuwe Werk,51.90854,4.47811,Shared room,39,1,32,2023-02-21,1.29,1,234,18,Exempt
+45514219,Design-savvy home with garden in Central Rotterdam,11067740,Titia,Noord,Oude Noorden,51.93828,4.48004,Entire home/apt,129,7,0,,,1,72,0,0599 046B 9F5B 8BD3 E5C6
+45552823,Heerlijk slapen in Historische Scheepvaartkwartier,91765754,Erica,Rotterdam Centrum,Nieuwe Werk,51.90682,4.47927,Private room,100,2,0,,,2,0,0,0599FE8281EA240DA506
+45555469,Volledig Schip te huur Historische Veerhaven,91765754,Erica,Rotterdam Centrum,Nieuwe Werk,51.90697,4.48077,Entire home/apt,521,2,11,2023-02-12,0.66,2,41,10,0599 FE82 81EA 240D A506
+45723249,"Boat-apartment Fokkelina, Rotterdam city center",4104827,Casper,Feijenoord,Kop van Zuid - Entrepot,51.90691,4.50467,Entire home/apt,395,1,15,2023-03-24,0.82,9,316,14,Exempt
+45754145,rustig appartement voor lang verblijf,335692286,Vincent,Charlois,Tarwewijk,51.89155,4.4789,Private room,35,14,12,2023-03-03,0.44,2,0,6,05997a0123170d70e00d
+45838500,"Boat-apartment Stormvoge,l Rotterdam city center",4104827,Casper,Feijenoord,Kop van Zuid - Entrepot,51.90753,4.50459,Entire home/apt,265,1,0,,,9,85,0,Exempt
+45838633,"Boat-hotel  Anna 4 pers, Rotterdam city center",4104827,Casper,Feijenoord,Kop van Zuid - Entrepot,51.9087,4.50045,Entire home/apt,148,1,1,2021-10-29,0.06,9,0,0,Exempt
+46129295,Top Location | Skyline View | Playful Interior,302893992,Michiel,Rotterdam Centrum,Cs Kwartier,51.9242,4.47621,Entire home/apt,199,5,14,2023-02-02,0.49,12,84,1,0599 A0D3 D11E 6204 C7F9
+46343951,Modern big house,24555934,Paul,Overschie,Zestienhoven,51.94664,4.45528,Entire home/apt,125,14,1,2023-03-07,1,1,155,1,0599 95D9 4781 FD9D 2827
+46427571,Sfeervol huis op een top locatie in Rotterdam,260148673,Drazenka,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.94521,4.48192,Entire home/apt,280,2,7,2022-08-20,0.83,1,37,7,0599 1E0E F644 E9E7 23ED
+46543224,Country in the City,29340357,Kick&Neda,Rotterdam Centrum,Cool,51.91671,4.476,Entire home/apt,215,7,5,2022-09-13,0.20,11,240,4,0599 4FF1 1CCC B1CD A466
+46708693,Ground floor apartement very close to the center.,208435553,Rawand,Feijenoord,Bloemhof,51.89098,4.49514,Entire home/apt,140,5,7,2022-08-23,0.40,1,0,2,0599 9C1A F5CF BBD4 7253
+47022150,Banier Apartment,29340357,Kick&Neda,Noord,Agniesebuurt,51.93073,4.47257,Entire home/apt,185,7,0,,,11,0,0,0599 7E6D FDE9 02EF 0E83
+47282796,souterrain met sauna en gratis parkeren,5915476,Maarten,Hillegersberg-Schiebroek,Schiebroek,51.95742,4.47843,Private room,80,2,40,2023-03-05,1.49,1,135,29,0599 23FA B05E 3FCA 07BA
+47400226,"Loft D&A, Ruime design loft in bruisend Rotterdam.",12794324,Anique,Delfshaven,Nieuwe Westen,51.91212,4.45401,Entire home/apt,120,2,21,2022-12-11,0.85,1,14,18,05994882ACA8BB1BE619
+47813786,Spacious Modern Loft in historic Delfshaven!,53849438,Maurits,Delfshaven,Delfshaven,51.90487,4.45643,Entire home/apt,100,3,9,2022-07-18,0.60,1,105,8,0599 BF74 3D40 C27E B8A4
+47961321,Cozy room Rotterdam center,386597913,Judy,Rotterdam Centrum,Stadsdriehoek,51.91724,4.48086,Private room,40,13,29,2022-12-20,1.34,2,3,10,0599EEFACF24D4C18A9E
+48009935,cosy guestroom with a canal view,5587475,Jochem,Noord,Oude Noorden,51.93045,4.48002,Private room,55,3,26,2023-03-26,1.21,1,47,15,0599 5F15 95D1 A706 3563
+48113604,Design apartment in the heart of Rotterdam,9178947,Marieke,Delfshaven,Middelland,51.91328,4.46142,Entire home/apt,116,5,101,2023-03-23,4.03,2,127,45,0599 75A9 ABD9 FF7C 7865
+48114904,Spacious and bright apartment in heart of the city,9178947,Marieke,Delfshaven,Middelland,51.91332,4.46313,Entire home/apt,126,5,120,2023-03-22,4.80,2,84,58,0599 75A9 ABD9 FF7C 7865
+48340852,Great apartment near city centre,51464471,Ali,Delfshaven,Nieuwe Westen,51.91975,4.45184,Entire home/apt,400,4,0,,,1,241,0,0599 F03F 1647 61FE 18CE
+48439261,Roof terrace with skyline view + parking garage,135070779,Steffan,Kralingen-Crooswijk,Nieuw Crooswijk,51.93768,4.49749,Entire home/apt,250,7,5,2022-05-06,0.21,1,0,1,0599 5009 D6FF FB7B ED30
+48578061,Private room with a lovely view and kitchen zone.,90270152,Oleksandra,Delfshaven,Nieuwe Westen,51.91006,4.45334,Private room,62,1,13,2023-03-19,0.59,1,22,9,0599 E6A8 9884 AEBD 427A
+48584182,Mr.Lewis Rotterdam - Superior King Suite,230017566,Mr. Lewis | Boutique Hotel,Delfshaven,Nieuwe Westen,51.91817,4.45544,Private room,131,1,1,2022-09-15,0.15,14,89,1,Exempt
+48584655,Mr.Lewis Rotterdam - Junior Suite,230017566,Mr. Lewis | Boutique Hotel,Delfshaven,Nieuwe Westen,51.91981,4.45536,Private room,120,1,1,2023-02-26,1,14,119,1,Exempt
+48585074,Mr.Lewis Rotterdam - Standard Double Room,230017566,Mr. Lewis | Boutique Hotel,Delfshaven,Nieuwe Westen,51.919067,4.455818,Private room,111,1,1,2021-10-24,0.06,14,149,0,Exempt
+48585215,Mr.Lewis Rotterdam - Standard Double Room,230017566,Mr. Lewis | Boutique Hotel,Delfshaven,Middelland,51.91988,4.45695,Private room,111,1,2,2023-02-12,0.68,14,149,2,Exempt
+48585308,Kamer 5 Rotterdam · Kamer 5 Rotterdam · Kamer 5...,230017566,Mr. Lewis | Boutique Hotel,Delfshaven,Nieuwe Westen,51.91964,4.45507,Private room,120,1,0,,,14,119,0,Exempt
+48585409,Mr.Lewis Rotterdam - Junior Suite,230017566,Mr. Lewis | Boutique Hotel,Delfshaven,Nieuwe Westen,51.9194,4.45557,Private room,120,1,0,,,14,119,0,Exempt
+48585680,Kamer 7 Rotterdam · Kamer 7 Rotterdam · Kamer 7...,230017566,Mr. Lewis | Boutique Hotel,Delfshaven,Nieuwe Westen,51.91931,4.45538,Private room,111,1,0,,,14,149,0,Exempt
+48586209,Mr.Lewis Rotterdam - Standard Double Room,230017566,Mr. Lewis | Boutique Hotel,Delfshaven,Nieuwe Westen,51.9187,4.45484,Private room,111,1,1,2022-08-25,0.14,14,149,1,Exempt
+48586269,Kamer 9 Rotterdam · Kamer 9 Rotterdam · Kamer 9...,230017566,Mr. Lewis | Boutique Hotel,Delfshaven,Middelland,51.91846,4.45685,Private room,120,1,3,2023-02-19,1.02,14,119,3,Exempt
+48586784,Mr.Lewis Rotterdam - Small Standard Double Room,230017566,Mr. Lewis | Boutique Hotel,Delfshaven,Nieuwe Westen,51.91942,4.45523,Private room,110,1,1,2022-12-16,0.29,14,175,1,Exempt
+48586889,Mr.Lewis Rotterdam - Small Standard Double Room,230017566,Mr. Lewis | Boutique Hotel,Delfshaven,Nieuwe Westen,51.91878,4.45483,Private room,108,1,1,2022-05-28,0.10,14,175,1,Exempt
+48587055,Mr.Lewis Rotterdam - Standard Double Room,230017566,Mr. Lewis | Boutique Hotel,Delfshaven,Nieuwe Westen,51.91931,4.45478,Private room,111,1,2,2023-02-11,0.27,14,149,2,Exempt
+48587126,Mr.Lewis Rotterdam - Standard Double Room,230017566,Mr. Lewis | Boutique Hotel,Delfshaven,Nieuwe Westen,51.91805,4.45556,Private room,111,1,2,2022-09-03,0.28,14,149,2,Exempt
+48587255,Mr.Lewis Rotterdam - Small Standard Double Room,230017566,Mr. Lewis | Boutique Hotel,Delfshaven,Nieuwe Westen,51.91886,4.45555,Private room,108,1,2,2022-08-27,0.27,14,175,2,Exempt
+48617755,Spacious luxury apartment next to Central Station,35307100,Coco,Rotterdam Centrum,Cs Kwartier,51.92287,4.47071,Entire home/apt,208,2,34,2023-02-24,1.52,5,68,25,0599 2F1E FD2F B467 5203
+48626995,Spacious family house with garden in city centre,27959278,Juul,Noord,Blijdorp,51.93056,4.46121,Entire home/apt,264,2,16,2023-02-05,0.70,1,98,9,0599 1EDA C5D9 0C11 2B99
+48911588,Big one bedroom apartment + backyard,51980496,Tim,Noord,Blijdorp,51.92629,4.45681,Entire home/apt,75,4,0,,,1,0,0,0599 3E9D EE26 B993 AC1E
+49106401,Romantic living in tidal rivier,22675595,Thomas,Feijenoord,Feijenoord,51.91129,4.50758,Entire home/apt,177,5,8,2023-02-27,0.46,1,30,6,05996F65B64143A9BDC6
+49156294,"Cozy room near  Rotterdam ""AHOY "" and  ""Zuidplein""",386597913,Judy,Charlois,Carnisse,51.88944,4.48397,Private room,35,5,33,2023-03-18,1.47,2,93,23,0599876aaeb566e32224
+49432564,Trendy Studio Rotterdam Center,169861834,Daniel,Rotterdam Centrum,Dijkzigt,51.91142,4.47626,Entire home/apt,242,2,28,2023-03-05,1.22,1,295,14,0599 DC5D 9B85 4F7E 73BB
+49433616,Serene modern apartment,103579542,Arno,Kralingen-Crooswijk,De Esch,51.907066422382655,4.522440768778324,Entire home/apt,129,21,4,2023-01-17,0.74,1,222,4,0599 19CA E30D 94EE F695
+49541034,Historic and bright apartment in lively Rotterdam,35787370,Sara,Delfshaven,Nieuwe Westen,51.92038,4.4495,Entire home/apt,165,5,7,2022-08-16,0.31,1,5,3,0599 4969 3BD0 91B2 96EA
+49545685,Moderne en stijlvolle kamer met een privé badkamer,30606295,Bouke,Charlois,Oud Charlois,51.88939,4.4702,Private room,75,1,12,2021-11-07,0.53,1,0,0,05996441501FDD800348
+49556602,Sweet Banier Apartment,29340357,Kick&Neda,Noord,Agniesebuurt,51.93149,4.47425,Entire home/apt,105,7,0,,,11,259,0,0599 F72C 4AD4 373A BA48
+49593599,River ArtHouse - unique apartment with the view,14313773,Katarzyna,Delfshaven,Tussendijken,51.91451,4.44558,Entire home/apt,108,3,19,2023-02-09,0.87,1,54,12,0599 279A 8B41 8B3C 020B
+49632557,Bohemian apartment with garden in Rotterdam,15209726,Sabine,Feijenoord,Noordereiland,51.90972,4.48932,Entire home/apt,150,2,22,2023-01-12,0.97,1,117,10,0599 65FB AF58 BAC2 541F
+49771149,Privekamer in rustige en vriendelijke omgeving.,48457614,Peter,Prins Alexander,Ommoord,51.9553,4.5539,Private room,35,1,56,2022-12-21,2.85,1,0,35,0599 14C0 DB40 E238 619B
+49795816,Midtown Rotterdam Duo Deluxe,128826790,Natasja & Mylan,Rotterdam Centrum,Stadsdriehoek,51.92445,4.47772,Entire home/apt,96,2,48,2023-03-15,2.31,4,302,29,Exempt
+49795820,Midtown Duo Private Rotterdam,128826790,Natasja & Mylan,Rotterdam Centrum,Cs Kwartier,51.9262,4.47619,Entire home/apt,92,2,28,2023-03-26,1.26,4,295,15,Exempt
+49795828,Midtown Family & Friends Room,128826790,Natasja & Mylan,Rotterdam Centrum,Cs Kwartier,51.9253,4.4756,Entire home/apt,121,2,12,2023-03-11,0.58,4,292,8,Exempt
+49795831,Midtown Erasmus Royal Room,128826790,Natasja & Mylan,Rotterdam Centrum,Stadsdriehoek,51.9246,4.47785,Entire home/apt,122,2,29,2023-03-26,1.29,4,187,14,Exempt
+49845732,Kom tot rust op de fantastische Nieuwe Binnenweg,401995037,Dyaj,Delfshaven,Middelland,51.913418,4.460607,Entire home/apt,110,2,13,2022-02-13,0.61,1,0,0,0599 ECB3 AD98 23CC FCC9
+49942363,Cozy Apartment next to Waterfront on Noordereiland,8807195,Michael,Feijenoord,Noordereiland,51.91629,4.5029,Entire home/apt,120,2,70,2023-03-21,3.17,1,0,33,0599 21CD EA4C C7EE 6E9A
+49976410,Bel-Etage in the city Center,26899206,Kees,Rotterdam Centrum,Oude Westen,51.91357,4.46458,Entire home/apt,80,2,61,2023-03-19,3.10,2,215,41,0599 9599 9618 E789 DA19
+50077576,Beautiful apartment - City centre - Park sided,234471769,Maarten,Delfshaven,Middelland,51.91747,4.45594,Entire home/apt,131,5,4,2022-10-22,0.36,2,167,4,0599 7ECE 0D66 705D 35DF
+50115778,View point Erasmus bridge Rotterdam,145330787,Michelle,Feijenoord,Kop van Zuid,51.90959,4.48863,Entire home/apt,145,2,9,2022-09-30,1.05,1,0,9,0599 BDDF 0898 82A9 AE21
+50134503,Cosy 160 m2 family townhouse close to Ahoy,130107935,Harriet,Charlois,Carnisse,51.89,4.48065,Entire home/apt,90,3,3,2022-10-31,0.14,1,0,1,0599 7B1C FE0C E71F 229F
+50195938,J20House - 2 person downtown Rotterdam canal apt.,405133053,Jules,Rotterdam Centrum,Stadsdriehoek,51.92386,4.48415,Entire home/apt,83,2,22,2023-01-04,1.07,1,11,12,0599 668F B217 B5CB 8A0E
+50219873,Cosy & quiet apartment in the heart of Rotterdam,14682240,Loredana,Rotterdam Centrum,Cool,51.91887,4.47528,Entire home/apt,264,2,18,2022-09-08,1.01,1,6,8,0599 823C 85D2 7EF1 8C6C
+50243114,Skyline view apartment in Blijdorp,15340056,Ruud,Noord,Blijdorp,51.93204,4.46282,Entire home/apt,103,1,32,2022-09-01,1.50,1,0,11,0599 4E11 8E7E 8C6E C215
+50285307,Garden side studio,19894111,Arjen & Nathalie,Feijenoord,Hillesluis,51.89468,4.50866,Entire home/apt,75,2,67,2023-02-10,3.15,5,22,43,0599EA6CB84047FA222B
+50361669,Paradise in the making,3777146,Gaspard,Delfshaven,Middelland,51.91683,4.45795,Entire home/apt,80,21,4,2022-05-28,0.20,1,0,1,0599 76E3 CA3E EC8B 78F6
+50449555,rustige comfortabel woning met open haard en grote zonnige tuin nabij park en centrum Rotterdam,352667119,Annemarie,IJsselmonde,Groot IJsselmonde,51.89373,4.53764,Entire home/apt,200,2,9,2023-03-06,0.43,1,90,7,0599E4ED1D2E17834E7D
+50495155,Beautiful apartment Rotterdam,143541180,Jasmijn,Noord,Blijdorp,51.9308,4.46428,Entire home/apt,80,10,3,2023-01-13,0.15,1,5,2,0599 41CC 29C2 2AAE 9F17
+50497434,Lovely 2 bedroom appartement in Rotterdam city center,204684680,Jori,Rotterdam Centrum,Stadsdriehoek,51.92184,4.49047,Entire home/apt,140,7,2,2022-08-26,0.18,1,0,2,0599 96F9 A093 E7D3 7F63
+50512889,TJ - Beautiful Styled Apartment w/ Garden,84598160,Thico,Noord,Oude Noorden,51.93414,4.47964,Entire home/apt,99,30,10,2022-12-14,0.49,4,122,4,0599 1EAA 2E7B FFB5 6C5D
+50532136,quiet 1930's apartment with lovely garden,228103236,G.,Noord,Bergpolder,51.93279,4.46334,Entire home/apt,75,1,12,2022-07-11,0.58,1,146,3,0599 5EC3 F9AC 8A72 3D33
+50553179,Heerlijke dubbele kamer op uitstekende locatie,220877398,Renè,Kralingen-Crooswijk,Kralingen Oost,51.92176,4.51257,Private room,49,2,25,2022-11-28,2.47,1,61,25,0599 48FF D948 3C3F 1E39
+50572234,Nieuw: Wikkelboat 2 @ Floating Rotterdam Rijnhaven,436284753,Wikkelboat,Feijenoord,Kop van Zuid,51.90315,4.48568,Entire home/apt,207,1,80,2023-03-19,3.88,11,133,58,Exempt
+50573678,Nieuw: Wikkelboat 1 @ Floating Rotterdam Rijnhaven,436284753,Wikkelboat,Feijenoord,Katendrecht,51.90295,4.48458,Entire home/apt,210,1,45,2023-03-12,2.16,11,122,25,Exempt
+50573939,Nieuw: Wikkelboat 4 @ Floating Rotterdam Rijnhaven,436284753,Wikkelboat,Feijenoord,Kop van Zuid,51.90523,4.4883,Entire home/apt,234,1,28,2023-02-20,1.36,11,148,11,Exempt
+50574474,Nieuw: Wikkelboat 5 @ Floating Rotterdam Rijnhaven,436284753,Wikkelboat,Feijenoord,Kop van Zuid,51.90433,4.48862,Entire home/apt,327,1,43,2023-03-20,2.11,11,125,22,Exempt
+50610397,Cosy house on the river!,6882801,Hedi,Hillegersberg-Schiebroek,Terbregge,51.95415,4.51879,Entire home/apt,350,3,8,2023-01-06,0.40,1,141,6,0599 FB3B C6D4 6798 8497
+50851478,Stay rental close to Kralingse plas,314697316,Anne Lieke,Prins Alexander,Prinsenland,51.93145,4.54627,Entire home/apt,90,31,9,2023-01-07,0.45,2,279,2,0599 DA82 841E E5D9 F7DA
+50886836,Pitorestic place with beautiful garden.,6549084,Laurens,Noord,Blijdorp,51.93173,4.45976,Entire home/apt,140,3,4,2021-09-11,0.20,1,146,0,0599 CA87 E1B0 FBA1 389D
+50950859,Gezellig huisje achter het strand,88656506,Paula,Hoek van Holland,Strand en Duin,51.99506,4.12812,Entire home/apt,90,4,0,,,2,0,0,
+51099065,Mr. & Mrs. Honeywell's Loft,32107258,Geert-Jan,Rotterdam Centrum,Oude Westen,51.92152,4.46384,Entire home/apt,95,1,9,2022-12-25,0.45,2,0,6,ABCD 1234 AB12 89EF A0F9
+51263921,FDhotels Rotterdam,415086421,Antonio,Rotterdam Centrum,Dijkzigt,51.91417,4.47457,Private room,112,1,32,2023-03-22,1.58,3,53,23,Exempt
+51497979,Stylish house with private garden,35307100,Coco,Noord,Liskwartier,51.93702,4.46949,Entire home/apt,150,10,5,2022-06-19,0.28,5,0,1,0599 1A25 D1E1 8D02 7143
+51521537,Spacious and modern apartment in the city centre,40146037,Rosana,Rotterdam Centrum,Stadsdriehoek,51.92317,4.48533,Entire home/apt,100,2,14,2022-09-04,0.71,1,4,12,0599 4625 14D9 C826 7117
+51601614,TJ - Elegant Expat Apartment w/ a Terrace,84598160,Thico,Noord,Oude Noorden,51.93226,4.48036,Entire home/apt,90,30,8,2023-02-10,0.52,4,210,6,0599 04A8 F068 AF54 5DE4
+51668881,TJ - Comfortable Expat City Apartment,84598160,Thico,Noord,Oude Noorden,51.93544,4.48264,Entire home/apt,90,30,1,2022-12-07,0.27,4,299,1,0599 9071 F028 2918 C3F0
+51758467,World Travelers Apartment Economy Plus,80550302,Song,Kralingen-Crooswijk,De Esch,51.90811,4.52243,Private room,39,2,6,2022-08-18,0.32,3,30,4,0599 9615 F3F1 32C3 8FBE
+51777116,Rotterdam City center Double room,415086421,Antonio,Rotterdam Centrum,Dijkzigt,51.91266,4.47075,Private room,96,1,9,2023-03-14,2.05,3,74,9,Exempt
+51815814,"City center street view 
+Double room Boxspring",415086421,Antonio,Rotterdam Centrum,Dijkzigt,51.91251,4.46952,Private room,111,1,5,2023-03-01,1.35,3,48,5,Exempt
+51821833,Sfeervolle tussenwoning met stadstuin,136781250,Hans,Delfshaven,Nieuwe Westen,51.92184,4.44795,Entire home/apt,150,2,2,2022-10-18,0.36,1,86,2,0599f73007dcd9eca14e
+51917789,Stunning luxury apartment great waterview centre,74646936,Judy,Rotterdam Centrum,Stadsdriehoek,51.91276,4.48719,Entire home/apt,245,3,13,2023-01-03,0.78,1,223,11,0599 683c 5e76 899e c1ae
+52128419,Lovely 1-bedroom flat in Rotterdam centrum,422035800,Dalibor & Irena,Delfshaven,Middelland,51.92209,4.45723,Entire home/apt,163,3,44,2023-02-24,2.35,1,28,33,05998E587666AFF40979
+52135698,Relaxing view of the park close to Kralingse plas!,314697316,Anne Lieke,Prins Alexander,Prinsenland,51.93307,4.54673,Private room,90,21,7,2022-05-29,0.50,2,304,5,0599 DA82 841E E5D9 F7DA
+52157525,Cosy studio close to city centre,188015921,Ewout,Noord,Provenierswijk,51.92746,4.47408,Entire home/apt,71,2,14,2023-03-21,2.84,1,101,14,0599 AB81 012E 8CEF BDB8
+52236167,Luxe vier kamer appartement met uitzicht op groen,73328862,Linda,Hillegersberg-Schiebroek,Molenlaankwartier,51.96097,4.50911,Entire home/apt,95,30,7,2022-11-16,0.43,1,3,6,0599 4061 8969 9270 F394
+52379702,"Sfeervol guesthouse, privé tuin en free parking",36519040,Kristel,Noord,Oude Noorden,51.94043,4.48285,Entire home/apt,87,2,91,2023-03-19,5.05,2,91,71,0599 039A B887 B7B0 D733
+52399517,loft met gezellig terras in authentiek herenhuis,192131834,Jolien,Noord,Oude Noorden,51.93533,4.47887,Entire home/apt,192,2,24,2023-03-12,2.37,1,37,24,0599 D024 7B3F F034 F74F
+52450655,Luxurious Loft  in Rotterdam Centre,39117262,William,Rotterdam Centrum,Stadsdriehoek,51.9246,4.48629,Entire home/apt,141,2,40,2022-05-29,2.25,1,0,12,0599 4540 1673 D004 5715
+52453200,Luxurious Japandi  Room,149149359,Dimitrios,Prins Alexander,Zevenkamp,51.96161,4.56654,Private room,79,1,34,2023-03-22,1.88,1,282,17,0599 2972 4E68 31A4 A0D0
+52590893,Private Room Nearby Ahoy and Downtown located,18903641,Shu,Feijenoord,Bloemhof,51.89041,4.501,Private room,65,3,0,,,4,83,0,ABCD 1234 AB12 89EF A0F9
+52630944,"Gewilde 4-laags woning Kop van Zuid, nabij centrum",411196156,Juriën,Feijenoord,Kop van Zuid - Entrepot,51.90699,4.50454,Entire home/apt,275,2,24,2023-03-05,1.83,1,79,22,0599 C99A 694D 58EB 7321
+52807307,Nieuw: Wikkelboat 3 @ Floating Rotterdam Rijnhaven,436284753,Wikkelboat,Feijenoord,Kop van Zuid,51.90392,4.48638,Entire home/apt,264,1,73,2023-03-06,4.35,11,142,56,Exempt
+52861263,Family room with private bathroom and entrance 6p.,131630024,Sinbad,Rotterdam Centrum,Cool,51.91681,4.47846,Private room,210,2,16,2023-01-27,0.94,10,60,13,Exempt
+52868202,"Light, comfortable appartment near central station",428035836,Jeroen,Noord,Bergpolder,51.93216,4.46515,Entire home/apt,68,3,15,2023-03-17,0.89,1,89,13,0599 2406 FCB7 34D5 CA21
+52901589,A quiet room with office space,77154783,Karen,Prins Alexander,Ommoord,51.95766,4.53016,Private room,62,7,2,2022-08-01,0.18,3,264,2,0599 5535 944E 6439 E879
+52945570,Luxery condo stunning view in centre of Rotterdam,99481385,Lauren,Rotterdam Centrum,Stadsdriehoek,51.91395,4.48499,Entire home/apt,275,2,2,2021-11-05,0.12,1,220,0,0599 0918 AC40 3627 EECE
+52948475,Lovely 1-bedroom condo in Rotterdam,16852967,David,Noord,Bergpolder,51.93435,4.46692,Entire home/apt,140,30,4,2022-09-08,0.25,1,362,1,0599 59AF FBE6 2357 0B1B
+52977512,Cocondo,428908172,Peter,Hoek van Holland,Strand en Duin,51.98879,4.12083,Entire home/apt,152,2,4,2022-08-19,0.25,1,14,2,
+52999311,Private room for women in Rotterdam city center,429057911,Adelaide Lala,Kralingen-Crooswijk,Rubroek,51.9259,4.48982,Private room,70,1,3,2023-03-02,0.51,1,44,3,0599 6BA6 94EA 6821 26D1
+53012336,Unique apartment with free parking for rent,231449239,Tenecha,Feijenoord,Kop van Zuid,51.906963,4.497731,Entire home/apt,180,2,21,2023-01-08,1.42,1,233,17,0599 D8E3 239E 522A 230C
+53047321,Spacious hotel room (witte de withstraat),131630024,Sinbad,Rotterdam Centrum,Cool,51.91494,4.4779,Private room,210,1,17,2023-01-08,1.02,10,56,15,Exempt
+53148917,Private bedroom 10 min walk to central station,1197439,Shiming,Delfshaven,Middelland,51.91946,4.46253,Private room,45,2,48,2023-03-26,2.86,2,3,35,0599 E2AC 2689 05B2 BDA2
+53170115,2-bedroom condo 10-min walk from Central station,1197439,Shiming,Delfshaven,Middelland,51.92073,4.46285,Entire home/apt,82,4,16,2023-03-20,0.99,2,1,11,0599 E2AC 2689 05B2 BDA2
+53205588,Hostel witte de withstraat...(6 max),131630024,Sinbad,Rotterdam Centrum,Cool,51.91515,4.47702,Shared room,41,1,6,2022-12-20,0.36,10,58,5,Exempt
+53217954,Luxury hotel room.. own bathroom and entrance,131630024,Sinbad,Rotterdam Centrum,Cool,51.91548,4.47673,Private room,202,1,22,2023-01-09,1.36,10,46,20,Exempt
+53226251,Bright studio in city center,264920920,Lanny,Kralingen-Crooswijk,Rubroek,51.92548,4.48632,Entire home/apt,101,2,5,2023-03-11,0.52,1,18,5,0599 3D3B 85A8 EC46 4AAB
+53269260,stylish 30s apartment with canal view!,14558672,Elise,Delfshaven,Tussendijken,51.9146,4.44544,Entire home/apt,119,3,9,2023-03-19,0.55,1,171,6,0599 68D0 0BCF 0711 AADD
+53308728,Hostel room with own bathroom and entrance (6 max),131630024,Sinbad,Rotterdam Centrum,Cool,51.91619,4.47794,Shared room,41,1,12,2022-09-09,0.72,10,58,11,Exempt
+53335392,Idyllisch Tiny House op Boerderij Driebergen,5048683,Wibbine,Overschie,Schieveen,51.95947,4.39835,Entire home/apt,108,2,36,2023-02-20,2.25,1,262,30,0599 7280 00B0 38C7 D4C3
+53511561,Ruim appartement in Rotterdam,58612174,Sonja,Feijenoord,Afrikaanderwijk,51.90224,4.50009,Entire home/apt,150,2,6,2023-03-05,1.33,1,0,6,059975E963A47335F626
+53571723,Captain's original Cabin on board of LORIN,62636366,Anmari,Feijenoord,Kop van Zuid - Entrepot,51.90866,4.50183,Private room,61,1,4,2023-03-19,0.29,3,327,3,Exempt
+53573302,Comfortable and neat room in a quiet neighborhood,77154783,Karen,Prins Alexander,Ommoord,51.95756,4.52966,Private room,52,7,7,2022-08-22,0.61,3,332,7,05995535944E6439E879
+53607435,Artsy apartment in central Rdam (private room),11551854,Edoardo,Noord,Blijdorp,51.93156,4.46572,Private room,75,1,8,2023-01-29,0.73,1,153,8,0599 2AAF D6CE 7A45 C91E
+53612969,Recently renovated 1916 apartment in lovely West!,3926199,Yannick,Delfshaven,Nieuwe Westen,51.9199,4.45466,Entire home/apt,130,5,2,2022-08-23,0.14,1,139,1,0599 7E00 FDFA 4F8D 7125
+53636836,Captain‘s Cabin water side on board of LORIN,62636366,Anmari,Feijenoord,Kop van Zuid - Entrepot,51.90888,4.50053,Private room,61,1,6,2023-03-06,1.06,3,290,6,Exempt
+53638883,Captain's Cabins COMPLETE on board of LORIN,62636366,Anmari,Feijenoord,Kop van Zuid - Entrepot,51.9077,4.50178,Entire home/apt,93,1,6,2023-03-23,0.49,3,280,6,Exempt
+53848893,Cosy & tidy room with desk in a quiet house,77154783,Karen,Prins Alexander,Ommoord,51.95629,4.52956,Private room,58,7,1,2023-02-28,1,3,330,1,05995535944E6439E879
+53877458,Happy Home Rotterdam Blijdorp,23012535,Bianca,Noord,Blijdorp,51.9298,4.45788,Entire home/apt,95,2,27,2023-01-08,2.06,1,138,23,0599 18ED E320 A4A9 5F87
+53997696,House by the Lake,35307100,Coco,Kralingen-Crooswijk,Kralingen West,51.93108,4.50852,Entire home/apt,187,10,5,2022-08-09,0.40,5,181,4,0599 AA48 D163 ED51 A847
+54118178,Luxe villa in groene wijk vlakbij centrum,14188538,Els,Kralingen-Crooswijk,De Esch,51.9111,4.5265,Entire home/apt,187,3,3,2022-07-30,0.32,3,60,3,0599 6DB0 093B 27C1 5ADA
+54191578,Room 2.0 in family house Casa Rivera,30488216,Carli,Noord,Oude Noorden,51.92787,4.48219,Private room,46,1,79,2023-03-22,5.41,2,11,69,0599 6F90 E276 D075 DA14
+54195878,Colorful 120m2 apartment w/ roof terrace and bath,36775273,Jolien,Noord,Blijdorp,51.93156,4.45675,Entire home/apt,129,3,6,2022-08-21,0.45,1,0,3,0599 7173 29AF 55E1 310C
+54197391,Nice room with space and incentre of Zuidplen Mall,209982729,Priya,Feijenoord,Vreewijk,51.8872,4.4928,Private room,52,1,16,2023-03-20,1.52,2,333,16,05994C1D1143E824878B
+54306639,"Luxurious apartment down town, near bars, museums",29340357,Kick&Neda,Rotterdam Centrum,Cool,51.91643,4.47344,Entire home/apt,300,7,0,,,11,237,0,Exempt
+54351028,PRACHTIG INDUSTRIEEL HUIS IN ROTTERDAM KRALINGEN,124522526,Mariska,Kralingen-Crooswijk,Kralingen West,51.9303,4.50284,Entire home/apt,418,2,19,2023-02-21,2.28,1,269,19,0599 3FA2 2E9D 09C4 483A
+54407135,Apt. Madagascar - Room w/ shared living & kitchen,51596514,Marc,Kralingen-Crooswijk,Rubroek,51.92658,4.4918,Private room,60,7,1,2022-03-27,0.08,2,28,1,0599 9068 2472 FBA7 7852
+527235044280907968,Gezellige woning in rustige wijk met tuin,84317418,Rommie,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.945,4.47072,Entire home/apt,132,2,6,2023-01-31,0.52,1,244,6,0599 33D3 C316 2F20 C8FF
+539133619432402564,1914 Loft appartment,379307813,Marc,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.94251,4.48111,Entire home/apt,120,5,6,2022-10-07,0.44,1,116,4,0599 E171 2B80 DC00 6CC2
+549445418876757558,Studio in the heart of city center Rotterdam,419744984,Elnaz,Rotterdam Centrum,Stadsdriehoek,51.92415,4.48229,Entire home/apt,127,1,4,2023-03-19,0.79,1,340,4,DRBJ 5267 FRED 67AY F0D5
+549783413359075581,World Travelers Apartment Comfort,80550302,Song,Kralingen-Crooswijk,De Esch,51.91032,4.52203,Private room,4954,2,3,2022-11-20,0.39,3,239,3,0599 9615 F3F1 32C3 8FBE
+549817001784650109,World Travelers Apartment Economy,80550302,Song,Kralingen-Crooswijk,De Esch,51.90892,4.5223,Private room,35,30,12,2023-01-30,0.93,3,144,11,0599 9615 F3F1 32C3 8FBE
+552774277489737451,"Chalet ""Kick"" | near the beach",48523957,Robert,Hoek van Holland,Strand en Duin,51.995125,4.129516,Entire home/apt,72,7,8,2022-09-17,0.72,2,192,8,
+555516898678380951,Cosy apartment w/ roofterrace citycentre Rotterdam,84971720,Manissa,Delfshaven,Middelland,51.91853,4.45779,Entire home/apt,145,3,6,2022-07-31,0.50,1,0,6,0599 3F68 1236 EDC2 7006
+556541868203978833,Kleurrijk & sfeervol appartement met werkplek,144595271,Hester,Noord,Liskwartier,51.93805,4.47412,Entire home/apt,100,3,8,2022-11-06,0.62,1,0,5,0599 7334 0F8A 7B7F E228
+558402693788443347,"Spacious, cosy & central apartment with garden",70679201,Yves,Noord,Bergpolder,51.93628,4.46166,Entire home/apt,130,1,4,2022-04-22,0.30,1,0,2,0599 ABE9 C6BF B82B DA88
+559924936102464888,Spacious apartment in Rotterdam Kralingen,6556685,Mirjam,Kralingen-Crooswijk,Kralingen West,51.92361,4.51083,Entire home/apt,75,5,0,,,1,0,0,0599E2119F81511CBF7B
+559971712301292489,Quirky & cosy family home with garden,5225003,Sas,Delfshaven,Nieuwe Westen,51.91507,4.44843,Entire home/apt,130,4,1,2022-09-14,0.15,1,0,1,0599 A142 2969 E170 FE40
+560525191545136125,"Family home Rotterdam, nearby city center & nature",113553335,Sarah,Hillegersberg-Schiebroek,Molenlaankwartier,51.95474,4.50619,Entire home/apt,150,7,2,2022-07-26,0.18,1,17,2,05992338E604E99C94F8
+560812980195655956,Complete woning met tuin in een historische school,444765063,Annemarie,Feijenoord,Afrikaanderwijk,51.90056,4.49785,Entire home/apt,350,2,24,2023-02-19,1.83,1,2,21,0599 BDF8 3F91 8226 0BD6
+562305991743101690,Appartement met uitzicht op hefbrug,3635896,Floreyne,Feijenoord,Noordereiland,51.91638,4.49984,Entire home/apt,95,4,5,2022-10-29,0.42,1,4,5,0599 4E65 BFD3 60D9 5273
+572151382331976770,Beautiful one bedroom apartment with kitchen,88108496,Vyash,Noord,Provenierswijk,51.92779,4.4713,Entire home/apt,101,3,27,2023-03-23,2.40,11,333,27,Exempt
+576255115997962152,luxury flat in the city centre,448128325,Sebastian,Rotterdam Centrum,Stadsdriehoek,51.92248,4.49038,Entire home/apt,250,1,5,2022-09-18,0.54,1,0,5,0599 7A88 D2B4 35C4 CE6D
+578565428353846533,Spacious 2 person Apartment,302893992,Michiel,Feijenoord,Bloemhof,51.8937,4.49459,Entire home/apt,75,2,26,2022-09-30,2.14,12,0,26,05999A9BC24907F79618
+578954921030914638,Great 3 Bedroom Serviced Apartment 98m2 -MNLG-,448782489,Martijn,Delfshaven,Middelland,51.914799,4.461017,Entire home/apt,130,14,9,2023-01-15,0.80,38,82,9,0599 2B01 14EA 7C61 E9E4
+578954986680880344,Awesome 1 Bedroom Serviced Apartment 54m2 -MNLA-,448782489,Martijn,Delfshaven,Middelland,51.914799,4.461017,Entire home/apt,100,25,7,2022-11-24,0.63,38,134,7,0599 2B01 14EA 7C61 E9E4
+581105458967448840,Fantastic 1 Bedroom Serviced Apartment 64m2 -MNLF-,448782489,Martijn,Delfshaven,Middelland,51.91593,4.46009,Entire home/apt,111,25,12,2023-03-13,1.39,38,133,12,0599 2B01 14EA 7C61 E9E4
+582591565541585080,Beautiful 1 Bed Serviced Apartment 76 m2 -MNLB-,448782489,Martijn,Delfshaven,Middelland,51.91542,4.46122,Entire home/apt,104,25,16,2023-03-05,1.57,38,137,16,0599 2B01 14EA 7C61 E9E4
+582611065240336358,Exclusively 1 Bed Serviced Apartment 48m2 -MNLE-,448782489,Martijn,Delfshaven,Middelland,51.91506,4.46136,Entire home/apt,125,25,8,2022-11-06,0.73,38,124,8,0599 2B01 14EA 7C61 E9E4
+582613033503845936,Detailed 1 Bedroom Serviced Apartment 63m2 -MNLD-,448782489,Martijn,Delfshaven,Middelland,51.91416,4.46199,Entire home/apt,314,25,17,2023-03-03,1.54,38,148,17,0599 2B01 14EA 7C61 E9E4
+583797086464914087,Residential home in quiet area Rotterdam!,34748520,Rubén,Prins Alexander,Oosterflank,51.94179,4.56493,Entire home/apt,80,3,12,2022-08-14,1.24,3,90,12,0599 F1CE 8B1E F70B 3FB9
+583946925112383381,Casa Roffa @ Historical Delfshaven Rotterdam,2007531,Yorick,Delfshaven,Schiemond,51.90411,4.4415,Entire home/apt,98,3,16,2022-07-17,1.30,2,257,15,0599 9732 71DA 1AF4 A410
+584184287780116672,Spacious studio in Rotterdam Noord,176976578,Eva,Noord,Oude Noorden,51.93424,4.48265,Entire home/apt,150,1,9,2022-07-24,0.74,1,269,9,0599 9F80 2FDD C6E8 6126
+584375479743910277,1 room 5 minutes from Central station and centre,4961550,Urbian,Rotterdam Centrum,Oude Westen,51.91956,4.4696,Private room,73,2,34,2023-03-24,2.79,2,344,34,0599 CF11 66B5 DF0B D739
+586855632975181618,Spacious family home in Rotterdam.,30983688,Dini,Prins Alexander,Zevenkamp,51.96067,4.571476,Entire home/apt,124,2,21,2023-02-19,2.19,1,184,21,0599 6A96 7126 7D15 D9E3
+587317755059582465,Charmante en ruime woning vlakbij het centrum,73707610,Kim,Delfshaven,Nieuwe Westen,51.917866,4.453536,Private room,99,1,1,2022-04-10,0.09,1,267,1,0599 0913 8083 DB19 05F1
+588089624475242042,Beautiful room @ Casa Roffa  Historical Delfshaven,2007531,Yorick,Delfshaven,Schiemond,51.90477,4.44253,Private room,75,3,9,2022-08-23,0.77,2,261,9,0599973271DA1AF4A410
+588748009955658302,Happy 3 Bedroom Serviced Apartment 106m2 -MNLH-,448782489,Martijn,Delfshaven,Middelland,51.914799,4.461017,Entire home/apt,171,14,17,2023-02-04,1.89,38,93,17,0599 2B01 14EA 7C61 E9E4
+589119168943794995,Charming Serviced Studio 40m2 -MNLC-,448782489,Martijn,Delfshaven,Middelland,51.9148,4.46102,Entire home/apt,96,25,14,2023-03-02,1.27,38,124,14,0599 2B01 14EA 7C61 E9E4
+591715682566328202,The old butcher. Unique place in central Rotterdam,51863466,Lotte,Noord,Oude Noorden,51.9343,4.48162,Private room,68,2,51,2023-03-19,4.26,1,102,51,059926989D3606FE91F2
+592049889955951291,Mooi appartement in het hartje van Rotterdam,305219606,Tom,Rotterdam Centrum,Stadsdriehoek,51.92127,4.49362,Entire home/apt,152,3,16,2023-03-20,1.50,1,201,16,0599 2AB5 8F9D 7C83 05EC
+592515390030428955,Quiet and spacious apartment on perfect location,228893748,Michel,Rotterdam Centrum,Stadsdriehoek,51.9239,4.48187,Entire home/apt,144,2,45,2022-11-17,3.92,1,16,45,0599 AF34 2B8C 3248 3AFA
+596244976446031191,Very nice and comfortable apartment in Rotterdam,423673121,Richard,Delfshaven,Middelland,51.91657,4.45833,Entire home/apt,113,2,31,2023-03-19,2.98,1,261,31,0599 A7BE BD4F DBCA 9D29
+596345585469977854,lovely cozy shared Room in Rotterdam Central,452409120,Niki,Delfshaven,Nieuwe Westen,51.92022,4.4473,Shared room,36,1,20,2023-02-05,1.72,1,0,20,0599 0B65 85D9 4F06 A2E2
+597183811153610009,Cozy Chalet - close to the beach,7654698,May,Hoek van Holland,Strand en Duin,51.9934,4.12905,Entire home/apt,80,2,21,2022-10-21,1.78,1,85,21,
+597733126219996722,Knus en creatief vakantiehuisje aan zee!,350118264,Barry,Hoek van Holland,Strand en Duin,51.98932,4.12828,Entire home/apt,99,5,3,2022-08-12,0.34,1,334,3,
+598498435374781903,Colorful Family House with Garden. For Cat Lovers,24698524,Marten,Delfshaven,Middelland,51.91126,4.46107,Entire home/apt,194,5,4,2022-08-14,0.48,1,30,4,0599 E187 C318 8675 BF6C
+602658219669103193,Unieke loft in rijksmonument Villa van Waning,10986147,Vincent,Feijenoord,Feijenoord,51.91101,4.50822,Entire home/apt,175,2,18,2022-12-29,1.57,1,21,18,0599 FF7A 9EBA 6DDF 0068
+603296572992606195,Hostel Witte de withst. private entrance& bathroom,131630024,Sinbad,Rotterdam Centrum,Cool,51.91543,4.4766,Shared room,41,1,5,2022-07-18,0.44,10,58,5,Exempt
+603992672321393922,Beautiful urban design apartment,49928574,Sven,Noord,Blijdorp,51.93133,4.46412,Entire home/apt,140,3,7,2022-11-20,0.61,1,1,7,0599 4F55 2A3D 6A32 7DB8
+607192724337312722,Entire spacious apartment close to Central Station,9490995,Cordula,Noord,Liskwartier,51.93739,4.47415,Entire home/apt,102,4,8,2023-03-04,0.79,1,42,8,0599 7988 F134 692A 4A8D
+612215685384236424,Spacious light apartment in Rotterdam city centre,3669879,Vladana,Rotterdam Centrum,Cool,51.91355,4.47776,Entire home/apt,189,2,3,2022-07-23,0.31,1,27,3,0599 C3B8 CE9A 71E6 B99D
+613316889617485043,Part 2 1 room 5 minutes from central station,4961550,Urbian,Rotterdam Centrum,Oude Westen,51.91971,4.4677,Private room,70,2,31,2023-03-08,2.85,2,149,31,0599 CF11 66B5 DF0B D739
+613600108534777608,Lovely Apartment Rotterdam North.,46367492,Bertine,Noord,Liskwartier,51.935074,4.473719,Entire home/apt,100,1,4,2022-06-06,0.37,2,85,4,0599 8382 5C57 5C76 57B9
+614930126164826567,Cozy room with big garden,61768273,Kolijn,Delfshaven,Spangen,51.91687,4.441927,Private room,85,1,22,2022-11-13,1.99,1,0,22,0599 96C6 C090 8FDA 07CC
+616328433412831832,Spacious Apartment with Balcony,302893992,Michiel,Charlois,Tarwewijk,51.89224,4.4812,Entire home/apt,199,2,11,2022-07-30,1.05,12,56,11,0599 BD91 7354 FC26 5545
+617918815068527954,Kleine Fijne kamer met Mooie Grote tuin Rotterdam,132520693,Alain,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.94558,4.46968,Private room,47,2,9,2022-11-19,0.90,1,0,9,0599 6231 B49A FEEB C84C
+618134657868058435,Ruim privé-appartement in het stadscentrum/westen,12292295,Sam,Delfshaven,Nieuwe Westen,51.91597,4.45187,Entire home/apt,114,2,13,2023-02-02,1.29,1,25,13,0599 EABF 0BA2 873D 82EB
+621364838138308814,Lovely apartment with small balcony,434668581,Fleur,Kralingen-Crooswijk,Struisenburg,51.91975,4.513522,Entire home/apt,179,1,4,2022-08-14,0.44,1,1,4,0599 EDDE C39A 5417 DC59
+621552853246445875,"Modern family house with gym, game room and bar.",457890310,Bregje,Kralingen-Crooswijk,Kralingen Oost,51.927521,4.51706,Entire home/apt,297,3,7,2022-08-14,0.80,1,0,7,0599d8b4d41a7f599c50
+622919454811541383,Dreamy condo in West Rotterdam with sunny patio,6210192,Libby,Delfshaven,Middelland,51.91278,4.46019,Entire home/apt,110,3,4,2022-08-29,0.40,1,3,4,0599 c0fc 1015 fbaf d3fd
+623517234987143921,Brilliant 1 Bed Serviced Apartment 52m2 -NB304B-,448782489,Martijn,Delfshaven,Middelland,51.91356,4.45677,Entire home/apt,110,25,15,2023-02-04,1.88,38,105,15,0599 2B01 14EA 7C61 E9E4
+623893026249259831,Amazing 1 Bedroom Serviced Apartment 53m2 -NB304A-,448782489,Martijn,Delfshaven,Middelland,51.91215,4.45724,Entire home/apt,186,25,12,2023-03-05,1.45,38,122,12,0599 2B01 14EA 7C61 E9E4
+623893252172148021,Desirable 1 Bedroom Apartment 52 m2 -NB304D-,448782489,Martijn,Delfshaven,Middelland,51.91374,4.45744,Entire home/apt,102,25,20,2023-03-04,1.94,38,153,20,0599 2B01 14EA 7C61 E9E4
+624220960762256491,Chic 1 Bedroom Serviced Apartment 54m2 -NB304C-,448782489,Martijn,Delfshaven,Nieuwe Westen,51.91162,4.45668,Entire home/apt,115,25,8,2023-01-10,0.89,38,32,8,0599 2B01 14EA 7C61 E9E4
+624234193614625656,Exceptional 3 Bed Serviced Apartment 83m2 -NB304E-,448782489,Martijn,Delfshaven,Middelland,51.91367,4.45728,Entire home/apt,164,14,8,2023-03-06,0.82,38,0,8,0599 2B01 14EA 7C61 E9E4
+624341839693773283,Gezellig tiny house / surf shack aan het strand,23702822,Brigitte,Hoek van Holland,Strand en Duin,51.990147,4.126362,Entire home/apt,114,3,11,2022-10-06,1.07,1,148,11,
+625374953471376360,Heerlijk appartement in Crooswijk,18886668,Ronald,Kralingen-Crooswijk,Nieuw Crooswijk,51.93613,4.49216,Entire home/apt,145,2,8,2022-08-17,0.83,1,11,8,0599 1B3D 6334 BC04 1D58
+625385106252351020,"Cozy apartment in historic Delfshaven, Rotterdam",450897079,Mirjam,Delfshaven,Tussendijken,51.913822,4.438193,Entire home/apt,60,5,4,2022-09-05,0.40,1,0,4,0599 3FD1 BBB3 3FCC 804A
+626033423047020529,Studio floor in Rotterdam-Noord in front of canal,16080777,Sevim,Noord,Oude Noorden,51.93301,4.47322,Entire home/apt,90,6,13,2022-07-11,1.30,2,253,13,0599 B71E 378D 56FF 1829
+626448293888034169,Ground floor apartment with garden in Blijdorp,107217116,Rolf,Noord,Blijdorp,51.930218,4.461799,Entire home/apt,90,3,8,2022-10-01,0.84,1,0,8,0599 39E9 EE2A C68D 80EE
+626554870986506825,"Ruim, kleurrijk appartement in Rotterdam.",46398108,Jarka,Delfshaven,Middelland,51.91576,4.456922,Entire home/apt,99,2,10,2023-03-19,1.01,1,10,10,0599 7411 FBB0 F677 0EBF
+626713255105515033,1 private room 2 people stay free parking,449185333,Goran,Prins Alexander,Oosterflank,51.94421,4.5611,Private room,41,1,17,2023-03-11,2.46,6,26,17,0599 F8BD 632E B9BD 943A
+627862890995466037,Lovely duplex near city centre,366364776,Jessica,Charlois,Carnisse,51.8879,4.48427,Entire home/apt,384,1,0,,,1,318,0,0599 ACC1 5072 600B 0152
+628239416422751653,Lovely located quiet condo,16043377,Kim,Delfshaven,Delfshaven,51.906136,4.448751,Entire home/apt,110,2,8,2022-10-23,0.90,1,139,8,0599 B981 A4C3 ED6C 9059
+629482526491840450,Cosy apartment close to city centre in Rotterdam,459699013,Nick,Noord,Bergpolder,51.93861,4.46539,Entire home/apt,100,3,2,2023-02-03,0.40,1,3,2,0599 3F4C 523F 3E17 F368
+630739994357008227,1 person bedroom in Rotterdam east free parking,449185333,Goran,Prins Alexander,Oosterflank,51.94584,4.55995,Private room,22,1,20,2023-03-12,1.96,6,0,20,0599 F8BD 632E B9BD 943A
+632434171930775338,B&B Berglust,190472275,Lonneke,Hillegersberg-Schiebroek,Hillegersberg Noord,51.95496,4.49233,Entire home/apt,101,2,14,2023-03-19,1.74,1,68,14,0599 B74A E79B D328 F290
+632933255546076840,Cosy room in Rotterdam - Blijdorp close to Metro,423094882,Sim,Noord,Blijdorp,51.930748,4.455946,Private room,45,2,53,2023-02-16,5.21,3,14,53,0599717329AF55E1310C
+633811715169154619,Grandiose 3 Bed Serviced Apartment 117m2 -NB304G-,448782489,Martijn,Delfshaven,Middelland,51.912647,4.457868,Entire home/apt,150,25,5,2022-12-31,0.50,38,84,5,0599 2B01 14EA 7C61 E9E4
+633820788936928521,Homelike 2 Bed Serviced Apartment 105m2 -NB304H-,448782489,Martijn,Delfshaven,Middelland,51.912647,4.457868,Entire home/apt,400,25,5,2023-01-02,1.44,38,110,5,0599 2B01 14EA 7C61 E9E4
+633825710972642534,Jaw-dropping 3 Bedroom Apartment 117m2 -NB304J-,448782489,Martijn,Delfshaven,Middelland,51.912647,4.457868,Entire home/apt,500,25,11,2023-03-15,1.14,38,128,11,0599 2B01 14EA 7C61 E9E4
+633973471516582395,Centraal knusse kamer met mooie tuin.,24482474,Lia,Kralingen-Crooswijk,Rubroek,51.92852,4.49119,Private room,45,1,14,2023-03-11,1.43,2,0,14,0599 9B31 B196 1B9D A062
+635252436876455453,Nice apartmen/room in quiet neighborhood for women,461025453,Kanu,IJsselmonde,Lombardijen,51.88011,4.52908,Private room,50,3,8,2023-02-05,0.82,1,341,8,059917CD968EC5FFD220
+638768347496013357,Lovely privet bedroom next to subway station,178468996,Hoss,Hoogvliet,Hoogvliet Noord,51.86438,4.37649,Private room,49,3,18,2022-11-05,1.89,1,0,18,
+640250262007367814,Comfortabele dijkwoning aan rand stad en natuur,462162143,Joey En Linda,Overschie,Overschie,51.93737,4.41966,Entire home/apt,159,5,6,2022-09-06,0.71,1,0,6,05992229D32A5AA5BD9D
+640265885455169752,Lovely apartment right in the heart of Rotterdam,31587648,Sheena,Rotterdam Centrum,Stadsdriehoek,51.92349,4.48737,Entire home/apt,90,2,5,2022-09-21,0.54,1,0,5,05991E53221ED90270BB
+640389270386265964,Marvelous Midtown Apartment Rotterdam,361298608,Serah,Rotterdam Centrum,Stadsdriehoek,51.92064,4.48835,Entire home/apt,110,90,1,2022-12-20,0.31,1,191,1,0599 D888 D1D1 F7A4 64F6
+640395257424694877,Appartement in klassiek pand nabij Kralingse plas,268539060,Mees,Kralingen-Crooswijk,Kralingen Oost,51.92557,4.51437,Entire home/apt,150,3,13,2022-10-03,1.34,1,0,13,0599 60EA 7CF8 D761 5CAB
+641209630175851898,Super modern/new apartement.,54366463,Maik,IJsselmonde,Lombardijen,51.87995,4.52095,Entire home/apt,128,3,6,2022-12-23,0.68,3,0,6,0599 C0B3 4CC1 B080 B8E4
+641760458386975010,Nice apartment with balcony and garden,330683913,Ela,Charlois,Oud Charlois,51.8918469,4.4653375,Entire home/apt,82,2,14,2022-12-29,1.69,1,1,14,0599 95B4 BDFB D4FF 2D22
+643202318960548266,Nice & cozy place near Rotterdam center!,350290596,Louise & Jamal,Delfshaven,Nieuwe Westen,51.91773668737747,4.450227655470371,Entire home/apt,149,1,14,2023-03-19,1.66,1,7,14,0599 06B9 9B16 280D BEBE
+643265910831798973,Shortstay >30 nachten Loft 180m2 in Rotterdam,20503928,Dick,Feijenoord,Kop van Zuid - Entrepot,51.9110589,4.4986595,Entire home/apt,375,31,2,2022-11-07,0.24,1,359,2,0599 3178 678A 92FD E44B
+643990348346812792,WitteDeWit Floating City Studio,323938482,Dila,Rotterdam Centrum,Cool,51.9152272,4.4760329,Entire home/apt,98,6,2,2022-08-01,0.23,4,84,2,0599D0B790FEBB457342
+645510482091510278,Studio floor with own kitchen & toilet - central,16080777,Sevim,Noord,Agniesebuurt,51.93146,4.47283,Entire home/apt,77,7,13,2023-01-22,1.38,2,142,13,0599 B71E 378D 56FF 1829
+646055464127454611,Spacious appartment in Rotterdam city centre,149742101,Shariff,Rotterdam Centrum,Stadsdriehoek,51.92336,4.48241,Entire home/apt,189,3,2,2022-09-26,0.31,1,0,2,0599 A6E2 671B BA01 5EA0
+648246966959582101,Boutique appartement in Rotterdam,203470340,Jenneke,Delfshaven,Nieuwe Westen,51.91292708176567,4.449560888360606,Entire home/apt,130,1,1,2022-09-03,0.15,1,0,1,0599 027B 1743 1EA5 1CEC
+650334840652559985,Stylish Family House with Garden in Blijdorp,4926243,Tim,Noord,Blijdorp,51.92801559999999,4.4584716,Entire home/apt,112,2,7,2022-10-29,0.85,1,7,7,0599 5D5D DD44 FD78 1DDF
+652816977794950690,Lovely private double bedroom in Rotterdam Centre,465031603,Ibrahima,Rotterdam Centrum,Cool,51.9202649,4.473066999999999,Private room,80,1,18,2023-02-19,2.71,1,75,18,0599 3C5D 5A00 290B 6829
+654879930536336314,"Spacious two bedroom apartment, amazing location!",49060485,Laura,Noord,Bergpolder,51.93242,4.46608,Entire home/apt,218,2,6,2022-08-06,0.67,1,254,6,0599 7798 3D5B E0FB 5E8F
+655664440007957427,Beautiful one bedroom apartment with kitchen,88108496,Vyash,Noord,Provenierswijk,51.92772,4.46922,Entire home/apt,120,3,9,2023-02-04,1.13,11,350,9,Exempt
+655670724510957166,Beautiful one bedroom apartment with kitchen,88108496,Vyash,Noord,Provenierswijk,51.92623,4.47134,Entire home/apt,100,3,4,2023-02-02,0.57,11,312,4,Exempt
+655672807558298633,Beautiful one bedroom apartment with kitchen,88108496,Vyash,Noord,Provenierswijk,51.92832,4.47065,Entire home/apt,110,3,13,2023-03-06,1.42,11,269,13,Exempt
+657929474272596839,Creatieve woning tussen bos en stad,8160180,Raymond,Kralingen-Crooswijk,Nieuw Crooswijk,51.935195534319504,4.491258580950936,Entire home/apt,175,2,3,2022-10-02,0.37,1,89,3,0599 7534 2073 E63E F327
+657968116189311853,Bijzonder apartment bijzonder locatie,305817244,Mailadres44,Rotterdam Centrum,Stadsdriehoek,51.92097,4.48584,Entire home/apt,100,1,2,2023-01-01,0.24,1,0,2,0600 9600 9618 E789 DA22
+658683026518713780,2 person apartment with garden close to Ahoy,45890676,Jeroen,Feijenoord,Bloemhof,51.89409,4.49638,Entire home/apt,74,2,8,2022-09-26,0.95,1,0,8,05999A9BC24907F79618
+659429415331057618,"Prachtig appartement, rustige wijk, centraal",14188538,Els,Kralingen-Crooswijk,De Esch,51.91219723656049,4.525510950262448,Entire home/apt,165,3,0,,,3,0,0,0599 6DB0 093B 27C1 5ADA
+659439716912023063,Stijlvol familiehuis aan het water - 170m2,4192778,Alexandra & Pieter,Hillegersberg-Schiebroek,Hillegersberg Noord,51.94835,4.49893,Entire home/apt,189,1,2,2022-08-03,0.24,1,0,2,0599 505A 3C4B 16F5 9B48
+661342907535233331,Great 2 Bedroom Serviced Apartment 69m2 -LH18-,448782489,Martijn,Kralingen-Crooswijk,Rubroek,51.92583,4.4860095,Entire home/apt,123,20,5,2023-02-02,0.63,38,110,5,0599 2B01 14EA 7C61 E9E4
+662803500465693906,Cheerful 2-bedroom home - free parking on premises,61103324,Oane,Overschie,Kleinpolder,51.93242,4.43227,Entire home/apt,175,2,4,2023-01-02,0.49,1,58,4,0599 D71A 7F62 9197 BD4D
+662817331360288707,Large sunny corner appartement in city center,31194070,Lotte,Noord,Provenierswijk,51.92588,4.46492,Entire home/apt,110,3,6,2022-08-28,0.71,1,0,6,0599 E4C1 2067 7719 59D0
+662891811673186604,Tremendous 2 Bed Serviced Apartment 79m2 -LH22-,448782489,Martijn,Kralingen-Crooswijk,Rubroek,51.925907,4.4856809,Entire home/apt,400,20,8,2022-12-22,0.99,38,129,8,0599 2B01 14EA 7C61 E9E4
+662911086675901879,Aesthetical Serviced Studio 93m2 -LK16A-,448782489,Martijn,Kralingen-Crooswijk,Rubroek,51.926149,4.485635100000001,Entire home/apt,99,20,8,2023-01-25,0.96,38,150,8,0599 2B01 14EA 7C61 E9E4
+662924821124890554,Abiding Great 3 Bedroom Apartment 119m2 -LK17A-,448782489,Martijn,Kralingen-Crooswijk,Rubroek,51.9260858,4.485625,Entire home/apt,129,20,8,2023-03-01,0.97,38,191,8,0599 2B01 14EA 7C61 E9E4
+663445923626065151,"Ruime villa, tuin, rustige ecowijk vlakbij Centrum",14188538,Els,Kralingen-Crooswijk,De Esch,51.9118,4.52469,Entire home/apt,500,3,0,,,3,0,0,0599 6DB0 093B 27C1 5ADA
+663504975000142377,Private room 180-200 bed.,449185333,Goran,Prins Alexander,Oosterflank,51.94424,4.55945,Private room,41,1,16,2023-03-06,2.33,6,34,16,0599F8BD632EB9BD943A
+663613276651400106,Tastefully 2 Bed Serviced Apartment 76m2 -KB22-,448782489,Martijn,Kralingen-Crooswijk,Rubroek,51.9262352,4.4857625,Entire home/apt,117,20,13,2023-03-15,1.69,38,107,13,0599 2B01 14EA 7C61 E9E4
+663671219932713780,Spacious 2 bedroom apartment in central Rotterdam,49182338,Julian,Kralingen-Crooswijk,Rubroek,51.92449,4.49281,Entire home/apt,160,3,1,2022-08-01,0.13,1,193,1,0599 821D 3000 2E78 5CD8
+664297234248775709,Lovely 2-Bedroom Apartment in Rotterdam Centre.,106031644,Jing,Noord,Oude Noorden,51.92638,4.48177,Entire home/apt,120,1,0,,,1,0,0,0599 060F 980B 93AF 4098
+664508126653261202,Spacious city center apartment with roof terrace,72694637,Machtelt,Rotterdam Centrum,Stadsdriehoek,51.922348201160794,4.488537646830082,Entire home/apt,180,3,3,2022-09-14,0.34,1,56,3,0599 C35B 3804 DE8A 6DE1
+664940429728196822,Admiringly 1 Bed Serviced Apartment 56m2 -NB306A-,448782489,Martijn,Delfshaven,Middelland,51.9126225,4.4577673,Entire home/apt,96,14,6,2023-02-12,0.75,38,125,6,0599 2B01 14EA 7C61 E9E4
+665009158767966558,Cheerfully 1 Bed Serviced Apartment 52m2 -NB306C-,448782489,Martijn,Delfshaven,Middelland,51.9125865,4.457768199999999,Entire home/apt,110,20,16,2023-03-11,2.10,38,142,16,0599 2B01 14EA 7C61 E9E4
+665031302967429998,Blissfully 1 Bed Serviced Apartment 53m2 -NB306B-,448782489,Martijn,Delfshaven,Middelland,51.912605,4.4577965,Entire home/apt,92,20,8,2023-02-27,1.41,38,62,8,0599 2B01 14EA 7C61 E9E4
+665031487261090923,Happily 2 Bedroom Serviced Apartment 75m2 -NB306H-,448782489,Martijn,Delfshaven,Middelland,51.912649,4.457707000000001,Entire home/apt,122,20,15,2023-03-14,1.77,38,0,15,0599 2B01 14EA 7C61 E9E4
+665923221565272780,Grandly 3 Bedroom Serviced Apartment 83m2 -NB306G-,448782489,Martijn,Delfshaven,Middelland,51.91264899999999,4.457707,Entire home/apt,137,20,8,2023-03-06,0.95,38,105,8,0599 2B01 14EA 7C61 E9E4
+666357560311916832,Dearly 1 Bedroom Serviced Apartment 56m2 -NB306D-,448782489,Martijn,Delfshaven,Middelland,51.91264899999999,4.457707,Entire home/apt,94,20,11,2023-03-12,1.39,38,146,11,0599 2B01 14EA 7C61 E9E4
+666407023596922347,Earnestly 1 Bed Serviced Apartment 54m2 -NB306E-,448782489,Martijn,Delfshaven,Middelland,51.91264899999999,4.457707,Entire home/apt,100,20,13,2023-01-27,1.64,38,112,13,0599 2B01 14EA 7C61 E9E4
+666429098909797612,Fittingly 1 Bed Serviced Apartment 51m2 -NB306F-,448782489,Martijn,Delfshaven,Middelland,51.91264899999999,4.457707,Entire home/apt,159,20,13,2023-03-12,1.54,38,147,13,0599 2B01 14EA 7C61 E9E4
+666467266453055585,"Hostel dorm, private entrance and bathroom (max 6)",131630024,Sinbad,Rotterdam Centrum,Cool,51.91577925802065,4.477546799999992,Shared room,38,1,21,2023-03-10,2.46,10,77,21,Exempt
+667268799388936146,Geweldig centraal gelegen appartement in centrum,15220951,Wouter,Noord,Bergpolder,51.93255,4.46504,Entire home/apt,153,2,6,2022-11-13,0.73,1,4,6,0599 122B DD62 8569 326E
+667330927825892889,Lovely 2 Bedroom Serviced Apartment 90m2 -LK20-,448782489,Martijn,Kralingen-Crooswijk,Rubroek,51.9259984,4.4857008,Entire home/apt,120,14,11,2023-02-07,1.31,38,144,11,0599 2B01 14EA 7C61 E9E4
+668445111085454402,Quality 2 Bedroom Serviced Apartment 72m2 -VP2A-,448782489,Martijn,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.9427523,4.4807795,Entire home/apt,224,25,5,2023-02-06,0.89,38,74,5,0599 2B01 14EA 7C61 E9E4
+668449538165430043,Knusse caravan met privé tuin aan zee!,234760895,Joachim,Hoek van Holland,Strand en Duin,51.98907,4.12826,Entire home/apt,50,2,17,2022-10-23,2.21,1,40,17,
+668460259668862550,Distinct 2 bedroom Serviced Apartment 84m2 -VP2D-,448782489,Martijn,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.94369,4.48101,Entire home/apt,124,25,5,2023-03-01,0.79,38,139,5,0599 2B01 14EA 7C61 E9E4
+668460386792399595,Spacious 2 Bedroom Serviced Apartment 77M2 -VP2B-,448782489,Martijn,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.9427523,4.4807795,Entire home/apt,126,25,10,2023-03-13,1.54,38,90,10,0599 2B01 14EA 7C61 E9E4
+668468155879652706,Premium 2 Bedroom Serviced Apartment 71M2 -VP2C-,448782489,Martijn,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.9427523,4.4807795,Entire home/apt,121,25,8,2023-01-27,1.42,38,116,8,0599 2B01 14EA 7C61 E9E4
+668850617615301866,Trendy 2 Bedroom Serviced Apartment 69m2 -LH20-,448782489,Martijn,Kralingen-Crooswijk,Rubroek,51.92592,4.485990399999999,Entire home/apt,123,25,13,2023-03-05,1.54,38,124,13,0599 2B01 14EA 7C61 E9E4
+669537290554617827,Fijn gezinshuis in Rotterdam met tuin en dakterras,40718944,Tom,Delfshaven,Nieuwe Westen,51.91421,4.45033,Entire home/apt,195,7,1,2022-07-31,0.13,1,40,1,0599 6C7C C941 EF67 AC92
+670084001498591218,"Fijne grote woning met prachtige, ruime tuin!",138300618,Lotte,Rozenburg,Rozenburg,51.90407,4.23675,Entire home/apt,180,1,3,2023-03-05,0.47,1,279,3,
+670094189131873152,Gezellige woning met zonnige tuin!,23242108,Joyce,Charlois,Oud Charlois,51.89073279999999,4.4679434,Entire home/apt,117,2,4,2022-09-24,0.53,1,39,4,0599 A8CE EC48 6A51 3ABD
+673074779503598323,Stylish 2 Bedroom Serviced Apartment 65m2 -LK22D-,448782489,Martijn,Kralingen-Crooswijk,Rubroek,51.9258506,4.485583699999999,Entire home/apt,107,25,13,2023-02-27,1.66,38,89,13,0599 2B01 14EA 7C61 E9E4
+674305790933937169,City Center WittedeWit Floating Studio Cosmo,323938482,Dila,Rotterdam Centrum,Cool,51.91567,4.47688,Entire home/apt,65,30,1,2022-08-13,0.13,4,269,1,0599 13AE A760 923B 4EE0
+675716963670296362,Beneden appartement met eigen tuin,96963493,Pieter,IJsselmonde,Oud IJsselmonde,51.8983901,4.5445188,Entire home/apt,95,3,8,2023-01-08,1.32,1,210,8,0599 802A B56D 53F5 3D4C
+676575951920291516,FabulousWaterside Apartment close to city and park,470335035,Sharlene,Delfshaven,Schiemond,51.90339186617946,4.463016902130117,Entire home/apt,160,2,10,2023-01-22,1.29,1,8,10,059922C972FFA9360DBF
+676879823330663051,Hosted by Wendy Family home in green neighbourhood,177701530,Hosted By Wendy,Hillegersberg-Schiebroek,Molenlaankwartier,51.96516,4.50221,Entire home/apt,395,5,0,,,1,25,0,0518F416148040D3EF08
+679022208455442835,"Special stay on Rotterdams Nature-boat ""Appa""",319532675,Stan,Feijenoord,Kop van Zuid - Entrepot,51.90898712544832,4.4992807185241634,Entire home/apt,162,2,3,2022-08-09,0.38,1,303,3,0599760378C1FAF7B934
+679694365979924395,Large appartment in Rotterdam,34000049,Axelle,Noord,Bergpolder,51.93655,4.46398,Entire home/apt,101,3,1,2022-09-02,0.14,1,9,1,0599 5B19 11A3 F541 BA53
+680167606466044280,Lovely sunny 1-bedroom in Rotterdam,214709669,Basel,Charlois,Zuiderpark,51.87914,4.47028,Private room,60,7,5,2022-08-18,0.63,1,0,5,0599 222D BCD8 98D7 305F
+680940740165109573,Spacious apartment on Rotterdam's scenic canal,149930558,Roel,Delfshaven,Nieuwe Westen,51.91444,4.44597,Entire home/apt,120,3,1,2023-03-08,1,1,120,1,0599 AA90 3AED 14BE 002E
+681794898974448513,Brand new studio in the city center of Rotterdam.,114538523,Fatima,Kralingen-Crooswijk,Rubroek,51.92709,4.49024,Entire home/apt,130,1,23,2023-03-15,2.90,1,53,23,0599 3659 F389 9052 8456
+684493108403491333,Appartement Rotterdam noord,169488934,Elsemarijn,Noord,Bergpolder,51.93218,4.46878,Entire home/apt,115,2,21,2023-01-29,2.89,1,89,21,0599 1857 746C 7C41 2DEF
+685231387350567973,Citycenter apartment Long & Shortstay,54366463,Maik,Rotterdam Centrum,Cool,51.91513,4.47875,Entire home/apt,148,3,1,2022-11-30,0.25,3,15,1,0599 D97D 30F1 B20C 4DDC
+685509540578223517,Apartement at Rotterdam nearby City Center!,302893992,Michiel,Noord,Bergpolder,51.93196,4.4674,Entire home/apt,134,2,5,2022-12-29,0.75,12,0,5,0599 A611 B6CD 695A 2EDF
+686204744935169920,Knus huisje aan het strand van Hoek van Holland,473321782,Marja,Hoek van Holland,Strand en Duin,51.9900796,4.1270747,Entire home/apt,100,3,0,,,1,10,0,
+686922915827269373,1 bedroom loft with balcony in centre,398751893,Teoman,Rotterdam Centrum,Cool,51.92013,4.47325,Entire home/apt,529,1,3,2022-10-15,0.40,1,270,3,0599 EAF3 4CE0 C72D A5A9
+686937313215859940,Spacious design family home in Rotterdam,81713324,Eefje,Kralingen-Crooswijk,Nieuw Crooswijk,51.93646,4.49495,Entire home/apt,175,4,4,2022-11-27,0.70,1,183,4,05997AB711D06F623F80
+688319319874947398,Modern 1bedroom apartment near famous Binnenweg,277826200,Bastiaan,Delfshaven,Nieuwe Westen,51.91135,4.45401,Entire home/apt,89,1,1,2022-10-20,0.19,1,131,1,0599 156E 9022 C8C8 F57A
+688967825286581011,The transformed butcher house,23473802,Max,Noord,Bergpolder,51.93425,4.46451,Entire home/apt,157,4,6,2022-09-18,0.82,2,177,6,0599 59A2 3774 60B3 C5B7
+689061583307024672,Prachtige moderne studio in centrum Rotterdam,18903336,Edwin,Noord,Oude Noorden,51.93343,4.48182,Entire home/apt,96,2,26,2023-03-15,4.43,1,296,26,0599 F225 F32E 10FF FF1E
+689144690949034309,"Steeg appartement, dorpse sfeer in Rotterdam",344225839,Inge & Tony,IJsselmonde,Groot IJsselmonde,51.87391,4.54484,Entire home/apt,95,2,2,2022-11-13,0.41,2,14,2,0599 C1C2 882A BAFC 0D2A
+689608563465337074,Het leukste plekje in Rotterdam.,15427954,Camiel,Rotterdam Centrum,Stadsdriehoek,51.92277619880638,4.488408553442382,Entire home/apt,135,1,11,2023-01-09,2.09,1,0,11,0599 1477 39AC 6A26 58D1
+690595092004741621,Heerlijke plek in hartje Rotterdam,42888772,Rosemarie,Rotterdam Centrum,Stadsdriehoek,51.9149673,4.487902,Entire home/apt,150,2,5,2022-10-31,0.76,1,159,5,0599 A693 A803 502C CE93
+691843773304490053,VW camper te huur in Rotterdam.,5572744,Marcel,Delfshaven,Nieuwe Westen,51.91997,4.4522,Entire home/apt,105,3,0,,,1,365,0,0599 FE5F 0183 8867 14C7
+693819625903441318,Book now! Lovely Private bedroom in Delfshaven,144915679,Lukas William,Delfshaven,Bospolder,51.90804,4.4464,Private room,58,1,30,2023-03-23,4.11,1,68,30,0599 5C79 2AD7 A345 DD72
+693989523887920026,Penthouse apartment (long&shortstay),54366463,Maik,IJsselmonde,Lombardijen,51.8802,4.5225,Entire home/apt,128,3,1,2022-12-05,0.27,3,0,1,0599 5825 FE2F E956 9524
+701379893971350168,Ahoy Rotterdam,186376672,Kamil,Charlois,Oud Charlois,51.88983,4.47027,Entire home/apt,54,1,18,2023-03-19,2.73,2,35,18,05992AFCC2BD01EB2412
+702655619398781024,Colorful apartment with skyline view in the centre,86151952,Niek,Rotterdam Centrum,Cool,51.92164,4.4722,Entire home/apt,151,2,9,2023-02-26,3.60,1,0,9,0599 FBA1 BA12 3D8D C486
+702717475221760290,Appartement Rotterdam Blijdorp,45897790,Robin,Noord,Blijdorp,51.93119,4.45624,Entire home/apt,194,3,2,2023-02-20,0.33,1,9,2,0599 542C 3725 2F30 4D29
+704679879726793839,Centrum loft met balkon,251377715,Laurèl,Delfshaven,Middelland,51.91905389999999,4.4623251,Entire home/apt,95,1,6,2022-11-08,0.91,1,100,6,0599 2A9B 518C 9837 2314
+705622729767247442,"2 person tent in fenced garden, free parking.",449185333,Goran,Prins Alexander,Oosterflank,51.94561,4.55976,Private room,47,1,4,2022-09-11,0.59,6,0,4,0599F8BD632EB9BD943A
+705632015553906887,Spacious minimalist apartment Rotterdam,6570151,Barry,Noord,Liskwartier,51.93843,4.47226,Entire home/apt,109,3,6,2023-03-12,0.91,1,15,6,0599 0D14 22EB 2568 C410
+705940017837319598,"Spacious 2 - Bedroom Apartment, fully equipped!",346518766,Dilara,Noord,Bergpolder,51.93253,4.46789,Entire home/apt,169,3,9,2023-02-14,1.36,1,2,9,0599 8A95 7634 51ED 497F
+706319830089676953,"Private room 2 person, free parking Rotterdam East",449185333,Goran,Prins Alexander,Oosterflank,51.9445,4.55976,Private room,52,1,0,,,6,0,0,0599F8BD632EB9BD943A
+706922812970445295,Knus appartement met dakterras en gratis parkeren,469740350,Zulu,IJsselmonde,Lombardijen,51.8811916,4.5242892,Entire home/apt,199,2,0,,,1,349,0,0599 E10E 5D1D B59C B920
+707063048946019782,Bergpolder House - with patio,23473802,Max,Noord,Bergpolder,51.93584,4.46703,Entire home/apt,85,21,0,,,2,179,0,0599 6D3C 6364 9D89 080B
+709282288043886522,"Spacious studio with roof terrace, beautiful view!",45441966,Martine,Rotterdam Centrum,Oude Westen,51.91705,4.46429,Private room,110,3,12,2023-03-26,2.32,2,159,12,0599 6307 016F 2136 8279
+710117948329351564,Modern apartment  in city center,35307100,Coco,Rotterdam Centrum,Cool,51.92173,4.47294,Entire home/apt,159,7,16,2023-02-18,3.24,5,129,16,0599 0CBA 1171 E4BC A1C2
+712679514381701102,Stylish and spacious flat 7min walk to city center,85315,Jacob,Noord,Blijdorp,51.92507,4.45637,Entire home/apt,110,2,7,2023-02-06,1.10,2,4,7,0599 284C 6FFD 1D7B 3D6E
+712789372977984855,Ruime gezinswoning nabij centrum,15774125,Rob,Feijenoord,Vreewijk,51.88568,4.50193,Entire home/apt,183,4,0,,,1,0,0,0599 5FEB 5746 8A23 A3F9
+713440728249598425,Cozy room in a beautiful home with a garden,58092522,Mavi,Prins Alexander,Oosterflank,51.94194,4.56491,Private room,58,2,1,2022-12-02,0.26,1,349,1,0599 2EA5 6046 8B3A F320
+713683671382760026,Tolles Zimmer in Zentrumnähe an einem Park,423094882,Sim,Noord,Blijdorp,51.92903,4.4572,Private room,44,2,22,2023-03-12,3.77,3,32,22,0599 86EE 9670 EF20 B7A9
+713751285207776886,"Oase in de stad, ruime woonboot, gratis parkeren",359073669,John En Marisa,Noord,Blijdorp,51.93377899999999,4.4509653,Entire home/apt,150,3,16,2023-03-19,3.75,1,109,16,0599 1D18 0623 78FB F357
+714306586337576712,Beautiful centrally located apartment in Rotterdam,6944087,Boris,Noord,Provenierswijk,51.92665,4.46671,Entire home/apt,145,4,5,2023-02-23,1.09,1,50,5,0599 DD5C 11BD 6DE3 A712
+714457060117132531,TJ - Bright and Comfortable Apartment in Rotterdam,74768532,Tjula,Noord,Oude Noorden,51.93368,4.48328,Entire home/apt,65,30,1,2023-02-06,0.60,2,121,1,0599 45B0 B3E2 B61E 60F7
+715225202940902659,TJ - Modern and Elegant Apartment w/ Two Bedrooms,74768532,Tjula,Noord,Oude Noorden,51.93501,4.48172,Entire home/apt,80,30,1,2023-01-15,0.42,2,151,1,0599 45B0 B3E2 B61E 60F7
+715922185791575224,Gezellige woning in Rotterdam nabij centrum.,42823335,Tim,IJsselmonde,Groot IJsselmonde,51.89145,4.54655,Entire home/apt,190,1,2,2022-10-23,0.35,1,0,2,0599 8427 0889 B08A 2F2F
+716360734919026648,Sunny spacious white zen apartment with green view,78877502,Wijnand,Hillegersberg-Schiebroek,Schiebroek,51.9567,4.47578,Entire home/apt,105,7,1,2022-11-20,0.23,1,48,1,0599 6CAB A02E BB59 F6D6
+717023576650671502,"Ruim appartement, vlakbij centrum Rotterdam.",46397835,Alice,Kralingen-Crooswijk,De Esch,51.9097,4.52,Entire home/apt,125,3,1,2023-01-03,0.36,1,6,1,0599 D1D5 E1AC 6BB6 FF48
+717097336542815884,Elegant 1-Bedroom Apartment in the Heart of R'dam,411209255,Nicholas,Rotterdam Centrum,Stadsdriehoek,51.9191456,4.4813963,Private room,194,1,0,,,1,363,0,0599 AA4F 8D06 0F4F 698F
+717882984239402316,Newly renovated apartment close to central station,54992344,Arman,Noord,Bergpolder,51.93392,4.46623,Entire home/apt,110,7,2,2022-12-07,0.37,1,0,2,0599 BC51 622B 30A6 703F
+717926780321834191,Beautiful studio in the centre of Rotterdam,88108496,Vyash,Noord,Provenierswijk,51.92795,4.47049,Entire home/apt,100,2,8,2023-03-08,1.29,11,320,8,Exempt
+717968887825266477,Beautiful 1 bedroom apartment in Rotterdam centre,88108496,Vyash,Noord,Provenierswijk,51.9277,4.46966,Entire home/apt,100,2,10,2023-03-05,1.69,11,331,10,Exempt
+720272864257122679,Lovely 2-person apartment in Rotterdam,173034856,Sam,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.94529,4.46902,Entire home/apt,75,2,6,2022-11-30,1.03,1,85,6,0599 EF61 1321 EFFA 86C3
+720780120532418868,Urban room Rotterdam,34626101,Aliya,Prins Alexander,Ommoord,51.95833,4.534,Private room,80,3,0,,,2,114,0,0599 34B9 066C 0AA2 1401
+722192358773932153,19th century upscale condo at best spot Rotterdam,33278666,Erik,Rotterdam Centrum,Stadsdriehoek,51.91031,4.47923,Entire home/apt,400,1,7,2023-01-07,1.24,1,346,7,0599 4CB2 DF8A CEA6 4F38
+722285867478775773,Beautiful large & new house with private parking,6966303,Lisette,Overschie,Zestienhoven,51.94462,4.45641,Entire home/apt,158,4,0,,,1,0,0,0599 3690 451B 58E6 53BA
+723868864170427318,Beautiful private apartment at center Rotterdam,31581715,Loc,Rotterdam Centrum,Oude Westen,51.91503,4.46376,Entire home/apt,73,2,29,2023-03-20,4.92,2,181,29,05992CAC64CBEA1259F0
+724394446785434080,Love art? Come Stay with Me,481081314,Umair,IJsselmonde,Oud IJsselmonde,51.90077,4.55069,Private room,80,1,0,,,1,73,0,0599 6EB1 8CB3 6307 0E85
+726046618140212293,Spacious and relaxing apartment in Rotterdam,4684571,Liz,Charlois,Oud Charlois,51.88882,4.46885,Entire home/apt,250,3,5,2023-03-20,0.96,1,217,5,0599 A86E 1587 96E6 5443
+726166159817243574,Ruime kamer met balkon 7min lopen van station,85315,Jacob,Noord,Blijdorp,51.9260984,4.456999199999999,Private room,60,2,15,2023-03-17,2.59,2,89,15,0599 284C 6FFD 1D7B 3D6E
+727514554380410609,Cosy private room in modern flat,292147170,Temitayo,Charlois,Tarwewijk,51.89028,4.48686,Private room,42,1,20,2023-03-19,3.68,1,44,20,0599 CA03 6012 41BF 312B
+728674611434937315,Cheerful 4 bedroom luxerous house with garden,70973903,Arnaud,Prins Alexander,Nesselande,51.982,4.59328,Entire home/apt,400,5,0,,,1,141,0,0599 196E 3443 1A45 7616
+731010765417694137,Spacious City Apt with Rooftop,29340357,Kick&Neda,Delfshaven,Middelland,51.92127,4.45864,Entire home/apt,150,7,0,,,11,82,0,0599 7764 19EE 7DB1 10E3
+732399506509803556,Spacious apartment with tasteful interior,32114324,Karin,Noord,Oude Noorden,51.9389,4.48271,Entire home/apt,97,2,1,2023-01-07,0.37,1,4,1,0599 05F6 877D B388 46F5
+734582869168934400,Mooi Appartement in Rotterdam,21480171,Marjolein,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.94275,4.48123,Entire home/apt,350,2,2,2022-11-20,0.41,1,162,2,0599 1B45 B67F 81C2 5F3F
+734687226455863492,"Mooie uitzicht gezellig en
+alles  op loopafstand",483024832,Ayse,Rotterdam Centrum,Stadsdriehoek,51.92007,4.48969,Entire home/apt,200,1,4,2022-11-20,0.79,1,337,4,059959F33ED5V92DEBAA
+736568849609398217,Privékamer in Rotterdam,483391071,Michaël,Overschie,Kleinpolder,51.9353631,4.4278131,Private room,64,1,10,2023-03-26,3.41,1,45,10,0599 B205 E566 2FE7 A300
+736675900842023420,Cheerful great private room in Rotterdam.,449185333,Goran,Prins Alexander,Oosterflank,51.94418,4.56142,Private room,39,1,1,2023-02-01,0.55,6,16,1,0599F8BD632EB9BD943A
+737566461678833213,Authentic city apartment +garden,231903383,Nicole,Noord,Bergpolder,51.93709,4.46356,Entire home/apt,100,2,3,2023-03-23,1.06,1,27,3,0599BE989FBCE792E602
+738103337976037980,Spacious house in quiet area with free parking,13860146,Paul,Hillegersberg-Schiebroek,Terbregge,51.94939400000001,4.506332,Entire home/apt,149,2,4,2022-12-12,0.94,1,0,4,0599 DF22 223C B391 3AC7
+738783406479254129,Entire apartment in Rotterdam city with garden,26424699,Marije,Kralingen-Crooswijk,Kralingen West,51.925158,4.5004742,Entire home/apt,160,1,0,,,2,41,0,0599 C360 8E4E E8AA A161
+742465507500652936,Moderne en royale gezinswoning in het centrum,16057634,Marine,Feijenoord,Afrikaanderwijk,51.90046,4.49649,Entire home/apt,285,2,4,2023-01-02,0.89,1,20,4,0599 C88C 0568 40C0 1BDE
+742644374694585669,Volledig ingericht appartement in Hillegersberg,127327838,Alexander,Hillegersberg-Schiebroek,Molenlaankwartier,51.9580138,4.4994463,Entire home/apt,80,30,0,,,1,94,0,0599 4405 A305 8BA2 8F82
+744009049769259950,Apartment | 10 min walk from Central Station,41175019,Sjors,Noord,Bergpolder,51.93156,4.46912,Entire home/apt,60,50,0,,,1,75,0,0599 2422 0ED7 DA78 21D9
+744222768446474362,Luxury apartment with skyline view!,27380603,Dennis,Rotterdam Centrum,Stadsdriehoek,51.91011295313978,4.4792982184003405,Entire home/apt,166,2,6,2023-01-02,1.65,1,64,6,0599 7EF7 830B A5B5 C083
+744842339220033968,appartement met inpandige garage,6858881,Fadila,Delfshaven,Middelland,51.92106,4.46229,Entire home/apt,130,2,5,2023-03-24,5,1,62,5,0599 5E21 2042 2549 3D3F
+745608930539365748,Luxe appartement dicht bij het centrum,302893992,Michiel,Noord,Bergpolder,51.93415,4.46179,Entire home/apt,135,2,14,2023-02-07,3.13,12,0,14,0599 1022 BD68 2E3B 7CCD
+749021344036165796,Hermoso departamento cerca del centro de la ciudad,352380272,Abel,Kralingen-Crooswijk,Oud Crooswijk,51.93225,4.48818,Private room,73,1,20,2023-03-20,4.29,1,57,20,Exempt
+749166008380280332,Stijlvol appartement in gezellig Noord,66030818,Wouter,Noord,Bergpolder,51.93893,4.46726,Entire home/apt,95,1,1,2023-02-13,0.70,1,139,1,0599 DEEA 878E F28E 33DD
+749170785140098027,Apt. Madagascar - Room2 - shared living & kitchen,51596514,Marc,Kralingen-Crooswijk,Rubroek,51.92661,4.49321,Private room,65,7,0,,,2,23,0,0599 9068 2472 FBA7 7852
+749812779135918355,Mooie appartement in Rotterdam centrum,21450011,Piero,Kralingen-Crooswijk,Kralingen West,51.92856,4.50879,Entire home/apt,500,1,1,2023-01-01,0.35,1,23,1,0599 B605 8012 69B7 EFE8
+749873940716745416,Zippy 2 Bedroom Serviced Apartment 90m2 -LK15-,448782489,Martijn,Kralingen-Crooswijk,Rubroek,51.92602,4.4866,Entire home/apt,116,14,8,2023-02-27,1.79,38,143,8,0599 2B01 14EA 7C61 E9E4
+750444469657551512,Cosy apartment Rotterdam,63451579,Maarten,Delfshaven,Delfshaven,51.906526,4.458046,Entire home/apt,75,14,1,2023-02-08,0.63,1,152,1,0599 30DD 8B61 E37D 7C57
+751449013242572302,Mooie appartement in Rotterdam zuid.,486057089,Urjedise,Charlois,Tarwewijk,51.892101186683874,4.477092660963535,Entire home/apt,75,4,13,2023-02-28,3.00,1,24,13,0599 76E6 011A 9D87 A47D
+751530080453923685,Appartement in Noord,13700298,Brigitte,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.94393,4.48357,Entire home/apt,120,2,1,2023-02-20,0.83,1,184,1,0599B8C47D28072F6D3B
+756647987853589415,Spacious 1-bedroom unit in Central Rotterdam,262561144,Palash,Rotterdam Centrum,Stadsdriehoek,51.9211,4.492,Private room,38,2,5,2023-02-26,1.50,1,0,5,0599 47BD 5D7F 3664 CCD0
+757006978754236543,Luxe appartement scheepvaartkwartier Rotterdam,118630782,Desiree,Rotterdam Centrum,Nieuwe Werk,51.9098026,4.4803036,Entire home/apt,300,2,2,2023-02-21,0.57,1,166,2,05993B47CEBCD0D5C50A
+757702618912693490,70m2 space with roof-terrace and private spa,11811444,Willem,Overschie,Overschie,51.94235,4.42321,Entire home/apt,202,2,0,,,1,176,0,05997EF09CB053CC06AE
+761485822077242138,Central  apartment in Rotterdam,40186103,Shireen,Noord,Bergpolder,51.9342062,4.464535199999999,Entire home/apt,115,2,3,2023-02-19,1.02,1,150,3,0599 C7D2 8B27 EF68 1129
+762736001998195972,"Boat-hotel Anna 6 pers, Rotterdam city center",4104827,Casper,Feijenoord,Kop van Zuid - Entrepot,51.90724,4.50134,Entire home/apt,302,1,4,2023-03-20,1.52,9,297,4,Exempt
+762737898502431849,"Boat-hotel Seven 6 pers, Rotterdam city center",4104827,Casper,Feijenoord,Kop van Zuid - Entrepot,51.90643,4.50252,Entire home/apt,316,1,0,,,9,282,0,Exempt
+762741414227247045,"Boat-hotel Seven 4 pers, Rotterdam city center",4104827,Casper,Feijenoord,Kop van Zuid - Entrepot,51.90704,4.50404,Entire home/apt,157,1,0,,,9,0,0,Exempt
+762745556045064290,"Boat-hotel boot 6, Rotterdam city center",4104827,Casper,Feijenoord,Kop van Zuid - Entrepot,51.90742,4.50109,Entire home/apt,450,1,2,2023-03-19,1.36,9,252,2,Exempt
+762747708427414036,"Boat-hotel Wilhelmina, Rotterdam city center",4104827,Casper,Rotterdam Centrum,Stadsdriehoek,51.91857,4.48892,Entire home/apt,465,1,0,,,9,237,0,Exempt
+764592981441605260,Once upon a time in the west,428125443,Erik,Delfshaven,Nieuwe Westen,51.91915,4.44278,Private room,32,21,2,2023-03-04,1.22,1,23,2,0599 212B B014 16E4 93C1
+764594670176621658,A designer's appt with 3 bedrooms & large garden,5357039,Martijn,Noord,Bergpolder,51.93574,4.46194,Entire home/apt,180,3,3,2023-02-18,1.76,1,71,3,0599 BE7E EBAF C7AD C5EE
+766515651027141909,Bed in Mixed Dormitory Room,365217950,Bianca,Noord,Agniesebuurt,51.92908,4.4746,Shared room,45,1,4,2023-03-06,1.13,12,352,4,Exempt
+768844017073226337,Sunny apartment in Blijdorp,9266651,Tessa,Noord,Blijdorp,51.93226,4.45377,Entire home/apt,90,7,1,2023-03-09,1,2,0,1,0599 6DB7 E66C 8223 A44D
+770180407673660857,Modern city center apartment - Rotterdam,286949566,Joris And Camilla,Kralingen-Crooswijk,Rubroek,51.9253,4.48801,Entire home/apt,195,1,1,2023-01-02,0.35,1,249,1,0599 B845 74A5 8AB3 D806
+770329014475954918,City center luxious apartment for you short stay,475246536,Rui,Rotterdam Centrum,Stadsdriehoek,51.91926471043472,4.480940324467464,Entire home/apt,250,1,0,,,1,222,0,0599 3A2C E5B5 3C3D C16D
+771199949684544581,Warm 2 Bedroom Serviced Apartment 59m2 -LK21-,448782489,Martijn,Kralingen-Crooswijk,Rubroek,51.9258994,4.4856883,Entire home/apt,116,20,9,2023-03-08,2.73,38,110,9,0599 2B01 14EA 7C61 E9E4
+771431474707571378,Amazing townhouse,80166753,Sam,Feijenoord,Hillesluis,51.8973267,4.5129468,Entire home/apt,144,2,2,2022-12-30,0.60,1,64,2,0599 C57C A900 9F56 0BA4
+774429051894480017,"Helles Zimmer, tolle Lage",423094882,Sim,Noord,Blijdorp,51.92922,4.45603,Private room,40,2,4,2023-02-19,1.54,3,24,4,0344 OCC5 EE50 D6B6 3DE4
+775041267059875576,Historisch zeilschip Luciana,11452867,Hieke,Rotterdam Centrum,Nieuwe Werk,51.90763,4.47857,Entire home/apt,485,2,0,,,1,156,0,Exempt
+775262709380284253,Stylish apartment @ city centre,5533329,Sanne,Rotterdam Centrum,Stadsdriehoek,51.92366,4.48955,Entire home/apt,250,21,0,,,1,175,0,0599 BC04 5A34 3419 B309
+776602445563061807,Appartement in Delfshaven,17484679,Joske,Delfshaven,Nieuwe Westen,51.9184658,4.4460125,Entire home/apt,110,5,1,2023-01-07,0.37,1,69,1,0599 4A58 01E0 3905 04DE
+777030983426244488,TJ - Exquisite New App w/ Garden,84598160,Thico,Noord,Oude Noorden,51.93287,4.48275,Entire home/apt,90,28,0,,,4,299,0,0599 A919 B9E2 B7AD 747E
+778040812887135771,uitwaaien dichtbij zee?,490802228,Yvonne,Hoek van Holland,Strand en Duin,51.99426,4.12955,Entire home/apt,95,4,0,,,1,154,0,
+778130887773560346,Room 15min by metro from center!,34748520,Rubén,Prins Alexander,Oosterflank,51.94242114471214,4.564169166270435,Private room,70,3,0,,,3,108,0,0599 F1CE 8B1E F70B 3FB9
+780967181952931417,Space Room + Great Location 4P.,131630024,Sinbad,Rotterdam Centrum,Cool,51.91614,4.47699,Private room,209,1,1,2022-12-30,0.34,10,154,1,Exempt
+784603958404520930,Studio in chique wijk,491875156,Metin,Rotterdam Centrum,Nieuwe Werk,51.9094,4.48123,Entire home/apt,99,1,3,2023-03-19,3,2,344,3,0599 D8A4 CF79 18AC 895A
+784604021274974788,Mooie studio +-30m2 bij Erasmusbr.,491875156,Metin,Rotterdam Centrum,Nieuwe Werk,51.90948179999999,4.4814802,Entire home/apt,96,1,12,2023-03-18,4.14,2,319,12,0599 D8A4 CF79 18AC 895A
+785458057739376372,À cosy apartment,492021640,Hanane,Feijenoord,Kop van Zuid - Entrepot,51.9057,4.50861,Entire home/apt,135,4,0,,,1,335,0,0599 654D 752D 7209 A2C2
+787442239655226374,"Double bedroom, parking underground included",42696909,Lennart,Rotterdam Centrum,Stadsdriehoek,51.91961,4.48663,Private room,121,3,1,2023-01-02,0.35,1,0,1,0599 3F91 0F06 3A88 68AB
+788996815683566906,Beautiful one bedroom apartment with kitchen,88108496,Vyash,Noord,Provenierswijk,51.92734,4.46907,Entire home/apt,100,2,5,2023-02-08,1.81,11,307,5,Exempt
+789954294706144537,Monthly flat near Erasmus Uni,457552086,Ivy,Prins Alexander,Het Lage Land,51.94345,4.54089,Entire home/apt,113,21,0,,,1,315,0,Exempt
+791131938687144723,Beautiful one bedroom apartment with kitchen,88108496,Vyash,Noord,Provenierswijk,51.92710303230626,4.47018364418029,Entire home/apt,100,2,4,2023-03-13,1.56,11,326,4,Exempt
+791173637847474388,Tiny House Private Room Nearby Ahoy,18903641,Shu,Feijenoord,Bloemhof,51.89024,4.50114,Private room,30,3,2,2023-03-06,1.67,4,0,2,ABCD 1234 AB12 89EF A0F9
+792462575494792508,Moderne woning met tuin in een oude school,433561723,Denise,Feijenoord,Afrikaanderwijk,51.90105,4.4973,Entire home/apt,375,2,3,2023-03-26,2.05,1,132,3,0599 6CE4 D6D9 C562 2206
+794920594636264433,Spacious comfy room in city center Rotterdam,493744674,Mog,Rotterdam Centrum,Stadsdriehoek,51.91948,4.48288,Private room,76,2,0,,,3,134,0,0599 54B2 711B 1A3A 9037
+796390411232628198,"1900 City Home, garden & free parking",19079307,Femme,Noord,Oude Noorden,51.93481,4.47526,Entire home/apt,250,5,0,,,2,80,0,0599FBBD9941AB1F0B59
+796439869154565990,Cool Tower,494143872,Shiela,Rotterdam Centrum,Stadsdriehoek,51.9144272,4.4806563,Entire home/apt,250,1,0,,,1,88,0,059995E53BF0849F4CD1
+796446056955979187,Spacious designer home in central neighborhood,141278885,Lars,Noord,Oude Noorden,51.93172,4.47908,Entire home/apt,541,2,0,,,1,17,0,0599 B719 B754 EB38 5069
+797472309296466991,Beautiful studio in the centre of Rotterdam,88108496,Vyash,Noord,Provenierswijk,51.92766,4.46943,Entire home/apt,100,2,3,2023-03-20,1.53,11,324,3,Exempt
+797563560283247156,Rotterdam Central Lounging House,119115294,Joe,Noord,Oude Noorden,51.92631292669366,4.480500423278828,Entire home/apt,199,2,0,,,1,344,0,0599 4024 274D 1B4D 4BDF
+798419279460735606,"Central, cosy &  luminous place",78599206,Adriane,Noord,Oude Noorden,51.93221,4.4856,Private room,110,1,2,2023-02-05,1.03,1,80,2,0599 570A 8A40 0DE5 3F80
+798973889342087474,Cozy room in a good location!,37502938,Kseniia,Delfshaven,Nieuwe Westen,51.92125,4.44325,Private room,49,15,4,2023-03-08,1.79,2,251,4,0599 0AF6 44F9 5F6E 814D
+799878776476481380,Suite next to Ahoy,152832910,Neni,Charlois,Zuiderpark,51.88556,4.48281,Private room,65,3,1,2023-02-05,0.59,2,268,1,0599 F5F9 39BE 5E7D 7F54
+799961205765362980,Cosy family apt next to Ahoy,152832910,Neni,Charlois,Zuiderpark,51.88491,4.4832,Entire home/apt,146,3,0,,,2,257,0,0599 F5F9 39BE 5E7D 7F54
+802238032897430205,Comfortable apartment in Trendy Katendrecht,32826289,Ivar,Feijenoord,Katendrecht,51.90243,4.48291,Entire home/apt,124,2,0,,,1,11,0,0599 C4B1 213E 550C A29B
+802264445911118054,MAdly in Love with Rotterdam Blijdorp,302893992,Michiel,Noord,Blijdorp,51.93088,4.4596,Entire home/apt,158,2,0,,,12,152,0,0599 0031 C201 FAFE 2548
+802318957765165812,Rotterdam Retreat: Experience City Living in Style,37221791,Joey,Noord,Oude Noorden,51.92669,4.48426,Entire home/apt,180,1,0,,,2,62,0,0599 E5FD 6C2F 7CBF 099F
+803351418001528426,Appartement aan het water (5min van centrum),198450635,Femke,Kralingen-Crooswijk,Nieuw Crooswijk,51.936061,4.4889207,Entire home/apt,150,2,0,,,1,171,0,0599 202B 956D A9B7 28F2
+804861150675633743,Fully decorated cosy apartment,933078,Kirsten,Hillegersberg-Schiebroek,Schiebroek,51.95851,4.47157,Entire home/apt,80,1,0,,,1,22,0,0599 DE13 9773 98AD 75E4
+804957762001011354,Spacious house in Rotterdam City,6777250,Tslil And Amit,Noord,Oude Noorden,51.93825372887862,4.4807840595245185,Entire home/apt,200,5,1,2023-03-06,1,1,19,1,0599 570F 2BC4 A6C1 BD0D
+805659748799671520,Cool and cozy sun-lit apartment,7910003,Roos,Delfshaven,Middelland,51.91905746969742,4.456565044820309,Entire home/apt,125,4,1,2023-02-05,0.59,1,67,1,0599 C710 2556 56CC 5A6D
+808798235972931121,Private room with bay window in historical house,37502938,Kseniia,Delfshaven,Nieuwe Westen,51.92121,4.44307,Private room,56,15,2,2023-03-01,2,2,234,2,05990AF644F95F6E814D
+809140323704323221,Studio Witte de Withstraat R'dam,131630024,Sinbad,Rotterdam Centrum,Cool,51.91528,4.47838,Entire home/apt,125,1,3,2023-03-04,1.73,10,78,3,Exempt
+809227747457822307,Characteristic 1930's house,398138342,Martijn,Hillegersberg-Schiebroek,Hillegersberg Zuid,51.94263,4.47239,Entire home/apt,125,4,0,,,1,85,0,0599 96B7 3903 8908 986F
+809886786033326604,Cosy and light family house in Rotterdam,12638873,Antim,Hillegersberg-Schiebroek,Molenlaankwartier,51.95782,4.50654,Entire home/apt,295,5,0,,,1,33,0,0599 D056 55B4 CB08 12D1
+810213664150818264,Maisonnette in kunstenaarswijk,24451630,Céline,Charlois,Oud Charlois,51.88623,4.4661,Entire home/apt,151,2,0,,,1,63,0,0599C788F12359EDDB81
+811850879484031253,Classy appartement rotterdam,497813475,NR Unlimited,Rotterdam Centrum,Dijkzigt,51.91055,4.45986,Entire home/apt,210,3,0,,,1,233,0,0599 F365 14D4 6228 EF80
+812165067125549763,"Comfortabele kamer, rand centrum",100551736,Lynn,Delfshaven,Middelland,51.91947,4.45837,Private room,56,1,0,,,1,73,0,0599 9762 2E51 11C7 2CD8
+813094997261190452,Nice private room with garden.,477540117,Melih,Feijenoord,Bloemhof,51.8927298125272,4.494015173055759,Private room,40,1,0,,,3,347,0,355DETAD4f6hxai467s3
+815181241623740015,"Art House Rotterdam, Kralingen",37965672,Maries,Kralingen-Crooswijk,Kralingen West,51.93167400926809,4.503830261528492,Entire home/apt,114,3,1,2023-02-11,0.67,1,24,1,0599 D32F DB09 C356 B2DE
+815684065048014802,The Rotterdam View,36041636,Salam,Noord,Provenierswijk,51.92926091640417,4.471376034393297,Entire home/apt,290,2,0,,,1,185,0,0599 1715 720A 8911 B64D
+817984201972799954,Bienvenue à Rotterdam,54527755,Mélissa Eleïss,Charlois,Tarwewijk,51.89089548397465,4.4926125928759575,Entire home/apt,189,2,0,,,1,4,0,0599 BEF5 223E D362 9A8D
+821709375116932602,King Room,365217950,Bianca,Noord,Agniesebuurt,51.9285129,4.4741243,Private room,108,1,0,,,12,362,0,Exempt
+822191976737247983,Moderne woning aan de haven,16272734,Margriet,Delfshaven,Delfshaven,51.90685,4.45033,Entire home/apt,450,1,0,,,1,302,0,0599 A74C AADA 864E 7C50
+822478030023144630,Budget Double Room,365217950,Bianca,Noord,Agniesebuurt,51.9285129,4.4741243,Private room,103,1,0,,,12,340,0,Exempt
+822495809860339708,Twin Room,365217950,Bianca,Noord,Agniesebuurt,51.9285129,4.4741243,Private room,106,1,0,,,12,346,0,Exempt
+822500405009952324,Budget 4-Person Room,365217950,Bianca,Noord,Agniesebuurt,51.9285129,4.4741243,Private room,166,1,1,2023-03-10,1,12,350,1,Exempt
+822997278424749199,2-Bedroom Family Room,365217950,Bianca,Noord,Agniesebuurt,51.9285129,4.4741243,Private room,208,1,0,,,12,303,0,Exempt
+823001911057444428,Budget 6-Person Room,365217950,Bianca,Noord,Agniesebuurt,51.9285129,4.4741243,Private room,214,1,1,2023-02-18,0.79,12,347,1,Exempt
+823002712429036008,Balcony Suite,365217950,Bianca,Noord,Agniesebuurt,51.9285129,4.4741243,Private room,145,1,0,,,12,338,0,Exempt
+823016232153933672,Budget Family Room,365217950,Bianca,Noord,Agniesebuurt,51.9285129,4.4741243,Private room,167,1,0,,,12,345,0,Exempt
+823044673430147248,Family Room,365217950,Bianca,Noord,Agniesebuurt,51.9285129,4.4741243,Private room,289,1,0,,,12,341,0,Exempt
+823202758113422384,Unieke woonark met privétuin en free parking.,36519040,Kristel,Noord,Oude Noorden,51.94024,4.48276,Entire home/apt,178,2,1,2023-03-20,1,2,98,1,0599 039A B887 B7B0 D733
+825283957995645267,Appartement bij Kralingse Plas,191894067,Nick,Kralingen-Crooswijk,Kralingen West,51.932529,4.50348,Entire home/apt,150,2,3,2023-03-19,3,1,68,3,0599 2961 9C76 3A94 DEB9
+826117264390636388,Sfeervol en authentiek loft,6392276,Joost & Sam,Kralingen-Crooswijk,Nieuw Crooswijk,51.93597,4.4919,Entire home/apt,155,5,0,,,1,0,0,0599 53AB 4CA2 2B77 516E
+826811915864910323,Budget 8-Person Room,365217950,Bianca,Noord,Agniesebuurt,51.9285129,4.4741243,Private room,289,1,0,,,12,319,0,Exempt
+826845817529893816,Beautiful Studio in centre of Rotterdam,88108496,Vyash,Noord,Provenierswijk,51.92642,4.471,Entire home/apt,74,2,1,2023-03-18,1,11,270,1,Exempt
+826852931532300634,Beautiful studio in the centre of Rotterdam,88108496,Vyash,Noord,Provenierswijk,51.92755,4.46979,Entire home/apt,95,2,1,2023-02-27,1,11,327,1,Exempt
+828900529098706987,Charming apartment in city center Rotterdam,493744674,Mog,Rotterdam Centrum,Stadsdriehoek,51.92225,4.48533,Entire home/apt,150,2,0,,,3,9,0,0599 54B2 711B 1A3A 9037
+828985415763217013,Historic city center apartment,24813926,Marc,Delfshaven,Nieuwe Westen,51.91807,4.45392,Entire home/apt,110,1,0,,,1,359,0,0599 850C 6E87 5F7F 641A
+829657999540475728,Double house close to city,108046608,Patrick,Charlois,Pendrecht,51.87323,4.46084,Entire home/apt,335,7,0,,,1,36,0,0599 F7FC D91C B0ED 8F7A
+830377044374378722,Rotterdam Center: 3 Bright rooms,501807869,F,Kralingen-Crooswijk,Rubroek,51.9254733,4.4863801,Entire home/apt,200,1,1,2023-03-20,1,1,50,1,0599D7E2CFC177917651
+831534895635965006,Centraal gelegen appartement op Noordereiland,502079265,Sebas,Feijenoord,Noordereiland,51.917,4.49965,Entire home/apt,105,4,1,2023-03-19,1,1,25,1,0599 9643 1CA5 2D3D 382E
+831716107365970985,Charming apartment in Rotterdam,172457556,Fenna,Noord,Blijdorp,51.93334,4.45735,Entire home/apt,91,20,0,,,1,34,0,0599 3226 FB88 DF49 958B
+831740874538845679,West Central 1br Apt A,29340357,Kick&Neda,Delfshaven,Nieuwe Westen,51.92135,4.45683,Entire home/apt,149,7,0,,,11,96,0,0599 0EA3 2BDC A66B 1606
+831749402684777724,Spacious West Central Apt B,29340357,Kick&Neda,Delfshaven,Middelland,51.92134,4.45711,Entire home/apt,149,7,0,,,11,96,0,0599 0EA3 2BDC A66B 1606
+833449672304871594,Stylish city apartment with sunny garden!,7792156,Nienke,Overschie,Kleinpolder,51.933269,4.4355363,Entire home/apt,115,5,0,,,1,30,0,0599 517E B1DC B8F7 2DFB
+834819987807971148,Private room in shared house,26424699,Marije,Kralingen-Crooswijk,Kralingen West,51.9251897,4.5004878,Private room,99,1,2,2023-03-14,2,2,53,2,0599 C360 8E4E E8AA A161
+835523827213359387,Uitwaaien in de Hoek!,25209986,Mark,Hoek van Holland,Dorp,51.9768,4.1316,Entire home/apt,95,2,1,2023-03-19,1,1,182,1,
+835549576723406654,Rotterdam City Studio,19079307,Femme,Noord,Oude Noorden,51.93403,4.47541,Private room,125,4,0,,,2,238,0,0599FBBD9941AB1F0B59
+836131767336472449,The cozy cave,39550456,Youp,Kralingen-Crooswijk,Kralingen West,51.93081,4.5025,Entire home/apt,100,3,0,,,1,222,0,0599 FA34 0B85 A081 5DC0
+836806280549707551,Appartement Lombardijen,503196590,Henk,IJsselmonde,Lombardijen,51.8812978,4.5265299,Entire home/apt,95,2,0,,,1,81,0,05996000C21D7D434E55
+837346681784485180,Lovely double bed room,477540117,Melih,Feijenoord,Bloemhof,51.89283551661984,4.494020082056522,Private room,90,1,0,,,3,355,0,AHK7ABLUFV684FHL6TGH
+838041049250888414,Lovely private single bedroom,477540117,Melih,Charlois,Tarwewijk,51.89552,4.49249,Private room,42,1,0,,,3,339,0,ALJ790GHUYY50ALPQ610
+839549320838824982,Studio Witte de Withstraat.!,131630024,Sinbad,Rotterdam Centrum,Cool,51.9168,4.47802,Entire home/apt,113,1,0,,,10,61,0,Exempt
+840681589669299139,Authentic Playful Sunny Studio,159734103,Jady,Noord,Provenierswijk,51.92651,4.46629,Entire home/apt,91,1,0,,,1,1,0,0599 1690 6BD1 FF36 FE0A
+841032739043467266,Onze Chill,464374553,Mariëlle,Overschie,Schieveen,51.96378,4.41333,Entire home/apt,90,2,0,,,1,56,0,05996B754FCB710E18B1
+844868560545227759,Heerlijk aan het strand,152000654,Rick,Hoek van Holland,Strand en Duin,51.99329101535385,4.1326771490776215,Entire home/apt,90,2,0,,,1,163,0,
+845414175173348323,private room in Rotterdam central,237987453,Sudeh,Noord,Bergpolder,51.93152,4.46872,Private room,71,1,0,,,1,142,0,0599 48C1 A0DA 35E4 F4A7
+845734269712726408,Cozy & modern room near city,16316189,Mandy,Kralingen-Crooswijk,De Esch,51.90890530000001,4.520904199999999,Private room,56,7,0,,,2,350,0,0599 D8F0 6F84 552E 52F8
+845741732355874959,Water & city vibes,16316189,Mandy,Kralingen-Crooswijk,De Esch,51.90890530000001,4.520904199999999,Entire home/apt,72,28,0,,,2,184,0,0599 D8F0 6F84 552E 52F8
+846730891768411146,Zonnige en ruim appartement,58369883,Merel,Hillegersberg-Schiebroek,Hillegersberg Noord,51.956839181659895,4.492274299263954,Entire home/apt,110,2,0,,,1,26,0,0599 961B 59E9 9D1E AAC7
+848999595605372599,"Rotterdam, stad, bos en water",49862045,Tieme,Hillegersberg-Schiebroek,Molenlaankwartier,51.96044,4.51107,Entire home/apt,89,2,0,,,1,110,0,0599B54C2967089ACF8C
+849152059497850836,Kamer in een waanzinnig appartement,109486170,Shirley,Kralingen-Crooswijk,De Esch,51.9099435,4.5194097,Private room,110,1,0,,,1,361,0,Exempt
+850742069711506328,Studio-like spacious room in city center Rotterdam,493744674,Mog,Rotterdam Centrum,Stadsdriehoek,51.92243,4.48481,Private room,100,2,0,,,3,231,0,0599 54B2 711B 1A3A 9037
+851957300024136932,Perfect Central Apartment,6494721,Beau,Rotterdam Centrum,Cool,51.91954279999999,4.4750005,Entire home/apt,200,3,0,,,1,339,0,0599 980E 36E8 5912 26CD
+855088836854232179,Qiet and near the centre,50171963,Laila,Noord,Blijdorp,51.93259,4.45344,Entire home/apt,80,1,0,,,1,186,0,0599 381C 59C3 3FA9 0309

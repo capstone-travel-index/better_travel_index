@@ -1,0 +1,951 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+103875,Design house-city centre-private parking,541315,Arthur,Wijk 28 Centrum,Zuidwal,52.07453,4.31669,Entire home/apt,125,4,20,2021-11-12,0.15,3,0,0,0518B3A6F34367DC62EA
+378711,ruime studio w.private kitchen/bath near beach.,1902132,Karen,Wijk 03 Westbroekpark en Duttendel,Duttendel,52.10822,4.30535,Private room,120,3,22,2022-07-29,0.46,2,305,2,0518 8B36 A437 A071 6DE3
+450807,Zen in the City Privat Cosy XL APP,2238496,Saskia,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08399,4.33062,Entire home/apt,114,7,126,2020-08-29,0.96,1,180,0,0518 2B37 5D9E E68B 7E90
+492615,Cute Room in  Den Haag Centrum,1003354,Paul,Wijk 29 Schildersbuurt,Schildersbuurt-West,52.07198,4.29595,Private room,40,2,334,2023-03-24,2.55,2,144,34,05188F255B48V7D7EF83
+523633,Amazing Apartment on 39th floor 771,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07223,4.32396,Entire home/apt,196,1,394,2023-03-14,3.01,20,344,11,Exempt
+628445,Amazing Apartment on 39th floor 773,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07027,4.32552,Entire home/apt,198,1,258,2023-03-18,2.01,20,332,13,Exempt
+635931,Amazing Apartment on 39th floor 772,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07081,4.32496,Entire home/apt,181,1,142,2023-02-07,1.10,20,350,7,Exempt
+635974,Amazing Apartment on 39th floor 774,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07137,4.32465,Entire home/apt,223,1,220,2023-01-26,1.73,20,346,14,Exempt
+641820,"B&B The Hague, Own floor, Shared front door",3206829,Coco,Wijk 04 Benoordenhout,Duinzigt,52.10297,4.32047,Entire home/apt,72,2,255,2023-03-13,2.15,1,225,20,0518 39C4 1D10 992B 8F94
+730922,Second Cute Room Den Haag Centrum,1003354,Paul,Wijk 29 Schildersbuurt,Schildersbuurt-West,52.07198,4.29595,Private room,38,2,251,2023-03-20,2.11,2,162,46,0518 8F25 5B48 C7D7 EF83
+774806,Very QUIET apartment between city centre & beach,4069743,James,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07722,4.28061,Entire home/apt,150,3,62,2022-10-16,0.58,3,219,10,0518 746B 667E 1E1A F580
+800960,Amazing Apartment on 38th floor 767,300966,Elwin,Wijk 27 Stationsbuurt,Rivierenbuurt-Zuid,52.07244,4.32545,Entire home/apt,204,1,178,2022-06-28,1.43,20,354,2,Exempt
+819029,TOP Apartment | City Centre-Private Parking,541315,Arthur,Wijk 28 Centrum,Zuidwal,52.07425,4.31658,Entire home/apt,107,5,48,2023-03-07,0.42,3,213,9,0518 FFC0 E3D5 3FC5 005F
+857470,Amazing Apartment on 38th floor 769,300966,Elwin,Wijk 27 Stationsbuurt,Rivierenbuurt-Zuid,52.07246,4.32496,Entire home/apt,200,1,174,2022-10-09,1.40,20,349,6,Exempt
+901609,"Artistic loft in the center+parking, wifi, bikes",4817186,Yolande,Wijk 28 Centrum,Kortenbos,52.07683,4.30513,Entire home/apt,105,7,265,2023-03-05,2.24,1,6,27,0518 4400 8D84 9B73 CB39
+1006742,Nice B&B or rooms in The Hague,5537414,Ingrid,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-Oost,52.07691,4.26241,Private room,39,2,135,2022-09-01,1.12,2,109,2,0518 4C04 D31D 7B80 38E8
+1082476,Comfortable rooms in the Hague,5537414,Ingrid,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-Oost,52.07818,4.26116,Private room,39,2,38,2020-03-28,0.32,2,132,0,05184C04D31D7B8038E8
+1229850,Amazing SkyStudio on 30th floor 735,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07137,4.32465,Entire home/apt,174,1,336,2023-03-04,2.82,20,334,19,Exempt
+1237312,Amazing SkyStudio on 30th floor 736,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07137,4.32465,Entire home/apt,186,1,171,2023-02-10,1.44,20,342,9,Exempt
+1237332,Amazing SkyStudio on 30th floor 738,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07137,4.32465,Entire home/apt,136,1,348,2023-03-16,2.92,20,305,82,Exempt
+1237340,Amazing SkyStudio on 30th floor 733,300966,Elwin,Wijk 27 Stationsbuurt,Rivierenbuurt-Zuid,52.07199,4.32551,Entire home/apt,175,1,415,2023-03-11,3.49,20,334,19,Exempt
+1260071,Beach&City B&B Shortstay,6839100,Karen,Wijk 13 Vogelwijk,Vogelwijk,52.08224,4.25996,Entire home/apt,82,3,87,2023-03-11,0.75,1,233,14,0518 1720 1BCD 394C F7E8
+1400206,Canal View Studio DH,7543082,Thomas,Wijk 29 Schildersbuurt,Schildersbuurt-Noord,52.07202,4.30479,Entire home/apt,132,2,236,2023-03-05,2.92,1,6,30,Exempt
+1421301,Trendy house near beach & center,7651238,Yvonne,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.07823,4.29325,Entire home/apt,200,6,16,2021-08-07,0.15,1,54,0,0518 7623 4E0A AA1D 34F6
+1484856,Very convenient studio near train station!,7805856,F. Aicha,Wijk 38 Laakkwartier en Spoorwijk,Laakhaven-West,52.06544,4.32162,Entire home/apt,59,20,100,2022-10-10,0.85,2,175,2,0518 F7D1 A051 1FD4 4B80
+1493624,Guestroom,192354,Karel,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08318,4.29938,Private room,30,1,172,2022-09-30,1.47,1,83,24,0518 EF36 38BE BCBB 3DE3
+1497896,Lovely family home near the beach the Hague,2361679,Fiona,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.06672,4.255,Entire home/apt,175,3,22,2023-01-08,0.21,1,16,4,0518 7C61 704E 9866 48E8
+1501251,Room for 3 - near Beach & Kurhaus,7518101,Amelia,Wijk 02 Belgisch Park,Belgisch Park,52.11244,4.28559,Private room,110,1,113,2022-12-28,1.08,6,331,34,Exempt
+1720337,Spacious Unique Beach House with Green Garden,8665880,Vincenzo,Wijk 02 Belgisch Park,Belgisch Park,52.11197,4.28472,Entire home/apt,200,7,0,,,1,76,0,0518 E65A 9EAC CD74 D23D
+1842203,Appartement 4 pers ground floor and parkingcard,8860750,Anita,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10938,4.28071,Entire home/apt,110,12,175,2023-03-04,1.64,1,230,17,051811327CC66FCDFE9D
+1858616,2-room apartment on the 1st (2nd in English),7128899,Tom,Wijk 04 Benoordenhout,Nassaubuurt,52.08785,4.31818,Entire home/apt,60,3,157,2023-01-13,1.38,1,262,15,0518 2617 C462 E426 8235
+1917849,"Nice room near Beach, single use",7518101,Amelia,Wijk 02 Belgisch Park,Belgisch Park,52.11248,4.28573,Private room,92,1,44,2023-03-18,0.52,6,291,16,Exempt
+1956981,Amazing SkyStudio on 30th floor 737,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07137,4.32465,Entire home/apt,154,1,464,2023-03-17,4.09,20,324,31,Exempt
+2008100,Great family house very close to sea & dunes,7582390,Bas,Wijk 14 Bohemen en Meer en Bos,Bosjes van Pex,52.0722,4.24115,Entire home/apt,195,7,11,2020-01-04,0.17,1,0,0,0518 6E32 C78D 414A 50BC
+2035974,"Nice room 100m from the Beach, Boulevard, Kurhaus",7518101,Amelia,Wijk 02 Belgisch Park,Belgisch Park,52.11248,4.28573,Private room,90,1,192,2022-11-02,1.77,6,291,44,Exempt
+2035975,Beautiful Room near Beach & Kurhaus,7518101,Amelia,Wijk 02 Belgisch Park,Belgisch Park,52.11248,4.28573,Private room,95,1,108,2022-09-25,0.99,6,292,18,Exempt
+2035980,B&B for Groups near Beach & Kurhaus,7518101,Amelia,Wijk 02 Belgisch Park,Belgisch Park,52.11248,4.28573,Private room,369,2,128,2023-03-26,1.18,6,289,15,Exempt
+2039991,Top floor loft with kitchen,7104766,Saskia,Wijk 04 Benoordenhout,Arendsdorp,52.09073,4.31329,Entire home/apt,68,6,270,2023-02-25,2.40,1,6,12,0518 7B55 EBE1 D7F3 D5C1
+2440807,Modern family house 500m to beach/ private parking,1584126,Hilde,Wijk 02 Belgisch Park,Belgisch Park,52.11457,4.28862,Entire home/apt,339,5,7,2022-08-06,0.16,1,36,4,0518 FFCA 1DF7 BF12 7EF5
+2520108,A modern & great apartment + garden,9996430,Soeres,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07429,4.27647,Entire home/apt,100,2,116,2019-12-27,1.08,1,59,0,0518 ADFD C470 6563 B8EA
+2520156,Chic in the Statenkwartier 1,12901624,Marleen,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.08986,4.2771,Private room,80,2,200,2022-09-18,1.83,2,0,8,0518 72D7 4374 B1CA C802
+2520906,Chic in het Statenkwartier 2,12901624,Marleen,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.08933,4.27838,Private room,80,2,207,2022-08-31,1.90,2,0,9,0518 72D7 4374 B1CA C802
+2576925,Apartment Pauw57 Statenkwartier Scheveningen,13194637,Greta & Ruud,Wijk 11 Duinoord,Stadhoudersplantsoen,52.08733,4.27891,Entire home/apt,75,5,72,2020-03-14,0.67,1,85,0,0518 97F9 05E6 7F1C 12C4
+2651566,Cool Architect. H-villa bij strand en city w. pool,1902132,Karen,Wijk 03 Westbroekpark en Duttendel,Duttendel,52.10599,4.30497,Entire home/apt,350,4,0,,,2,78,0,0518 8B36 A437 A071 6DE3
+2718890,Amazing SkyStudio on 29th floor 728,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07137,4.32465,Entire home/apt,162,1,130,2022-12-29,1.20,20,255,11,Exempt
+2784092,Lovely home in Scheveningen Beach,14240933,Rick En Nanet,Wijk 02 Belgisch Park,Belgisch Park,52.11164,4.2901,Entire home/apt,150,7,16,2022-07-30,0.17,1,148,1,05186AC80B29D0ACC6EE
+3152750,spacious house near city/beach,14083026,Marleen,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07518,4.28037,Entire home/apt,189,6,21,2022-07-16,0.22,1,16,1,0518 066C 1E73 B350 5968
+3212219,Perfect family house near the beach,4710716,Pieteke,Wijk 04 Benoordenhout,Waalsdorp,52.10042,4.31389,Entire home/apt,250,7,10,2022-07-31,0.10,1,133,2,0518 559D B7B2 FAA8 6F0B
+3364927,Amazing SkyStudio on 29th floor 732,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07137,4.32465,Entire home/apt,161,1,109,2022-03-27,1.03,20,287,1,Exempt
+3486922,Charming housing for solo traveler,17005081,Emma,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07875,4.28028,Entire home/apt,40,5,54,2022-07-07,0.51,1,251,2,0518 A9A0 1700 9351 6114
+3691504,Beautiful vintage guesthouse,16843059,Albert,Wijk 02 Belgisch Park,Belgisch Park,52.10775,4.29163,Entire home/apt,175,2,96,2023-01-03,0.91,1,221,11,0518 7B29 AA1C 042D 4EFD
+3736215,Comfort at Sea,17994529,Massoud,Wijk 07 Scheveningen,Visserijbuurt,52.10412,4.27683,Private room,70,2,90,2023-01-01,0.86,1,147,5,0518 7DEF DBFC 681E 4BB9
+3874587,"Cozy room with a big balcony, right in City Centre",10076415,Oksana,Wijk 28 Centrum,Kortenbos,52.07881,4.30419,Private room,64,1,157,2022-11-13,1.64,3,356,30,0518 D5ED 6A83 4598 14E6
+3885792,"Enjoy The Hague , based on this big house (4p)",11897813,Christina,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08625,4.33577,Entire home/apt,325,2,28,2020-01-01,0.27,2,126,0,0518 A942 63FF E789 F234
+4070966,Great seaside-style apartment!,8910686,Geert-Jan,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10809,4.27343,Entire home/apt,135,3,64,2022-12-27,0.62,1,31,9,0518 C377 DA2B 69EA 6EC8
+4201448,Luxury appartment City Center (New pictures soon),13788134,Alexander,Wijk 28 Centrum,Uilebomen,52.0765,4.32028,Entire home/apt,129,2,9,2022-10-01,0.10,1,44,1,0518 5004 3CB3 C10E 4812
+4246416,Spacious house in central Den Haag,22035217,Lisa,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.0798,4.29566,Entire home/apt,99,6,31,2023-03-15,0.40,1,0,6,0518 38DD F99C 4CEF 1DFE
+4321442,TheHagueMansion City&Beach Room A,22435655,Mirjam & Nico,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.0771,4.27775,Private room,70,1,112,2023-03-19,1.09,3,278,2,0518 18D6 E8D9 8211 84F7
+4349954,Beautiful apartment near the beach,13483532,Lisette,Wijk 18 Waldeck,Waldeck-Zuid,52.05802,4.23111,Entire home/apt,101,3,55,2022-07-29,0.57,1,0,1,0518 430F B714 37D8 509C
+4374296,TheHagueMansion City&Beach Room V,22435655,Mirjam & Nico,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07715,4.27711,Private room,65,1,139,2022-09-11,1.36,3,201,5,0518 18D6 E8D9 8211 84F7
+4390885,TheHagueMansion City&Beach TopFloor,22435655,Mirjam & Nico,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07747,4.27656,Private room,120,1,164,2022-10-09,1.60,3,48,14,0518 18D6 E8D9 8211 84F7
+4666096,Bungalow in de prachtige Haagse duinen!,24141076,Noah,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.058102,4.211877,Entire home/apt,185,2,3,2021-09-21,0.16,1,0,0,Exempt
+4692892,Spacious loft in historic mansion,15969204,Jobien,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.08514,4.28965,Entire home/apt,65,20,127,2022-09-26,1.27,1,155,4,0518 2935 A7DF E28F B437
+4775830,Great family house (500m from beach),24630882,Thomas,Wijk 02 Belgisch Park,Belgisch Park,52.111191,4.287667,Entire home/apt,249,3,1,2022-07-24,0.12,1,91,1,0518 D4FF D868 2D9B DCC0
+4808721,2 bedrooms in family house near the beach,24766559,Danielle,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10765,4.27789,Entire home/apt,182,7,164,2022-10-08,1.63,1,44,6,0518 7154 70A0 EEAC E733
+5008777,2-person double room,24220687,Jorplace,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10553,4.27615,Entire home/apt,66,2,4,2016-05-05,0.04,1,0,0,Exempt
+5156693,Spacious beach apartment 100m2,9648594,Jasper,Wijk 07 Scheveningen,Oud Scheveningen,52.10356,4.2723,Entire home/apt,167,4,35,2022-11-01,0.36,1,70,6,0518 2B6E EB8F DCD1 DFF7
+5217344,Spacious studio in prime location,12031544,Martin,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08223,4.29976,Entire home/apt,90,2,209,2023-03-12,2.15,1,238,22,0518 EEAC 65BF AD64 9D50
+5254112,ontdek den haag en het strand,10690277,Mirjam,Wijk 39 Binckhorst,Binckhorst,52.06555,4.34853,Private room,40,7,28,2023-01-06,0.30,1,295,4,
+5260600,for a lovely stay in Den Haag,26098224,Ebs,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07096,4.27564,Private room,106,2,57,2022-09-17,0.61,1,356,13,0518F8C592D9693E69AC
+5267799,Top floor 2-storey apartment-contactless,3356078,Christien,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.08307,4.28331,Entire home/apt,160,3,6,2022-09-17,0.46,1,0,4,0518 F13A 7674 22E0 5557
+5307470,Centraal gelegen duplexwoning,11930200,Paul,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08186,4.29688,Entire home/apt,150,2,43,2023-02-21,0.46,1,278,20,0518 2C5D 1A8B 4A40 EA9F
+5432192,Nice room 20 mins walk to the beach,28177276,Sitla,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09581,4.28134,Private room,60,2,136,2022-10-16,1.42,1,320,26,0518 59BC 2B20 F6AC 8565
+5600830,Amazing SkyStudio on 30th floor 734,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07137,4.32465,Entire home/apt,172,1,194,2023-03-19,2.00,20,336,6,Exempt
+5807875,4 bedroom house near beach and city,30134167,Tekla,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.06644,4.25153,Entire home/apt,145,7,20,2022-08-05,0.21,1,7,2,0518 CA14 4BD0 D77A 77D3
+5887183,Great City Appartment with Garden,12697876,Anita,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08074,4.34065,Entire home/apt,175,5,41,2022-11-15,0.47,1,256,9,0518 89A0 22B8 BCC4 2E3A
+5989288,"5p apartment, tourist tax 5€ pppn",31096218,Surya,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-Oost,52.073704,4.260596,Entire home/apt,170,4,65,2022-08-09,0.68,1,54,4,0518 0FD5 0984 F798 0118
+6022541,"Grosse, helle, ruhige Wohnung, 5min vom Meer",1888120,Natalie,Wijk 02 Belgisch Park,Belgisch Park,52.11097,4.28954,Entire home/apt,40,92,8,2021-02-10,0.09,1,0,0,Exempt
+6109720,Amazing SkyStudio on 29th floor 729,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07137,4.32465,Entire home/apt,162,1,94,2022-09-12,0.99,20,347,1,Exempt
+6217039,Amazing SkyStudio on 29th floor 727,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07137,4.32465,Entire home/apt,190,1,73,2022-04-22,0.78,20,320,1,Exempt
+6255393,Cosy studio close to beach & center,32494837,Sonja & Stef,Wijk 12 Bomen- en Bloemenbuurt,Bomenbuurt,52.07925,4.27088,Entire home/apt,59,1,728,2023-03-21,7.60,1,161,72,Exempt
+6273534,Private floor in unique home beach centre,4351060,Nathalie,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.10012,4.27648,Entire home/apt,200,2,83,2023-02-26,1.14,1,214,33,0518 AA25 EB49 504A 7F8C
+6342172,Holiday beach house Scheveningen,33029414,Kasper,Wijk 08 Duindorp,Duindorp,52.08861,4.25815,Entire home/apt,99,7,17,2022-07-17,0.18,2,103,1,0518 7B92 E2D8 98A9 1B60
+6406938,Luxury apartment with stunning view,29953114,Sven,Wijk 28 Centrum,Kortenbos,52.0769,4.29855,Entire home/apt,282,4,39,2022-08-06,0.41,1,83,1,0518 C9F3 396E 5DD9 0DFA
+6580603,Amazing Apartment on 38th floor 768,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07168,4.32386,Entire home/apt,193,1,53,2022-11-01,0.57,20,352,2,Exempt
+6797153,Chambres d'amis,14576651,Giancarlo,Wijk 27 Stationsbuurt,Huygenspark,52.07065,4.3161,Entire home/apt,125,7,93,2022-10-08,0.99,1,164,9,0518 3A2C 2BBA D8D4 4126
+6952674,Children friendly apartment close to the beach,14457664,Justin,Wijk 13 Vogelwijk,Vogelwijk,52.08399,4.2664,Entire home/apt,199,7,19,2022-08-14,0.20,1,4,3,0518 4F70 8C03 BDAA 9AA7
+7048053,"Ruim appartement in oase van rust, gratis parkeren",19976884,Quirijn And Magda,Wijk 34 Morgenstond,Morgenstond-Oost,52.05243,4.2792,Entire home/apt,122,2,201,2022-08-28,2.16,1,6,24,0518 88C9 B1CA A821 BCE9
+7085599,Nice cottage at the beach,37072285,Jose,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-Oost,52.07953,4.26473,Entire home/apt,185,4,20,2022-10-08,0.22,1,0,4,0518 F312 D186 E6DO 7327
+7191609,Big Room incl. roof terrace,22780430,Guido,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07766,4.27421,Private room,49,14,27,2023-02-28,0.29,1,88,2,0518 B15D 4C4B AB63 7405
+7605562,Bizstay Harbour 10B,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09647,4.26495,Entire home/apt,213,5,2,2022-06-03,0.12,35,273,1,Exempt
+7606230,Bizstay Harbour 16B,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09804,4.2654,Entire home/apt,159,5,3,2022-09-19,0.26,35,312,3,Exempt
+7606455,BizStay Harbour 22B,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09732,4.26622,Entire home/apt,270,5,3,2022-11-19,0.33,35,277,3,Exempt
+7606578,BizStay Harbour 22C,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.098,4.26489,Entire home/apt,187,5,7,2023-03-23,0.22,35,268,6,Exempt
+7606649,BizStay Harbour 24A,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09802,4.2662,Entire home/apt,270,5,3,2022-10-03,0.23,35,283,2,Exempt
+7606749,BizStay Harbour 32 Penthouse,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09811,4.26549,Entire home/apt,293,5,2,2021-04-05,0.03,35,286,0,Exempt
+7607144,BizStay Harbour 40,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09676,4.26517,Entire home/apt,270,5,1,2022-07-23,0.12,35,267,1,Exempt
+7668314,Spacious familyhouse incl. garden near sea/center,13494819,Karlien,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.0826,4.28224,Entire home/apt,231,4,15,2022-08-18,0.22,1,144,3,0518 8FAC B425 C5D7 F913
+7702138,Top Floor Town House Apartment,27306248,Mireille,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.08448,4.28578,Entire home/apt,100,2,45,2023-02-05,0.99,1,0,4,0518 69E0 7049 0F69 BB32
+8038739,spacious city apartment at the Canals of The hague,17240425,Elwine,Wijk 23 Willemspark,Willemspark,52.08546,4.3148,Entire home/apt,200,30,80,2019-03-31,0.91,2,289,0,0518 6FD0 6B18 91CF 4F42
+8112353,Schevenings vissershuisje - 57,42836334,Auke,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10678,4.27428,Entire home/apt,185,1,73,2023-02-22,0.94,5,161,14,Exempt
+8114375,Fisherman's house in Scheveningen,42836334,Auke,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10821,4.27526,Entire home/apt,172,1,76,2023-03-02,0.86,5,175,15,Exempt
+8203608,Fully equipped flat near the beach of The Hague!,42401683,Linda,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.06594,4.25436,Entire home/apt,110,2,192,2023-02-20,2.12,1,44,13,0518 DDF9 1669 EF63 B60F
+8929853,"100 % comfort, Big room, Big bed, latex mattres",10076415,Oksana,Wijk 28 Centrum,Kortenbos,52.07881,4.30419,Private room,60,1,133,2023-02-17,1.49,3,344,25,0518 D5ED 6A83 4598 14E6
+9123441,Pleasant place in City Center :),47532664,Rik,Wijk 28 Centrum,Zuidwal,52.07566,4.31026,Entire home/apt,93,2,14,2022-12-30,0.17,2,13,2,0518 F181 4B1E 26FD 6EB9
+9601061,"Luxe appartement in Scheveningen, uitzicht op zee!",49688002,Raymond,Wijk 08 Duindorp,Duindorp,52.09091,4.2541,Entire home/apt,200,5,58,2022-08-07,0.79,1,0,5,0518 E34B 6657 7430 E871
+10098050,140 m2 Penthouse + 100 m2 Big Roof Terrace!,51820432,Sidney,Wijk 04 Benoordenhout,Arendsdorp,52.09222,4.31115,Entire home/apt,202,2,212,2023-03-12,2.49,4,70,40,Exempt
+10383296,Spacious house near beach & centre,4231717,Frederique,Wijk 04 Benoordenhout,Waalsdorp,52.09799,4.31993,Entire home/apt,350,4,32,2022-08-15,0.37,1,241,4,0518 3B24 2EA0 8AAB C766
+10428175,Townhouse nearby Beach perfect for families,2456431,Gerard,Wijk 04 Benoordenhout,Nassaubuurt,52.08978,4.31488,Entire home/apt,400,4,20,2022-12-30,0.24,1,78,3,0518 2D1A 4E56 C1D0 B84C
+10534685,Appartement met keuken douche wc,54329141,Nienke,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.06998,4.26005,Entire home/apt,58,1,134,2023-03-17,1.54,1,0,18,051855B7F3027DD3EAAE
+10568512,Heerlijk ruim gezinshuis bij het strand,54482414,Marc,Wijk 02 Belgisch Park,Belgisch Park,52.11647,4.28808,Entire home/apt,288,3,1,2021-08-28,0.05,2,0,0,0518 0EA9 7151 87D9 4CA2
+10643739,Nice apartment + 2 balconies,2461943,Yvonne,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07391,4.27763,Entire home/apt,95,2,129,2022-10-23,1.49,1,0,4,0518 378D 333E A76D 14E4
+10874386,Big appartment close to city centre,56333618,Simon,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08498,4.30002,Entire home/apt,221,4,65,2022-07-05,0.75,1,281,7,051800B9B467C54C97DC
+10925788,4 floor luxury canal house + garden,25701423,Dirk-Jan,Wijk 28 Centrum,Zuidwal,52.07184,4.30754,Entire home/apt,250,5,22,2022-12-30,0.26,1,11,1,0518B46C8D884ECE0FFB
+11175229,B&B holiday beach room,33029414,Kasper,Wijk 08 Duindorp,Duindorp,52.09036,4.25695,Private room,77,1,46,2022-11-16,0.54,2,134,41,05187B92E2D898A91B60
+11270594,"Private bedroom, Luxurious floor, Centre The Hague",58846614,Hannah,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08676,4.3363,Private room,58,2,109,2023-03-19,1.27,2,33,22,0518 6AA1 A11C 3BEE AO5E
+11287635,Amazing Apartment on 38th floor 770,300966,Elwin,Wijk 38 Laakkwartier en Spoorwijk,Laakhaven-Oost,52.07081,4.32523,Entire home/apt,191,1,44,2023-01-22,0.52,20,355,6,Exempt
+11290275,The Penthouse SkyStudio 29th floor 730,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07137,4.32465,Entire home/apt,190,1,181,2023-03-11,2.11,20,352,24,Exempt
+11929901,"Arty, spacious, big garden and near beach&center",36247864,Katharina,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.08195,4.28014,Entire home/apt,225,2,2,2022-11-07,0.30,1,7,2,0518 6AD1 8FCE 08DA 42CD
+11997962,Bali 21,32403658,Sophie,Wijk 23 Willemspark,Willemspark,52.08915,4.31067,Private room,105,3,122,2023-03-13,1.49,1,21,14,0518DAA2AD934B784FAF
+12037937,Whole upperfloor in Characteristic 1912 mansion,38630529,Monique,Wijk 12 Bomen- en Bloemenbuurt,Bomenbuurt,52.08117,4.27441,Private room,65,2,180,2020-06-14,2.14,1,0,0,0518A36E1107E0A51A9A
+12116532,Amazing bright room+ bedroom at The DanckertHouse,64998798,AnnaBin,Wijk 11 Duinoord,Stadhoudersplantsoen,52.08443,4.28035,Private room,125,30,2,2018-07-14,0.03,1,83,0,Exempt
+12162725,Historic House Scheveningen,65325022,Tonia,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10605,4.27543,Entire home/apt,140,7,52,2022-09-21,0.62,1,86,1,0518E31B93B1B34C8C78
+12572074,near beach n city centre(s)- landmark marlot,4629358,Filine,Wijk 25 Mariahoeve en Marlot,Landen,52.10016,4.36124,Entire home/apt,106,1,30,2021-08-15,0.37,1,204,0,0518 F3AD 9059 9352 5518
+12598937,"Gezin, vrijstaand, onafhankelijk, strand",68361623,Karin,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05769,4.20851,Entire home/apt,152,3,123,2023-03-26,1.50,2,159,20,Exempt
+12721006,"Colourful spacious house with garden, near beach.",69166196,Sandra,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-Oost,52.0778,4.26585,Entire home/apt,150,14,4,2019-08-11,0.07,1,45,0,0518 D659 773E A326 5362
+12800986,"Cheap double room, fully equipped!!",69745734,Fred,Wijk 12 Bomen- en Bloemenbuurt,Bomenbuurt,52.07849,4.2719,Private room,34,1,587,2023-03-21,6.99,1,225,84,0518 866D 6F5C C241 B336
+12864672,Lovely appartment in Scheveningen,6247195,Chloe,Wijk 02 Belgisch Park,Belgisch Park,52.11213,4.29588,Entire home/apt,190,5,4,2022-08-14,0.09,1,19,1,0518 4668 1AFC DA7C 9D7C
+13105742,Pleasant place in City Center :),47532664,Rik,Wijk 28 Centrum,Zuidwal,52.0758,4.30966,Private room,50,2,115,2023-03-17,1.53,2,70,45,0518 F181 4B1E 26FD 6EB9
+13132470,***** Big Luxurious Townhouse apartment,51820432,Sidney,Wijk 04 Benoordenhout,Arendsdorp,52.092216,4.311149,Entire home/apt,150,2,70,2023-03-21,1.70,4,69,43,Exempt
+13213354,Family home by beach and dunes  - design kitchen,8192019,Hendrina,Wijk 13 Vogelwijk,Vogelwijk,52.07946,4.25045,Entire home/apt,198,6,24,2022-07-30,0.29,1,66,2,0518 E0B5 E8C5 0E06 37F9
+13243703,"2B(110m2)GARDEN apt close to beach&centre,hip area",386376,Mirre,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.08342,4.28927,Entire home/apt,150,14,104,2022-06-20,1.27,1,256,1,0518 FF92 CB14 C309 84E9
+13249388,Benoordenhout Duplex House coolest neighborhood,33059848,Ralf,Wijk 04 Benoordenhout,Van Hoytemastraat en omgeving,52.09338,4.3243,Entire home/apt,220,120,3,2022-12-28,0.06,1,299,1,0518 2633 AFBF 59D0 671B
+13345653,BIG and NICE 7pers GREAT location!,27819459,Mareille,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.0683,4.25188,Entire home/apt,175,6,25,2022-08-18,0.31,1,67,2,05180522369727c5405D
+13372682,Ruim gezinshuis dichtbij strand,11658895,Frederique,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.06844,4.25512,Entire home/apt,185,4,12,2022-07-29,0.15,1,54,2,0518 76ED 972A D475 4B1F
+13384993,"Scheveningen, 100 m beach, luxe family house",47157381,Mathijs,Wijk 07 Scheveningen,Scheveningen Badplaats,52.11103,4.28041,Entire home/apt,350,2,11,2022-08-07,0.14,1,16,2,0518 B48D C634 F38E 4972
+13668673,Sunny and spacious holidaypalace,58584308,Hans,Wijk 18 Waldeck,Nieuw Waldeck,52.05823,4.2458,Entire home/apt,95,5,20,2021-08-19,0.25,1,144,0,0518A5C3A1C4E4DC6EE4
+13709794,Nice apartment close to the beach,25207543,Gert,Wijk 18 Waldeck,Componistenbuurt,52.06425,4.23721,Entire home/apt,75,5,12,2021-09-26,0.15,1,4,0,0518 7963 D0B5 6798 6D93
+13742452,"Sfeervol huis 
+vlakbij zee en stad",80457964,Daphne,Wijk 31 Rustenburg en Oostbroek,Oostbroek-Noord,52.06748,4.28295,Entire home/apt,230,4,11,2022-08-01,0.16,1,6,1,0518 8FC5 C428 F60B C4C1
+13760878,Big house 10 min bike ride from Scheveningen beach,80681855,Michiel,Wijk 03 Westbroekpark en Duttendel,Duttendel,52.10905,4.30447,Entire home/apt,232,5,15,2022-07-31,0.19,1,35,1,0518 9635 5349 2CAD 7C78
+13820983,"Sunny, spacious apartment near downtown & beach",77100227,Carl,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08302,4.2927,Entire home/apt,140,5,13,2022-09-30,0.16,1,0,1,0518 D29F 1DBA 2781 47E9
+13842279,Quiet forest home - retreat for your family,68471153,Pascal,Wijk 42 Ypenburg,De Bras,52.03123,4.38282,Entire home/apt,150,4,13,2022-08-21,0.16,1,10,2,0518 AF7D 83AF FO3E 1FBE
+13988838,Joyful Villa between Beach & City,83502165,Véronique,Wijk 03 Westbroekpark en Duttendel,Duttendel,52.10395,4.30313,Private room,74,6,69,2023-01-03,0.87,2,287,16,0518 E09E 580F 3297 2E3D
+13989555,Joyful Villa: Beach & City (1 pers),83502165,Véronique,Wijk 03 Westbroekpark en Duttendel,Duttendel,52.10401,4.30311,Private room,54,6,48,2023-03-14,0.66,2,211,14,0518 E09E 580F 3297 2E3D
+14074326,Cornelia's Tuinhuis in hartje Den Haag,84556855,Angelique,Wijk 28 Centrum,Zuidwal,52.07254,4.30805,Entire home/apt,111,2,245,2023-03-18,3.08,1,194,61,Exempt
+14193792,Seaside 2 bedroom Apartment in Scheveningen...,82900631,Simon,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10838,4.2736,Entire home/apt,160,3,35,2022-09-18,0.43,1,1,4,0518EEB82FC1159F4C46
+14392965,Cozy room in a comfortable flat.,28967205,Mohammed,Wijk 38 Laakkwartier en Spoorwijk,Laakkwartier-West,52.05748,4.32049,Private room,150,3,63,2020-03-27,0.89,2,127,0,0518 35E5 3571 EC9D 1618
+14591168,"Classy B&B near to beach, World Forum and ICTY",89688606,Irene,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09672,4.28298,Private room,59,1,221,2023-02-23,2.76,6,43,42,0518 2A6F C1B8 DC7B FEF4
+14690056,Amazing 'beach' loft you are going to love!,91341307,Daan,Wijk 07 Scheveningen,Oud Scheveningen,52.10421,4.26936,Entire home/apt,76,2,220,2023-03-12,2.74,1,33,30,0518 B422 5A03 84DB 98CE
+14691874,"Bright room near to beach, World Forum and ICTY",89688606,Irene,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09678,4.28285,Private room,59,1,178,2023-02-17,2.22,6,69,36,0518 2A6F C1B8 DC7B FEF4
+14830724,***** Big Luxurious Mansion apartment,51820432,Sidney,Wijk 04 Benoordenhout,Arendsdorp,52.091778,4.311362,Entire home/apt,145,2,67,2023-03-22,2.04,4,62,46,Exempt
+14941352,"Single room in a quiet, friendly neighbourhood",24195273,Karen,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07484,4.27174,Private room,53,1,65,2023-03-26,1.11,1,31,19,0518 2AC0 1401 FF3B 49AE
+15021505,Large family home close to beach and city center,4842399,Lucas,Wijk 05 Archipelbuurt,Archipelbuurt,52.09294,4.30234,Entire home/apt,200,6,1,2023-01-03,0.36,1,160,1,0518 DE06 0F66 6134 46FE
+15201514,"Two beds surf Appartment, close to the beach!",58694689,Marten,Wijk 07 Scheveningen,Oud Scheveningen,52.10294,4.27421,Entire home/apt,200,6,39,2022-09-03,0.49,1,0,1,0518 650F EBCF D947 1656
+15228014,"Den Haag, gunstig gelegen nieuw appartement",96787718,Yulixa,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.06974,4.27643,Entire home/apt,63,30,141,2022-04-25,1.78,2,252,1,0518 D7A6 3FF2 4BEF 1A25
+15253720,Elegant apartment near Scheveningen harbour,19160011,Imre,Wijk 07 Scheveningen,Vissershaven,52.09265,4.26502,Entire home/apt,107,2,109,2023-03-10,1.43,1,4,18,0518 6EEC EC30 6335 83E6
+15577871,Charming little courtyard cottage 'hofje',51051708,Aulia,Wijk 05 Archipelbuurt,Archipelbuurt,52.0898551940918,4.3095550537109375,Entire home/apt,225,4,26,2019-10-17,0.33,1,154,0,0518E60D4BF73F2A5A5B
+15748945,Nice  spacious house very very close to the beach,91161069,Marian,Wijk 13 Vogelwijk,Vogelwijk,52.07725,4.24592,Entire home/apt,200,7,17,2022-08-09,0.25,1,27,4,0518151128513C8CB63B
+15761827,Beach & City Family House w Garden & Bikes,2869479,Kelley,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07678,4.2755,Entire home/apt,167,4,10,2022-08-06,0.13,1,0,3,0518 38A2 76D5 7B20 343A
+15851782,City&Beach Business&Pleasure 2 Beds/2 Bath & Bikes,4126277,Louise,Wijk 05 Archipelbuurt,Archipelbuurt,52.08943,4.3063,Entire home/apt,325,7,9,2022-12-21,0.16,1,221,2,05185A806DFD793F4712
+15855298,"Spacious house, centre The Hague, garden",16786958,Hanneke,Wijk 28 Centrum,Zuidwal,52.07314,4.31453,Entire home/apt,230,4,22,2023-01-08,0.30,1,15,3,0518 4F3A 505D 0A82 1357
+15872950,Apartment The Blue Door,11551692,Ilse,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07251,4.27323,Entire home/apt,79,5,98,2022-09-21,1.26,1,3,5,0518 459E 8B38 3EFF 86D9
+15879420,SLLEEPING ROOM NEAR CENTRE DEN HAAG A LOCATION,7368483,Maurits,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08473,4.33265,Private room,30,2,182,2023-01-22,2.36,2,289,31,05185F0FC8BAFB727012
+16294577,Modern Villa At The Beach + Free Parking,106599541,Laila,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05872,4.2095,Entire home/apt,139,3,152,2023-02-20,2.08,2,147,36,Exempt
+16448583,Lovely family home!,21477351,Sophie,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07709,4.28173,Entire home/apt,126,7,22,2022-08-14,0.32,1,10,3,0518B8A67141982A044A
+16460625,Amazing SkyStudio on 29th floor 731,300966,Elwin,Wijk 27 Stationsbuurt,Huygenspark,52.07236,4.32371,Entire home/apt,175,1,231,2023-02-26,3.05,20,316,22,Exempt
+16644257,Molenstraat B&B 1+2,109990224,Rijk,Wijk 28 Centrum,Kortenbos,52.07989,4.30551,Private room,187,2,45,2022-08-07,0.62,3,5,4,051869DEF641D167C5FC
+16644937,Historic B&B in the city center of The Hague 3,109990224,Rijk,Wijk 28 Centrum,Kortenbos,52.07976,4.30456,Private room,96,2,82,2023-01-02,1.14,3,5,23,051869DEF641D167C5FC
+16699752,Historic B&B in the city center of The Hague 1,109990224,Rijk,Wijk 28 Centrum,Kortenbos,52.07926,4.30469,Private room,101,2,26,2022-08-28,0.36,3,3,4,051869DEF641D167C5FC
+16821527,Beautiful Apartment close to beach,25509060,Travis,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10802,4.28268,Entire home/apt,10000,2,7,2021-11-07,0.09,2,0,0,0518A3DE31BD89117EBA
+16851263,Lovely fresh apartment close to city center,17949857,Christien,Wijk 04 Benoordenhout,Uilennest,52.09415,4.33136,Entire home/apt,95,2,2,2020-08-30,0.06,1,208,0,Exempt
+16853064,Bluebeach Scheveningen,112243372,Sabrina,Wijk 07 Scheveningen,Visserijbuurt,52.1041,4.27838,Entire home/apt,99,2,119,2023-03-02,1.59,1,141,22,0518 7376 FB39 AE5B 9D5A
+17081465,"Appartment: nice garden, close to beach&centre",114618370,Annemieke,Wijk 12 Bomen- en Bloemenbuurt,Bomenbuurt,52.08206,4.26783,Entire home/apt,129,7,9,2022-08-09,0.13,1,74,2,0518 A81B F5C6 1197 9A65
+17173310,Townhouse nearby Beach perfect for families,15488563,Eline,Wijk 04 Benoordenhout,Arendsdorp,52.09076,4.31372,Entire home/apt,225,5,3,2022-08-09,0.06,1,41,1,0518 FA2C 139F 87A4 7B6D
+17263886,Entire Floor in the Villa by the Sea,116383500,Marina,Wijk 13 Vogelwijk,Vogelwijk,52.0763,4.2481,Private room,198,1,187,2022-11-06,2.56,1,120,37,0518 F253 137D 9472 A891
+17374876,Vrijstaand vakantiehuis aan zee voor vijf personen,7876380,Elvi,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05508,4.2128,Entire home/apt,123,7,55,2023-01-02,0.78,1,221,13,Exempt
+17399114,Modern family home in the city center,49411774,Lou,Wijk 27 Stationsbuurt,Huygenspark,52.07345,4.31615,Entire home/apt,215,7,0,,,1,171,0,0518 E1D7 BA26 C4FD 41CE
+17554429,Aptm. op 10 min lopen naar het strand (Kijkduin),119129253,Krystian,Wijk 18 Waldeck,Waldeck-Noord,52.06018,4.22927,Entire home/apt,130,4,35,2021-08-05,0.49,1,0,0,0518 6627 2E9C 8798 2271
+17584219,Little Piece of Heaven,6635037,Katarina,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07655,4.28112,Entire home/apt,90,2,17,2023-03-07,0.40,1,185,5,0518 59C6 934F AE3E 8A88
+17587303,Vlakbij strand en stad.,27312360,Marjolein En Henk,Wijk 18 Waldeck,Waldeck-Zuid,52.05541,4.23135,Private room,65,2,96,2023-02-23,1.31,1,53,18,0518 2B73 CE77 F979 DC93
+17674238,"Stylish STUDIO, walking distance from all hotspots",15230693,Pietertje,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08163,4.30061,Entire home/apt,72,3,209,2023-03-11,2.86,1,8,30,0518 2F85 E318 DB7D F312
+17772416,Scheveningen Beach Apartment,103709922,Esther,Wijk 07 Scheveningen,Oud Scheveningen,52.10263,4.27487,Entire home/apt,85,2,135,2022-09-04,1.91,1,9,6,0518F2064483BE44F081
+17818190,Quiet family home next to the forest near Delft,44656060,Katrien,Wijk 42 Ypenburg,De Bras,52.03249,4.39079,Entire home/apt,120,4,7,2019-08-16,0.10,1,86,0,
+18138265,Ruime rustige kamer met zithoek in Scheveningen,46540002,Anna,Wijk 02 Belgisch Park,Belgisch Park,52.10898971557617,4.294465065002441,Private room,78,1,238,2022-10-31,3.29,1,64,47,0518 7DA6 09CC 5356 CDF0
+18220322,Lovely design apartment near the Peace Palace,18023685,K,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.083,4.28643,Entire home/apt,99,123,15,2022-09-12,0.21,1,85,2,Exempt
+18410328,Private lodge in spacious city-garden near center,76760443,Nico &  Lizan,Wijk 35 Zuiderpark,Zuiderpark,52.06009,4.28773,Entire home/apt,76,2,376,2023-03-24,5.25,1,206,76,0518 9617 D69C 7726 D5EE
+18542035,THE BRIGHT ROOM / tussen strand en het centrum,4069743,James,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07813,4.27972,Private room,69,2,5,2021-08-08,0.07,3,0,0,0518 746B 667E 1E1A F580
+18576123,Te huur appartement bij het Scheveningse strand,128973188,Sylvia,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10824,4.27709,Entire home/apt,255,3,46,2022-08-09,0.66,1,299,6,0518961B655BC1AE15EC
+18611562,Light and Bright Family Friendly Beach House,10117562,Julia,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10948,4.28117,Entire home/apt,159,5,9,2022-08-06,0.13,1,0,2,0518 7310 66BB A2D7 6F36
+18668405,Light and cosy apartment near the sea,129742264,Lobke,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-Oost,52.07284,4.25977,Entire home/apt,80,6,28,2022-08-21,0.42,1,0,4,0518 5C2D 8D80 77BC 666D
+18751837,Top location-2bedroom apt+garden&parking,34131790,Rein,Wijk 28 Centrum,Voorhout,52.08408,4.31181,Entire home/apt,206,8,42,2023-01-07,0.59,1,14,7,CEFL3212CE1197FBCOE6
+18968222,Charming & Cosy Attic in city center,7594633,Léo,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.0784,4.29484,Entire home/apt,81,2,211,2023-03-10,3.03,1,1,51,0518 EA38 A1A7 912E 32A5
+19183398,"Huis aan bos, zee én stad!",18123090,Albert,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-West,52.07161,4.25268,Entire home/apt,160,28,4,2022-08-05,0.09,1,0,1,0518 D5DC 6ABA 1CCB 2722
+19256134,FamilyHome near the Ocean private parking,517215,Rental Valley,Wijk 07 Scheveningen,Vissershaven,52.09361,4.26315,Entire home/apt,81,3,7,2022-08-12,0.10,1,34,5,0518 7E50 B35C 14B0 5EDF
+19287159,Sfeervol familie huis 400m van het strand,1634218,Kim,Wijk 02 Belgisch Park,Belgisch Park,52.11167,4.2888,Entire home/apt,250,5,6,2022-08-07,0.09,1,34,2,05185B21E19A5BD46D96
+19372112,Scheveningen family beach house with garden,111432964,Ruud,Wijk 07 Scheveningen,Scheveningen Badplaats,52.11034,4.28022,Entire home/apt,220,3,10,2021-07-06,0.14,1,57,0,0518 55D3 FDF6 ADFB B6AB
+19466223,Nice 2 room apartment only for a lady.,2942683,Dory,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07506,4.26908,Entire home/apt,75,4,15,2023-03-01,0.24,1,51,6,0518 AA6A EE1B D75A E835
+19617788,BizStay Harbour 56D,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09672,4.2643,Entire home/apt,228,5,1,2020-07-26,0.03,35,267,0,Exempt
+19618798,"Onafhankelijk, vrijstaand, familie, lovely home",68361623,Karin,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05751,4.20913,Entire home/apt,152,3,47,2023-01-29,0.74,2,174,14,Exempt
+19623341,Beautiful family home 50m from the beach,138031085,Jolanda,Wijk 02 Belgisch Park,Belgisch Park,52.11534,4.28722,Entire home/apt,270,7,6,2022-08-06,0.09,1,0,1,0518 09A8 6F74 9A38 CE97
+19657756,Ruim appartement vlakbij het centrum,74856505,Margot,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07943,4.28993,Entire home/apt,80,10,8,2023-03-20,0.12,1,13,3,0518 08D3 8DC6 CF75 453E
+19860932,Cosy spacious apartment close to town & beach,7762146,Boukje,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07699,4.28466,Entire home/apt,105,10,19,2022-09-08,0.28,1,194,2,0518 A25F 1702 DC51 F114
+20304445,"Gorgeous 17th century canal house, city centre",7677289,Marjan,Wijk 27 Stationsbuurt,Huygenspark,52.07351,4.31627,Entire home/apt,125,2,152,2023-03-21,2.27,1,168,32,0518E636E6103E3358D8
+20327977,Scheveningen Beach House,9449439,Mieke,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10769,4.27605,Entire home/apt,149,2,53,2022-07-28,0.77,1,0,6,05189D8ED58B63E991A5
+20476613,Newly renovated central appartment,49763627,Jan,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.08024,4.28791,Entire home/apt,92,2,15,2023-01-02,0.25,1,0,3,0518F000F4B04C974975
+20686584,Beach cottage The Hague,148027125,Debby,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05473,4.21158,Entire home/apt,200,3,30,2023-01-01,0.48,1,57,1,Exempt
+20723431,Royal Suite midden in het centrum van Den Haag,148388684,Marie,Wijk 28 Centrum,Kortenbos,52.07938,4.3037,Private room,89,1,125,2023-01-08,1.85,1,6,10,0518E4214910CF7253AD
+20785969,B&B Valkenbos - Sakura room (2 single beds),9363383,Madelon,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07712,4.27303,Private room,50,1,69,2022-09-04,1.15,3,176,6,0518 D25F 4C2A 083D A90D
+21078645,Bright & spacious apartment in Beautiful The Hague,35774746,Mathilde,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.08214,4.28254,Entire home/apt,189,2,12,2023-03-05,0.21,1,0,5,0518 414D 1C23 361F 3B44
+21122088,Bright apartment in the heart of The Hague,38452410,Karel,Wijk 28 Centrum,Kortenbos,52.07631,4.30249,Entire home/apt,48,123,4,2022-08-19,0.09,1,178,1,Exempt
+21173802,Family home The Hague,39679297,Marjon,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07835,4.28282,Entire home/apt,200,5,23,2022-12-30,0.35,1,87,5,0518 9418 6AFE 0B53 D515
+21186777,"Beach house, near city, nature & sports/The Hague",3414317,Maja,Wijk 13 Vogelwijk,Vogelwijk,52.07315,4.24046,Entire home/apt,230,2,30,2022-05-03,0.56,1,1,1,0518 483A E58E E3DE E0F1
+21268459,Scheveningen Beach studio,153843271,Family,Wijk 02 Belgisch Park,Belgisch Park,52.11243,4.28547,Entire home/apt,93,2,102,2022-09-17,1.60,5,262,13,0518 B986 B111 EA2E 9642
+21597866,☆Modern family apartment close to beach & centre!,4139373,Danya,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07722091674805,4.280799865722656,Entire home/apt,225,4,7,2023-01-02,0.11,1,0,2,0518 6731 C9D7 4C50 D617
+21735855,COMFORTABLE stylish room  in city centre FAST WIFI,61794951,Duanpen,Wijk 27 Stationsbuurt,Huygenspark,52.07091,4.32016,Private room,84,1,245,2023-03-05,3.84,2,146,1,0518 8DAC 67D5 6742 741C
+21897780,THE SUNNY ROOM / close to beach and city centre,4069743,James,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07839,4.28115,Private room,69,2,86,2022-12-04,1.37,3,218,20,0518746B667E1E1AF580
+22130112,Cozy studio  at the harbour and beach/ BBWestduin,33132059,Stefanie,Wijk 07 Scheveningen,Vissershaven,52.09739,4.27079,Entire home/apt,115,1,271,2023-03-19,5.69,3,244,70,0518 DDA4 C8BD 104A 1EDA
+22186971,Spacious room in renovated house with roofterrace,157043667,Sanne,Wijk 41 Hoornwijk,Vlietzoom-West,52.0538,4.345,Private room,49,1,77,2020-03-08,1.21,1,0,0,
+22259300,BizStay Harbour 48A,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09588,4.26479,Entire home/apt,213,5,4,2022-07-10,0.19,35,256,2,Exempt
+22259607,BizStay Harbour 50A,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09619,4.26307,Entire home/apt,213,5,1,2022-09-10,0.15,35,294,1,Exempt
+22259904,BizStay Harbour 54A,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09748,4.26507,Hotel room,270,5,2,2022-08-17,0.04,35,180,1,Exempt
+22262191,BizStay Harbour 60,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09567,4.26371,Entire home/apt,218,5,2,2022-09-18,0.22,35,290,2,Exempt
+22262321,BizStay Harbour 60B,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09742,4.26481,Entire home/apt,270,5,4,2022-11-30,0.09,35,264,1,Exempt
+22262538,BizStay Harbour 70 Penthouse,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09721,4.2648,Hotel room,334,5,4,2022-04-09,0.07,35,242,1,Exempt
+22347070,BizStay Park Central Executive 82,405989,BizStay,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08522,4.33087,Entire home/apt,283,5,14,2023-03-11,0.29,35,274,10,Exempt
+22347305,BizStay Park Central Executive 82A,405989,BizStay,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08534,4.33096,Entire home/apt,334,5,6,2022-09-30,0.19,35,265,2,Exempt
+22347489,BizStay Park Central Executive 82C,405989,BizStay,Wijk 24 Haagse Bos,Haagse Bos,52.08681,4.33251,Entire home/apt,267,5,4,2022-08-18,0.13,35,264,3,Exempt
+22347831,BizStay Park Central Executive 82B,405989,BizStay,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08667,4.33289,Entire home/apt,182,5,1,2022-07-18,0.12,35,289,1,Exempt
+22348281,BizStay Park Central Executive 82D,405989,BizStay,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.0857,4.33312,Entire home/apt,216,5,0,,,35,317,0,Exempt
+22348806,BizStay Park Central Executive 82E,405989,BizStay,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08578,4.33166,Entire home/apt,283,5,0,,,35,314,0,Exempt
+22351347,BizStay Park Central 86A,405989,BizStay,Wijk 24 Haagse Bos,Haagse Bos,52.08699,4.33288,Entire home/apt,220,5,6,2022-05-02,0.10,35,258,1,Exempt
+22351884,BizStay Park Central 86D,405989,BizStay,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.0857,4.33301,Entire home/apt,220,5,5,2023-01-01,0.20,35,254,3,Exempt
+22352154,BizStay Park Central 86E,405989,BizStay,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08532,4.33154,Entire home/apt,170,5,0,,,35,255,0,Exempt
+22427885,Oud vissershuisje aan het strand,164252168,Sam,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10754,4.27534,Entire home/apt,95,10,29,2022-08-21,0.48,1,0,1,0518 8FAB 395A 88CC 6F4C
+22434535,Royal nieuw appartament,96787718,Yulixa,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.06974,4.27643,Entire home/apt,65,30,57,2021-10-02,0.90,2,307,0,0518 D7A6 3FF2 4BEF 1A25
+22524833,BizStay Park Central Executive 82G,405989,BizStay,Wijk 24 Haagse Bos,Haagse Bos,52.08754,4.33257,Entire home/apt,351,5,1,2021-10-23,0.06,35,287,0,Exempt
+22556968,BizStay Harbour 42A Penthouse,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09611,4.26429,Entire home/apt,293,5,9,2022-08-19,0.33,35,296,5,Exempt
+22624044,"De Valerius, heerlijk huis tussen stad en strand",12593482,Hans,Wijk 11 Duinoord,Stadhoudersplantsoen,52.08468,4.27715,Entire home/apt,125,2,18,2023-03-11,0.42,1,230,17,0518 4A11 5422 58C5 2320
+22709257,Studio with balcony in Statenkwartier,4472023,Evelien,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09544,4.27634,Entire home/apt,75,3,121,2022-08-06,1.94,1,0,18,0518711AA8388715DCB3
+22723110,Room with private bathroom in our sustainable Home,70880593,Joy,Wijk 40 Wateringse Veld,Erasmus Veld,52.03747,4.27636,Private room,54,1,376,2023-03-23,5.95,2,295,66,0518 E8AC 23FE DCC9 ED8A
+22745536,Room with private bathroom in The Hague.,70880593,Joy,Wijk 40 Wateringse Veld,Erasmus Veld,52.03666,4.27515,Private room,54,1,405,2023-03-24,6.42,2,284,77,0518 E8AC 23FE DCC9 ED8A
+22875346,Uniek Haags logeeradres met diverse mogelijkheden.,53431429,Thomas,Wijk 44 Leidschenveen,De Lanen,52.05881,4.39836,Private room,155,2,0,,,1,358,0,05183AA0E525CD95858D
+22905172,Circus Theatre view studio,153843271,Family,Wijk 07 Scheveningen,Rijslag,52.10981,4.28543,Entire home/apt,125,2,158,2023-02-26,2.52,5,316,42,0518 B986 B111 EA2E 9642
+23034154,Sfeervol gerenoveerd appartement vlak bij de zee.,26613586,Michel,Wijk 02 Belgisch Park,Belgisch Park,52.10942,4.28887,Entire home/apt,80,4,48,2022-12-31,0.77,1,0,3,0518 3864 A846 84AE 6617
+23105661,Light & stylish apartment in lively trendy area.,135889786,Durk,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07672,4.27711,Entire home/apt,125,2,20,2023-03-17,0.32,1,1,16,0518 DB5B 87CB 0A52 55FF
+23112309,Circus Theatre & Sea studio,153843271,Family,Wijk 07 Scheveningen,Scheveningen Badplaats,52.11111,4.28355,Entire home/apt,86,2,127,2022-11-01,2.05,5,309,23,0518 B986 B111 EA2E 9642
+23124010,Stylish house near beach,77115168,Suzanne,Wijk 02 Belgisch Park,Belgisch Park,52.1103,4.28912,Entire home/apt,174,2,89,2023-03-05,1.47,1,246,50,0518 B986 B111 EA2E 9642
+23232688,"Happy room near beach, OPCW,  World Forum, Europol",89688606,Irene,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09635,4.28276,Private room,79,1,79,2022-11-15,1.30,6,216,2,0518 2A6F CIB8 DC7B FEF4
+23334957,Unique Monumental House In City Centre The Hague,7063929,Jeroen,Wijk 28 Centrum,Kortenbos,52.07591,4.30427,Entire home/apt,215,2,32,2022-08-05,0.52,1,21,14,0518 A2F6 08D4 1FD7 03DC
+23370204,Best location in The Hague. ***Free parking****,97758167,Vanessa,Wijk 28 Centrum,Voorhout,52.08137,4.31309,Entire home/apt,94,1,407,2023-03-16,6.60,1,233,105,Exempt
+23459679,"High end,stately, luxurious apartmnt ONLY 120+DAYS",9591363,Christel,Wijk 28 Centrum,Voorhout,52.0858,4.30962,Entire home/apt,125,60,7,2022-09-30,0.23,1,336,2,051860ae591ddc003ee3
+23532882,Fabulous apparment close to sea & all highlights,6300023,Olivia,Wijk 03 Westbroekpark en Duttendel,Duttendel,52.10213290000001,4.3015376,Entire home/apt,320,3,0,,,1,205,0,0518D71EE93A9432488A
+23673834,"Den Haag, Top Floor near city center",177284575,Christian,Wijk 04 Benoordenhout,Nassaubuurt,52.08877,4.31534,Private room,50,2,95,2023-02-28,1.65,3,180,23,0518 C632 B0C7 8F64 B33D
+23819836,Beautiful house in The Hague close to the beach,25891598,Clementine,Wijk 09 Geuzen- en Statenkwartier,Geuzenkwartier,52.08966,4.26983,Entire home/apt,175,2,17,2022-08-28,0.29,1,59,2,0518 2CEE FA6C 9784 5A1D
+23931867,BizStay Harbour 70A Penthouse,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.0969,4.26605,Entire home/apt,334,5,2,2020-09-16,0.05,35,221,0,Exempt
+23940819,"Den Haag, Top Floor near city center",177284575,Christian,Wijk 04 Benoordenhout,Nassaubuurt,52.09019,4.31349,Private room,52,2,114,2023-03-26,1.88,3,68,25,0518 C632 B0C7 8F64 B33D
+23951143,BizStay Harbour 54C,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.0973,4.26571,Entire home/apt,213,5,3,2022-04-30,0.07,35,266,1,Exempt
+23962925,Den Haag top Floor private room,177284575,Christian,Wijk 04 Benoordenhout,Nassaubuurt,52.09039,4.31521,Private room,50,2,53,2022-09-11,0.93,3,84,6,0518 C623 B0C7 8F64 B33D
+24069453,Sea & beach view,147081880,Willem,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10754,4.27411,Entire home/apt,160,7,2,2023-01-03,0.34,1,156,2,0518 5AC1 21FA 6624 4C52
+24588065,Modern family house very close to beach,4587576,Renske,Wijk 13 Vogelwijk,Vogelwijk,52.0762,4.24498,Entire home/apt,295,14,4,2022-08-06,0.07,1,77,1,0518C3F21AB8D1153A3B
+24616990,"Modern apartment, 2 mins to shops, restaurants bus",8689987,Yvonne,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08762,4.34256,Entire home/apt,125,4,4,2020-09-18,0.07,1,108,0,0518 230A E453 56DC 10EB
+24670199,BizStay Harbour 58,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09611,4.26397,Entire home/apt,270,5,3,2022-05-25,0.09,35,288,1,Exempt
+24905284,BizStay Harbour 68B,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09572,4.2645,Entire home/apt,270,5,4,2022-11-27,0.09,35,267,2,Exempt
+24906410,BizStay Harbour 66,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09736,4.26463,Entire home/apt,293,5,3,2022-11-06,0.07,35,248,2,Exempt
+25217149,Spacious and sunny apartment near the beach,56216964,Aad,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09594,4.27211,Entire home/apt,90,2,180,2023-03-26,3.06,1,75,42,0518 F10A OFA6 BF34 B068
+25276391,Stylish studio on walking distance of all hotspots,55516136,Dorine,Wijk 23 Willemspark,Willemspark,52.08715,4.30223,Private room,98,2,115,2023-03-19,2.01,1,53,36,0518 6EE9 C992 1AAC 60E7
+25580222,B&B Valkenbos - Flora room (double bed),9363383,Madelon,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07693,4.27218,Private room,45,1,56,2022-11-01,0.97,3,164,5,0518 D25F 4C2A 083D A90D
+25622371,Scheveningen' Secret,14320418,Frederike,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10636,4.27406,Entire home/apt,130,2,64,2023-03-12,1.10,1,125,2,0518 C62D 7022 3F67 B07A
+25648816,Lovely place nearby the beach!,23447991,Manouk,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.06543,4.25131,Entire home/apt,119,5,26,2022-08-20,0.44,1,37,2,05186B1265F8A520FFF8
+25705321,Den Haag  Scheveningen tiny beach house,193399569,Alexander,Wijk 13 Vogelwijk,Vogelwijk,52.0823,4.26013,Private room,90,2,142,2023-01-03,2.44,1,0,39,0518 834F 47DF B103 7B17
+25708268,"Studio in Scheveningen, close to harbour and beach",193394804,Annemarie & Michiel,Wijk 07 Scheveningen,Vissershaven,52.09502,4.26713,Entire home/apt,111,2,288,2023-03-15,4.95,1,221,51,Exempt
+25932089,City centre Apartment in nice nbhd family friendly,141910402,Guine,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08292,4.29519,Entire home/apt,250,5,20,2022-09-18,0.39,1,1,6,0518 FA16 C9BE F527 F26D
+26090158,"Large, quiet appartment with sunny roofterrace",8482384,Renze,Wijk 04 Benoordenhout,Uilennest,52.09553,4.3272,Entire home/apt,106,2,54,2022-09-15,0.93,1,54,4,0518 E5AF 8CA1 615D B4E9
+26275697,Appartement 15 automin. van Scheveningen -Gratis P,29589289,Lucienne,Wijk 44 Leidschenveen,De Vissen,52.06531,4.41503,Entire home/apt,98,3,84,2022-08-23,1.46,1,137,16,0518 4CE9 41A1 1AF4 410B
+26322853,Beach-style fishermans house by the sea,195582280,Selma,Wijk 07 Scheveningen,Visserijbuurt,52.10382,4.27739,Entire home/apt,142,2,18,2023-01-29,0.32,1,0,10,0518 4532 0204 003F 4D59
+26324095,Scheveningen with the beach as your backyard,196734313,Carla,Wijk 07 Scheveningen,Scheveningen Badplaats,52.11065,4.27813,Entire home/apt,132,2,149,2022-12-04,2.58,1,147,11,0518DgEC5FB31954C3A7
+26629823,Cheerful room near beach Europol OPCW World Forum,89688606,Irene,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09635,4.28276,Private room,59,1,78,2022-11-20,1.36,6,134,13,0518 2A6F C1B8 DC7B FEF4
+26681812,"3 Zimmer Wohnung,  Appartment with 3 rooms",200589434,Koen,Wijk 12 Bomen- en Bloemenbuurt,Bomenbuurt,52.08003,4.27131,Entire home/apt,93,1,141,2023-03-05,2.46,1,70,22,0518 C0A0 334F D66C A7CB
+26733716,"apartment with beautiful garden, centrally located",7843936,Riekje,Wijk 05 Archipelbuurt,Archipelbuurt,52.09157,4.30597,Entire home/apt,130,4,25,2022-09-09,0.45,1,92,3,05189EF1E9B2638E8505
+26743277,Family home near the beach,8250854,Tim,Wijk 18 Waldeck,Nieuw Waldeck,52.05933,4.24514,Entire home/apt,180,12,15,2022-07-25,0.27,1,8,4,0518 14A0 CE38 AA62 ABB5
+26830582,"Top floor near the beach, free parking",67048938,Yke,Wijk 18 Waldeck,Componistenbuurt,52.06497,4.23981,Private room,72,3,168,2021-07-13,2.94,1,22,0,0518 9B80 3860 A1B1 D931
+26906890,"Den Haag/The Haque:  Lovely big family house
+300m2",21073673,Hermiette,Wijk 04 Benoordenhout,Arendsdorp,52.09504,4.3204,Entire home/apt,350,5,9,2022-08-11,0.20,2,24,1,0518 25DE B459 80EB B47A
+26938023,Spacious and light apartment near dune and sea,12649321,Fanny,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-Oost,52.07598,4.25771,Entire home/apt,250,3,17,2022-10-15,0.37,1,44,8,0518 A720 9BB3 55C0 0AAD
+27168910,Stroll the Waterfront from a Harbor Side Loft/ BBwestduin,33132059,Stefanie,Wijk 09 Geuzen- en Statenkwartier,Geuzenkwartier,52.09738,4.27098,Entire home/apt,124,1,336,2023-03-06,6.51,3,229,80,0518 DDA4 C8BD 104A 1EDA
+27565541,Lovely room for one guest,28967205,Mohammed,Wijk 38 Laakkwartier en Spoorwijk,Laakkwartier-West,52.05757,4.32087,Private room,125,3,47,2020-03-15,0.84,2,172,0,0518 35E5 3571 EC9D 1618
+27717350,appartement in Scheveningen dichtbij zee & centrum,136636502,Janneke,Wijk 09 Geuzen- en Statenkwartier,Geuzenkwartier,52.08887,4.26908,Entire home/apt,110,2,47,2023-01-02,0.85,1,54,8,0518 AF8F D367 C10C 3D4B
+28292518,beachfront apartment with easy acces to center,9165668,Robert,Wijk 07 Scheveningen,Scheveningen Badplaats,52.11039,4.28351,Entire home/apt,125,5,8,2022-07-23,0.17,22,272,1,Exempt
+28621945,3 Bedroom Villa 200m from The Hague Beach Kijkduin,215999432,Patrick,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05726,4.2104,Entire home/apt,182,3,60,2023-03-17,1.11,1,40,19,Exempt
+28630934,Hague City Center Room 1  + Bike,213095443,Anthon,Wijk 27 Stationsbuurt,Huygenspark,52.07189,4.31695,Private room,35,2,174,2023-03-10,3.21,3,14,40,0518 5C0A 97EC EE0A AABF
+28637975,Hague City Center Room 2 + Bike,213095443,Anthon,Wijk 27 Stationsbuurt,Huygenspark,52.07228,4.3165,Private room,35,2,137,2023-03-23,2.52,3,11,32,0518 5C0A 97EC EE0A AABF
+28711989,Sunny 2-floors apartment in Den Haag,840426,Francesca,Wijk 24 Haagse Bos,Haagse Bos,52.0914,4.32789,Entire home/apt,140,3,3,2023-01-01,0.39,1,0,3,0518 3B1B 4136 FDAA 419E
+28749014,Hague  City Center Tiny Studio House + Bike,213095443,Anthon,Wijk 27 Stationsbuurt,Huygenspark,52.07158,4.31614,Entire home/apt,58,3,143,2023-03-23,3.02,3,16,60,0518 3824 8F51 75F6 243D
+28794850,"The Square View, near city, beach and transport",85867738,Tom,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08321,4.34396,Entire home/apt,165,3,5,2022-09-30,0.70,1,0,5,0518 CBA0 1DF8 D38C 4912
+28874594,Bright and spacious city centre loft.,56140667,Alfredo,Wijk 28 Centrum,Kortenbos,52.08018,4.30421,Entire home/apt,115,1,19,2023-03-25,0.38,1,252,2,0518 62E9 1766 E090 8B31
+29532448,"""de Beverningk """,222377302,Martin,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.08841,4.27339,Entire home/apt,70,1,404,2023-03-19,7.75,1,0,117,Exempt
+29539434,Top city-apartment & private parking/bikes,105486465,Monique,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08119,4.28871,Entire home/apt,108,3,176,2023-03-25,3.28,1,171,39,0518 BDE7 8CD8 339A 5C88
+29775534,Sunny house near beach and Peace Palace,223403396,Nanda,Wijk 20 Valkenboskwartier,Heesterbuurt,52.07391,4.26724,Entire home/apt,100,7,5,2019-08-03,0.09,1,47,0,0518 3D01 ED34 5DFA 9863
+29954730,B&B Valkenbos - Karma room,9363383,Madelon,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07647,4.27423,Private room,45,1,5,2022-07-10,0.10,3,0,1,0518 D25F 4C2A 083D A90D
+30004323,"The Hague Living, Close to the beach / World forum",66757655,Dimitri,Wijk 12 Bomen- en Bloemenbuurt,Bomenbuurt,52.0829,4.27139,Entire home/apt,435,3,27,2020-08-30,0.58,1,17,0,0518 5588 237E 3EDF DB45
+30006970,Beautiful spacious apartment & private parking,47014626,Ellen,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.081501,4.295443,Entire home/apt,114,3,90,2023-03-10,1.76,1,302,26,0518 35CC A723 2C07 0070
+30031483,"Den Haag, nearby the sea and centre",68665513,Nathalie En Michel,Wijk 11 Duinoord,Stadhoudersplantsoen,52.08372,4.27602,Private room,55,2,139,2023-03-22,2.71,1,82,43,0518 7B00 5366 ACF3 C207
+30055825,Royal apartment 15 minute walk from the sea,103539390,Florien,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09036,4.27234,Entire home/apt,120,1,82,2023-03-26,1.62,1,0,20,0518 BA96 839F D1C3 0522
+30506886,Stylish industrial loft near beach & city center,1340614,Annet & David,Wijk 21 Regentessekwartier,Rond de Energiecentrale,52.07495,4.28542,Entire home/apt,79,2,120,2023-03-19,2.57,1,149,50,0518 8A40 FF71 2C63 B828
+30810281,Spacious stylish house close to the beach,177701530,Hosted By Wendy,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07721,4.27868,Entire home/apt,109,6,28,2020-03-13,0.55,13,6,0,Exempt
+30815904,Private appartment,86665656,Daan,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07504,4.2778,Entire home/apt,60,1,15,2022-12-02,0.29,1,0,1,0518 1FE7 2ABA 4DC4 A9B0
+30819786,Appartment with roof terrace close to the beach,219820267,Yaron,Wijk 02 Belgisch Park,Belgisch Park,52.11182,4.28888,Entire home/apt,164,5,5,2021-11-05,0.10,1,2,0,0518 E9BB FE18 8773 7A9F
+31327491,Brugwachtershuisje Wijkerbrug,159488380,Willeke,Wijk 43 Forepark,Vlietzoom-Oost,52.07222,4.37779,Entire home/apt,100,2,180,2023-02-25,3.79,1,87,53,Exempt
+31580359,Luxurious City Centre apartment,69066208,Alberto,Wijk 28 Centrum,Voorhout,52.08119,4.31781,Entire home/apt,106,4,115,2023-01-01,2.27,1,170,20,0518 F07A 6F8C A44A DA8A
+31592685,Den Haag - city - beach - parks - dunes,7185041,Femke,Wijk 04 Benoordenhout,Arendsdorp,52.09825,4.32152,Entire home/apt,250,7,18,2022-08-04,0.37,1,100,3,0518 9DC8 422E 716F 0E70
+31851842,BizStay Harbour 56C,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09782,4.26573,Hotel room,213,5,2,2022-08-27,0.12,35,308,1,Exempt
+31919330,"Boutique appartement Den Haag, 2 bed, 2 bath",75627852,Gonny,Wijk 05 Archipelbuurt,Archipelbuurt,52.09248,4.30827,Entire home/apt,222,2,183,2023-03-19,3.64,1,144,50,05189A867A57134268E8
+32175221,"Pleasant Cozy room near Beach, World Forum, OPCW",89688606,Irene,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.0969,4.28246,Private room,69,1,95,2022-09-25,1.90,6,73,15,0518 2A6F C1B8 DC7B FEF4
+32177865,Scheveningen dichtbij het strand,108246093,Janneke,Wijk 07 Scheveningen,Oud Scheveningen,52.10202,4.27522,Entire home/apt,170,4,18,2022-08-07,0.38,1,0,2,05186B56112274662729
+32277060,Beach at 2min. top floor + roof terrace!,242226713,Santos,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10713,4.27626,Entire home/apt,75,2,138,2023-03-05,2.82,1,20,28,0518 6FDB 4FE5 FEFB 1C8A
+32402191,A cozy retreat minutes from the beach,25509060,Travis,Wijk 07 Scheveningen,Scheveningen Badplaats,52.1096,4.28094,Entire home/apt,150,2,40,2022-09-18,0.80,2,0,5,0518 A3DE 31BD 8911 7EBA
+32557959,High end studio near beach,9165668,Robert,Wijk 07 Scheveningen,Rijslag,52.10969,4.2844,Entire home/apt,174,3,33,2023-01-05,0.67,22,322,9,Exempt
+32558007,1 bedroom apartment near beach,9165668,Robert,Wijk 07 Scheveningen,Rijslag,52.11097,4.28399,Entire home/apt,183,4,13,2022-08-24,0.27,22,365,5,Exempt
+32606783,"Quiet and sunny, minutes from the center!",1455674,Naomi,Wijk 38 Laakkwartier en Spoorwijk,Noordpolderbuurt,52.06197,4.34005,Entire home/apt,56,28,15,2023-02-28,0.31,1,215,4,
+32910623,Male couple rents bedroom with shared amenities,185224819,Kevinington,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.06785,4.2512,Private room,70,1,130,2023-03-19,2.66,1,159,33,05181B92E380DFA8A4AE
+32952139,Ideal family house at sea,54482414,Marc,Wijk 02 Belgisch Park,Belgisch Park,52.11386,4.28474,Entire home/apt,235,4,5,2022-08-13,0.11,2,0,2,0518 0EA9 7151 87D9 4CA2
+33096536,Beautiful little fisherman’s house near the beach,94219567,Kimberley,Wijk 07 Scheveningen,Visserijbuurt,52.1025,4.28136,Entire home/apt,118,3,31,2023-03-03,0.68,1,0,3,0518 8382 D671 2C07 6F90
+33125530,"Beach, culture and shops. What else do you want?",60051580,Eduard,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.08871,4.2778,Entire home/apt,249,2,28,2023-02-12,0.87,1,179,13,0518 F3D1 4108 05E2 6953
+33164023,Beautiful familiy house with garden and seaview!,249699635,Familie Verhoeven,Wijk 02 Belgisch Park,Belgisch Park,52.11618,4.28702,Entire home/apt,375,3,8,2022-07-24,0.17,1,3,1,0518 D947 8C99 EB4A 031E
+33218772,Spacious & quiet room not far from centre & beach,248169354,Agnes,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.08208,4.28534,Private room,65,1,75,2023-03-19,1.55,1,37,40,0518 2697 81F8 AD17 F820
+33340915,Suite in B&B Villa Suisse a great luxuary B&B with nice garden close to the beach,2799091,Roelof,Wijk 02 Belgisch Park,Belgisch Park,52.11224,4.2869,Private room,164,1,8,2022-10-23,0.17,2,21,1,0518 6635 4A7A 63D6 4E56
+33341125,Luxe Room in a great luxuary B&B with nice garden,2799091,Roelof,Wijk 02 Belgisch Park,Belgisch Park,52.11293,4.28489,Private room,133,1,36,2023-03-26,0.95,2,14,14,0518 6635 4A7A 63D6 4E56
+33354967,Studio near Beach,9165668,Robert,Wijk 07 Scheveningen,Rijslag,52.1109,4.28426,Entire home/apt,125,3,15,2022-08-01,0.32,22,317,2,Exempt
+33420536,Single room in cosy house.,30233643,Helen,Wijk 19 Vruchtenbuurt,Eykenduinen,52.06446,4.2538,Private room,64,2,15,2022-10-09,0.32,1,170,5,Exempt
+33465566,Perfect family house in quiet area The Haque,21073673,Hermiette,Wijk 04 Benoordenhout,Arendsdorp,52.09664,4.3215,Entire home/apt,250,5,0,,,2,7,0,0518 25DE B459 80EB B47A
+33505319,Spacious Beach Apartment,10084732,Jordans,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10903,4.27784,Entire home/apt,175,7,14,2021-11-13,0.29,2,334,0,Exempt
+33541560,"Art Deco Townhouse with roof terrace, near beach",103454416,Barbara,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09574,4.28166,Entire home/apt,150,3,20,2023-01-02,0.42,1,38,5,05189FD2A4DD3342090F
+33566351,Beautifull apartment nearby the beach and harbour,143459505,Anthony,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10587,4.27644,Entire home/apt,200,2,5,2019-10-04,0.11,1,26,0,0518 F591 253E 3F01 3E93
+33571201,Beachhouse met dakterras Scheveningen,21351464,Sanne,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10921,4.28104,Entire home/apt,120,3,8,2022-04-22,0.17,1,0,1,0518 DD15 F969 D52D 10E7
+33732404,Light and spacious home from interior designer,10538644,Femke,Wijk 03 Westbroekpark en Duttendel,Duttendel,52.10553,4.30309,Entire home/apt,299,3,10,2023-01-03,0.22,1,149,5,0518 4A83 AEC0 D6A6 A4C7
+33844291,Family house down town The Hague,226148199,W,Wijk 04 Benoordenhout,Nassaubuurt,52.0896,4.31667,Entire home/apt,191,6,2,2022-09-11,0.05,1,339,1,0518 A001 3FC1 5722 F9BB
+33876755,Stylish studio between city center & the beach!,2583181,Maaike & Michiel,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.08073,4.28782,Entire home/apt,96,2,241,2023-03-26,5.04,1,58,83,0518 A348 6B62 5142 1807
+33954755,Town house two minutes from Scheveningen beach,13814611,Titia,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10721,4.27812,Entire home/apt,245,5,7,2022-08-03,0.16,1,25,1,0518 F2B7 A56F B60D 3B34
+34039334,Cosy room with balcony,15819951,Arian,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07769,4.27486,Private room,65,2,43,2022-11-13,0.93,1,0,12,0518 CC8E DCC8 8044 B102
+34048576,"Sfeervolle parterrewoning, oud herenhuis met tuin.",8295386,Marieke,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07514,4.27845,Entire home/apt,129,2,1,2023-03-11,1,1,93,1,0518 9F1D 2B19 04B0 430D
+34050236,Single room with 1 single bed & lots of space,11897813,Christina,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08637,4.33654,Private room,69,5,3,2022-10-01,0.35,2,193,3,0518 A942 63FF E789 F234
+34134192,Stylish One Bedroom Apartment for 4 persons with bath close to Central Station,248427955,Central Station Serviced Apartments,Wijk 28 Centrum,Uilebomen,52.07866,4.32195,Hotel room,171,1,3,2023-03-03,0.19,4,88,2,Exempt
+34134774,Great One Bedroom Split Level Apartment for 4 persons close to Central Station,248427955,Central Station Serviced Apartments,Wijk 28 Centrum,Uilebomen,52.07742,4.32339,Hotel room,171,1,41,2023-03-21,0.88,4,105,13,Exempt
+34134852,Beautiful One Bedroom Apartment for 4 persons close to Central Station,248427955,Central Station Serviced Apartments,Wijk 28 Centrum,Uilebomen,52.07748,4.3227,Hotel room,161,1,63,2023-03-21,1.91,4,91,33,Exempt
+34252414,Family house with garden close to the beach,17929590,Lieke,Wijk 04 Benoordenhout,Waalsdorp,52.10072,4.3143,Entire home/apt,175,5,7,2022-07-30,0.16,1,0,2,0518 B931 E989 F7D9 EA34
+34393037,2nd private floor in family house,32275419,Tjitske & Sergio,Wijk 03 Westbroekpark en Duttendel,Duttendel,52.10946,4.30405,Private room,165,2,58,2023-01-01,1.25,2,106,17,051838D39DF28149B401
+34474996,Het 33 - 41 m2 Cozy B&B - Museum quarter - Centre,124098478,Karin,Wijk 28 Centrum,Voorhout,52.08383,4.31308,Entire home/apt,125,1,13,2023-03-16,0.28,1,263,2,0518 77DD CBFC 107B 4303
+34795697,Zilt Suite boutique AirBnB : beach/theatre/casino,100127374,V&D,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10866,4.28173,Private room,131,2,103,2023-03-22,2.27,2,93,27,0518 C52C 3E27 1445 8B02
+34796345,Boutique AirBnB Zilt: beach/theatre/movie/casino,100127374,V&D,Wijk 07 Scheveningen,Rijslag,52.10797,4.28295,Private room,109,2,121,2022-10-16,2.62,2,165,32,0518 C52C 3E27 1445 8B02
+34856034,Spacious apartment in hippest area of The Hague,7490376,Alexandra,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08183,4.29873,Entire home/apt,141,2,70,2023-03-19,1.50,1,100,29,Exempt
+35051892,Excellent appartement - quiet yet central,4410499,Johann,Wijk 27 Stationsbuurt,Huygenspark,52.07133,4.31552,Entire home/apt,110,2,17,2023-03-04,0.38,1,0,8,0518 575B 009C 7AA6 4727
+35227230,Spacious beachhouse with garden,153843271,Family,Wijk 07 Scheveningen,Rijslag,52.10867,4.28879,Entire home/apt,119,2,90,2023-03-05,1.95,5,126,38,0518B986B111EA2E9642
+35227599,Surfers house,153843271,Family,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10994,4.28246,Entire home/apt,110,2,98,2022-10-27,2.59,5,0,32,0518B986B111EA2E9642
+35228436,newly renovated studio near beach,9165668,Robert,Wijk 07 Scheveningen,Scheveningen Badplaats,52.11105,4.28274,Entire home/apt,141,1,22,2023-03-16,0.48,22,322,7,Exempt
+35282757,Unique Ocean view beach apartment in Scheveningen,265631323,Christiaan,Wijk 07 Scheveningen,Oud Scheveningen,52.10401,4.26892,Entire home/apt,245,5,15,2022-08-29,0.32,1,0,3,0518 BEB8 EDCF F4EE 47D5
+35312998,Lovely holiday home with a garden near the sea!,265870799,Annelies,Wijk 07 Scheveningen,Visserijbuurt,52.10485,4.27797,Entire home/apt,80,1,17,2022-11-01,0.38,1,0,2,0518 C198 5953 76D9 DA97
+35379554,Bungalow in vakantiepark bij strand van Den Haag,128900110,Hilly,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05894,4.21123,Entire home/apt,200,2,28,2022-09-03,0.63,1,146,12,Exempt
+35471279,Entire Apartment in The Hague w/ Private Garden,30989217,Laura,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.06586,4.2539,Entire home/apt,135,3,9,2021-12-31,0.20,1,0,0,0518 9673 5BB9 8A7D 079C
+35489115,Large Family House - walking distance to the Beach,85901893,Roland,Wijk 13 Vogelwijk,Vogelwijk,52.08041,4.25788,Entire home/apt,250,14,7,2022-08-12,0.16,1,166,3,0518 DDBF 03EE 8B08 352E
+35756441,"Nice, cosy family house in The Hague city!",5862025,Mirjam,Wijk 31 Rustenburg en Oostbroek,Oostbroek-Zuid,52.06488,4.28003,Entire home/apt,130,3,6,2022-08-07,0.14,1,38,2,051803AB92DC48B2DEA3
+35939576,Shortstay apartment near the beach  62m2,14998655,Leo,Wijk 07 Scheveningen,Visserijbuurt,52.10421,4.27931,Entire home/apt,125,3,47,2023-03-16,1.03,1,114,17,Exempt
+35940756,"Private room, luxurious floor, Central The Hague",58846614,Hannah,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08713,4.33626,Private room,58,2,61,2023-03-17,1.36,2,39,44,05186AA1A11C3BEEAO5E
+36019676,Top location in Scheveningen/The Hague,224798794,Kees,Wijk 13 Vogelwijk,Vogelwijk,52.08496,4.26418,Entire home/apt,100,3,78,2023-03-10,1.74,1,44,28,0518 C379 FE64 E359 2FFE
+36023173,Stylish One Bedroom apartment for 4 persons at Noordeinde,261959318,Royal Palace Serviced Apartments,Wijk 29 Schildersbuurt,Schildersbuurt-West,52.06998,4.29978,Private room,181,1,2,2022-08-31,0.11,3,90,1,Exempt
+36023452,Cosy one bedroom apartment for 2 guests at Noordeinde,261959318,Royal Palace Serviced Apartments,Wijk 29 Schildersbuurt,Schildersbuurt-Noord,52.06993,4.30125,Hotel room,166,1,1,2023-03-13,1,3,104,1,Exempt
+36023548,Stylish two bedroom apartment suitable for 4 guests in the heart of The Hague,261959318,Royal Palace Serviced Apartments,Wijk 29 Schildersbuurt,Schildersbuurt-West,52.07157,4.29997,Hotel room,206,1,0,,,3,0,0,Exempt
+36161058,Grey high-end apartment near beach.,9165668,Robert,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10921,4.28252,Entire home/apt,177,3,10,2022-07-15,0.27,22,354,1,Exempt
+36189740,Charming family house near the beach,8113368,Robert,Wijk 07 Scheveningen,Scheveningen Badplaats,52.11075,4.28039,Entire home/apt,200,6,9,2022-06-22,0.20,1,42,3,0518 CE2F EFF4 054A E96C
+36229305,Large familyhouse close to beach and city centre,43015842,Rogier,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08948,4.33766,Entire home/apt,295,5,5,2022-08-10,0.11,1,119,1,0518 E111 214C 8D38 6400
+36252615,House near harbour and beach with a lovely garden.,272668082,Anna,Wijk 09 Geuzen- en Statenkwartier,Geuzenkwartier,52.09675,4.27179,Entire home/apt,113,2,99,2023-03-05,2.26,1,274,33,0518 41C4 3A94 8DBE 12C6
+36260980,Central Studios - One Bedroom Apartment,49695547,Roos,Wijk 27 Stationsbuurt,Rivierenbuurt-Noord,52.07803,4.3273,Entire home/apt,128,2,42,2022-08-22,0.97,12,217,2,Exempt
+36269414,Nice ground floor family apartment near the beach,272779647,Michael En Madelon,Wijk 20 Valkenboskwartier,Heesterbuurt,52.07301,4.26752,Entire home/apt,186,5,11,2022-08-16,0.25,1,0,4,0518 3AEA 5356 990F 36B1
+36349112,Row house near City and Sea with garden,10590725,Jos,Wijk 21 Regentessekwartier,Rond de Energiecentrale,52.0734,4.28806,Entire home/apt,190,4,7,2022-08-13,0.16,1,0,2,0518DDB5FA595F95DCB9
+36375587,125+ year old renovated Family Home in The Hague,18913645,Stephanie,Wijk 05 Archipelbuurt,Archipelbuurt,52.09077,4.3023,Entire home/apt,225,3,10,2022-08-14,0.22,1,15,3,0518AD0256FD3271D270
+36516498,Large family house in popular Zeeheldenkwartier,5104506,Mascha,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08279,4.29631,Entire home/apt,250,5,6,2022-08-16,0.14,1,211,2,0518 18E9 FEEF 5E37 FB8F
+36517939,Lovely Bright apartment next to City center &Beach,34052079,Laurien,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07457,4.27856,Entire home/apt,130,2,13,2022-11-16,0.30,1,0,4,0518 BC3E EC73 15AF 4919
+36581481,Clean chic cozy home in vibrant part of The Hague!,27115630,Kathi,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07657,4.28399,Entire home/apt,250,5,14,2022-08-19,0.31,1,0,2,0518B4624AC6A32BB763
+36666392,"dubbelbovenhuis met dakterras, hartje Scheveningen",273568444,Sterre,Wijk 02 Belgisch Park,Belgisch Park,52.1109877,4.2919206,Entire home/apt,250,1,10,2023-01-15,1.15,1,186,10,0518 AD8A A5C0 C20E 4363
+36724148,Ultimate sleeping experience in the city centre,2817394,Ian,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08,4.29272,Private room,50,1,155,2023-03-26,3.46,2,1,68,0518 5ACD E2BE 95EC 4A1D
+36760385,Studio apartment near the beach,9165668,Robert,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10994,4.28338,Entire home/apt,125,4,10,2023-02-23,0.23,22,332,4,Exempt
+36899467,Beachhouse with garden near the sea(50m),198148996,Annelieke,Wijk 07 Scheveningen,Oud Scheveningen,52.10583,4.26875,Entire home/apt,75,30,11,2022-08-13,0.25,1,14,1,0518 FB9A 50C8 F40C 4CB8
+37008957,Modern house with terras nearby the sea,116521107,Els,Wijk 19 Vruchtenbuurt,Eykenduinen,52.0656,4.25498,Entire home/apt,113,3,9,2023-03-24,0.46,1,29,6,0518 BB84 C0E2 464B 6E35
+37070426,Sweelinck,93084502,Libia,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.08422,4.29067,Entire home/apt,104,2,15,2022-05-14,0.35,1,0,2,Exempt
+37247410,#2 Walk to Central. Quiet clean &safe.Female only.,31232633,Cherlene,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08357,4.33253,Private room,66,2,6,2020-09-26,0.18,3,219,0,0518E0A0B7535C52A683
+37268856,Family friendly house 15 mins. from beach and city,139308269,Pepijn,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.0702,4.25499,Entire home/apt,150,7,3,2022-08-12,0.15,1,49,2,0518 66F0 2304 A327 9F5E
+37331676,Long stay apartments,9165668,Robert,Wijk 07 Scheveningen,Scheveningen Badplaats,52.1096,4.28238,Entire home/apt,100,90,0,,,22,365,0,Exempt
+37338341,Something special; house at the park/near beach,6408712,David,Wijk 07 Scheveningen,Visserijbuurt,52.10387,4.28515,Entire home/apt,249,6,1,2022-07-24,0.12,1,70,1,0518 3C7E 6C6D E037 E87F
+37389006,"Close to Central, quiet, clean&safe. Female only.",31232633,Cherlene,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08398,4.33242,Private room,66,2,16,2022-07-17,0.50,3,208,13,0518E0A0B7535C52A683
+37485626,Spectacular 200 sqm beach house!,9136029,Sander,Wijk 02 Belgisch Park,Belgisch Park,52.11102,4.28553,Entire home/apt,350,14,5,2022-08-13,0.11,1,34,2,0518 CEA7 4889 8872 BEA6
+37543519,Beautiful family house near the beach,13958975,Laura,Wijk 07 Scheveningen,Visserijbuurt,52.10461,4.27593,Entire home/apt,140,3,19,2022-10-27,0.43,1,0,3,0518 2F3A 2E82 D438 9E3E
+37607138,Den haag The Whole House Free Parking,108851013,Teus,Wijk 25 Mariahoeve en Marlot,Landen,52.09423,4.36739,Entire home/apt,86,2,139,2023-03-20,3.38,1,24,57,0518745A2F31A6A55872
+37620016,Central Studios - Two Bedroom Apartment,49695547,Roos,Wijk 27 Stationsbuurt,Rivierenbuurt-Noord,52.07864,4.32499,Entire home/apt,134,2,11,2022-11-26,0.26,12,217,5,Exempt
+37621849,Central Studios - Two Bedroom Apartment,49695547,Roos,Wijk 26 Bezuidenhout,Bezuidenhout-West,52.07854,4.32715,Entire home/apt,134,2,13,2023-01-22,0.30,12,202,5,Exempt
+37622773,Central Studios - One Bedroom Apartment,49695547,Roos,Wijk 27 Stationsbuurt,Rivierenbuurt-Noord,52.07787,4.32635,Entire home/apt,110,2,5,2022-06-21,0.15,12,222,1,Exempt
+37623206,Central Studios - One Bedroom Apartment,49695547,Roos,Wijk 27 Stationsbuurt,Rivierenbuurt-Noord,52.07832,4.32561,Entire home/apt,134,2,21,2023-02-18,0.48,12,233,4,Exempt
+37623454,Central Studios - Studio with Balcony,49695547,Roos,Wijk 26 Bezuidenhout,Bezuidenhout-West,52.07918,4.32665,Entire home/apt,134,2,8,2022-10-30,0.47,12,224,7,Exempt
+37624434,Central Studios - Studio with Balcony,49695547,Roos,Wijk 26 Bezuidenhout,Bezuidenhout-West,52.07876,4.32759,Entire home/apt,134,2,4,2022-09-07,0.18,12,214,3,Exempt
+37625131,Central Studios - Studio with Balcony,49695547,Roos,Wijk 27 Stationsbuurt,Rivierenbuurt-Noord,52.07909,4.32497,Entire home/apt,124,2,5,2022-10-24,0.13,12,227,3,Exempt
+37625400,Central Studios - Studio with Balcony,49695547,Roos,Wijk 27 Stationsbuurt,Rivierenbuurt-Noord,52.0775,4.32636,Entire home/apt,124,2,1,2019-11-10,0.02,12,234,0,Exempt
+37625595,Central Studios - Studio with Balcony,49695547,Roos,Wijk 27 Stationsbuurt,Rivierenbuurt-Noord,52.07921,4.32558,Entire home/apt,124,2,0,,,12,238,0,Exempt
+37626046,Central Studios - Studio with Balcony,49695547,Roos,Wijk 27 Stationsbuurt,Rivierenbuurt-Noord,52.07695,4.3254,Entire home/apt,124,2,4,2021-10-08,0.10,12,232,0,Exempt
+37626739,Central Studios - Studio on Ground floor,49695547,Roos,Wijk 27 Stationsbuurt,Rivierenbuurt-Noord,52.07901,4.32575,Entire home/apt,107,2,3,2022-04-08,0.08,12,177,1,Exempt
+37702780,"Perfect location to access city, beach & transport",17491676,Martina,Wijk 28 Centrum,Kortenbos,52.07471,4.29786,Private room,60,2,23,2022-09-17,0.91,1,66,6,051802F64EF3AB261C66
+38086900,Studio for long stay,9165668,Robert,Wijk 07 Scheveningen,Rijslag,52.10939,4.28402,Entire home/apt,130,14,6,2021-12-14,0.16,22,340,0,Exempt
+38666953,Spacious attic room in mansion on a stylish canal,295392175,Ewout,Wijk 29 Schildersbuurt,Schildersbuurt-Noord,52.0711,4.30335,Private room,64,1,47,2023-03-25,1.10,1,91,31,051835ACBAEEF43E7160
+38710237,Beautiful 4-bedroom family home near the beach,295976342,Fleur,Wijk 13 Vogelwijk,Vogelwijk,52.08365,4.25556,Entire home/apt,300,7,3,2022-08-06,0.08,1,12,1,0518 AF54 A08E 5DB9 D56F
+38787107,Spacious fishermans house with a private garden.,32564248,Reinier,Wijk 07 Scheveningen,Rijslag,52.109,4.28443,Entire home/apt,175,3,5,2021-08-18,0.12,1,16,0,0518 61FC D42C 1E90 8F91
+38789730,Authentic Fisherman house close to the beach,14323938,Floor,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10714,4.27465,Entire home/apt,134,2,11,2023-02-12,0.26,1,5,4,0518 B68A 8A86 2B88 D77B
+39347008,Large house near the beach and theater,95708322,Leon,Wijk 02 Belgisch Park,Belgisch Park,52.11213,4.28987,Entire home/apt,120,2,2,2022-03-27,0.16,1,6,1,0518 BAB3 5DA6 C8E1 5755
+39646749,"Room in big apartment, spacious, clean and light!",16041209,Charlotte,Wijk 11 Duinoord,Stadhoudersplantsoen,52.08644,4.27756,Private room,85,5,2,2020-08-08,0.05,1,68,0,0518 AF12 5A22 DA45 4C73
+39686085,Spacious Family Apartment (150m2),78661102,Jan-Jaap,Wijk 12 Bomen- en Bloemenbuurt,Bomenbuurt,52.07939,4.26931,Entire home/apt,223,5,4,2022-10-30,0.35,1,16,4,0518 125C 88D3 34EC C683
+39808462,Apartment in between Peace Palace & Royal Stables,74770336,Ric,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08428,4.29986,Entire home/apt,178,2,54,2023-03-26,1.37,1,230,28,0518 E53A FCC8 F70B 1F72
+39937678,Kd 711 - Vakantiepark Kijkduin,256391686,Eezz,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05517,4.21234,Entire home/apt,111,1,17,2022-12-02,0.43,10,140,6,Exempt
+39940621,Kd 814 - Vakantiepark Kijkduin,256391686,Eezz,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05604,4.21289,Entire home/apt,95,1,6,2021-01-02,0.15,10,27,0,Exempt
+40023230,Unieke accommodatie met eigen parkeerplaats,43183844,Yvonne,Wijk 04 Benoordenhout,Uilennest,52.09581,4.3341,Private room,95,2,95,2023-03-05,2.33,1,127,42,0518 7094 E432 5A7D F0C6
+40247709,Room close to hollandse spoor Den Haag,269439514,Kinzy,Wijk 38 Laakkwartier en Spoorwijk,Noordpolderbuurt,52.06317,4.33183,Private room,50,1,10,2022-08-03,0.52,3,299,3,0518B47E33D49C7DF9K6
+40317701,Light and cosy apartment,12669280,Liliana,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08194,4.28811,Entire home/apt,150,3,19,2023-01-01,0.48,1,65,6,0518 9D54 6BFE B0D4 5BBF
+40507021,Alfa Grey Apartment,19894111,Arjen & Nathalie,Wijk 27 Stationsbuurt,Rivierenbuurt-Noord,52.07566,4.32431,Entire home/apt,95,2,105,2023-03-12,2.66,2,16,46,051851E802309B6D529D
+40714698,B&B Beach Inn aan zee,8625542,Marcel,Wijk 08 Duindorp,Duindorp,52.09129,4.25707,Private room,108,1,76,2023-03-12,1.93,1,146,25,0518 OFFD 4COA 9486 6100
+40793076,Scheveningen Beach Loft Golden Rays family,10239880,Lucas,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10837,4.27473,Entire home/apt,58,1,105,2023-03-20,2.66,9,267,58,0518 0AB6 1057 BE1B B314
+40812016,"Cozy home nearby The Hague market, Centre D Hague",317325388,Cicilia,Wijk 31 Rustenburg en Oostbroek,Oostbroek-Zuid,52.06344,4.28799,Shared room,55,2,2,2020-03-21,0.05,1,85,0,Exempt
+40814716,Gorgeous home for urban or outdoorsy adventures!,9626816,Alexander,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08129,4.34075,Entire home/apt,150,2,2,2022-08-12,0.18,1,0,2,0518 93CA D020 C567 A906
+40894957,Best of Scheveningen,38531421,Cristina,Wijk 02 Belgisch Park,Belgisch Park,52.11209,4.28548,Entire home/apt,87,2,97,2023-03-03,4.18,2,255,55,Exempt
+40955727,Self contained apartment near The Hague centre,6155612,Marieke,Wijk 05 Archipelbuurt,Archipelbuurt,52.09193,4.30607,Private room,165,1,99,2022-11-27,2.86,1,21,50,0518 DFB2 7B23 8AB1 96D9
+41003621,"Hidden Pearl of Schevening Beach ""The black swan""",10239880,Lucas,Wijk 07 Scheveningen,Scheveningen Badplaats,52.1093,4.27784,Entire home/apt,69,1,169,2023-03-16,4.27,9,167,54,0518 0AB6 1057 BE1B B314
+41018620,1st fl + terrace ·Sea Breeze· 2 rooms Scheveningen,10239880,Lucas,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10817,4.27612,Entire home/apt,74,1,148,2023-03-24,3.75,9,213,60,0518 0AB6 1057 BE1B B314
+41073052,Two bedroom appt. City Centre +parking+roofterrace,11590217,Marjon Wilhelmina,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08051,4.30215,Entire home/apt,118,1,84,2023-03-03,2.70,1,135,32,Exempt
+41096507,TopFloor apartment Near Beach.,9165668,Robert,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10965,4.28316,Entire home/apt,138,1,12,2022-10-01,0.31,22,353,4,Exempt
+41255030,Unique city villa The Hague/Scheveningen,9809842,Jozien,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07825,4.27791,Entire home/apt,285,7,1,2022-07-18,0.12,1,0,1,0518 9A42 8CF4 2D03 99C6
+41328008,BizStay Harbour 62,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09596,4.26396,Entire home/apt,293,5,1,2022-04-12,0.09,35,247,1,Exempt
+41467362,"Authentic, spacious apartment close to city&beach",17587361,Rogier,Wijk 05 Archipelbuurt,Archipelbuurt,52.09184,4.301,Entire home/apt,199,2,4,2022-06-26,0.11,1,60,3,0518 2892 3514 91C3 482A
+41523098,Stylish One Bedroom Apartment for 4 persons close to Central Station,248427955,Central Station Serviced Apartments,Wijk 28 Centrum,Uilebomen,52.07711,4.32289,Private room,166,1,23,2023-02-20,0.70,4,62,10,Exempt
+41554533,Vrijstaand strandhuis in duinen met sauna en wifi,174942314,Ron En Eveline,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05883,4.21002,Entire home/apt,181,7,7,2021-08-07,0.21,1,8,0,Exempt
+41805060,Stylish flat in den Haag center,18731968,Hanna,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.0811,4.2936,Entire home/apt,80,2,6,2023-03-20,1.13,1,44,6,0518 4503 FD47 5CCF 7ECD
+41926318,Beautiful home close to the beach and city centre,315561139,Roxanne,Wijk 20 Valkenboskwartier,Heesterbuurt,52.07253,4.26961,Entire home/apt,110,12,3,2021-08-14,0.09,1,45,0,0518 CF0F 7D34 1059 F691
+41972441,Kd 884 - Vakantiepark Kijkduin,256391686,Eezz,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05663,4.21189,Entire home/apt,104,1,2,2021-07-16,0.06,10,32,0,Exempt
+42015191,Entire home in between the beach and city centre,112130171,Sanne,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07673,4.28372,Entire home/apt,130,5,5,2022-11-13,0.13,1,0,2,051853594476DBF84874
+42036225,Prachtig familiehuis,215789254,Annemieke,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.08037,4.289,Entire home/apt,209,3,0,,,1,11,0,0518 FB6F BC81 3ED5 42F4
+42060903,Bright studio near beach (2 minutes),169785433,Taylor,Wijk 02 Belgisch Park,Belgisch Park,52.1116,4.28539,Entire home/apt,116,2,55,2023-02-19,1.46,2,280,13,0518B986B111EA2E9642
+42426203,City centre apartment ‘Amarone’,244520390,Gunni,Wijk 28 Centrum,Zuidwal,52.07606,4.31128,Entire home/apt,153,20,12,2020-09-24,0.32,14,335,0,0518 7390 5497 94FC E0D1
+42429822,Kd 868 - Vakantiepark Kijkduin,256391686,Eezz,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05643,4.21201,Entire home/apt,104,1,18,2022-10-19,0.53,10,0,4,Exempt
+42701868,"#1 Close to Central quiet clean, safe.Female only.",230944557,Greg,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08199,4.33407,Private room,66,2,0,,,1,1,0,0518E0A0B7535C52A683
+42725992,Private bungalow steps away from Kijkduin Beach,337956406,Jasper,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05998,4.21115,Entire home/apt,165,7,16,2022-08-29,0.48,1,0,5,0518 03A3 A746 8704 9C90
+42774550,"Schipperhuisje met dakterras, 100 meter van strand",340658655,Stefan,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10826,4.27938,Entire home/apt,150,2,43,2022-08-25,1.24,1,130,7,0518EE45CB899D13ED24
+42789905,Sfeervolle benedenwoning,8770336,Paulien,Wijk 21 Regentessekwartier,Rond de Energiecentrale,52.07299,4.28451,Entire home/apt,90,3,5,2022-10-29,0.45,1,4,5,0518 7B3B C040 5FF3 4CB2
+42870076,Verdieping  in gezinshuis aan rand van de duinen,11390757,Astrid,Wijk 13 Vogelwijk,Vogelwijk,52.0753,4.23934,Private room,114,3,20,2023-01-02,0.59,1,231,3,0518 5D6C A757 A7A7 037C
+42892065,Scheveningen The Hague next to Beach Family Swan,10239880,Lucas,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10855,4.27559,Entire home/apt,140,1,7,2023-03-14,1.60,9,251,7,0518 0AB6 1057 BE1B B314
+42923262,Royal Suite in hotel Pistache,174206659,Hotel Pistache,Wijk 23 Willemspark,Willemspark,52.08669,4.30138,Private room,150,1,3,2022-07-19,0.11,3,313,1,Exempt
+42926236,Comfort Suite Hotel Pistache,174206659,Hotel Pistache,Wijk 05 Archipelbuurt,Archipelbuurt,52.08805,4.30078,Private room,141,1,62,2022-08-26,1.75,3,345,9,Exempt
+43016068,Superior Suite in Hotel Pistache,174206659,Hotel Pistache,Wijk 23 Willemspark,Willemspark,52.0869,4.30084,Private room,151,2,27,2023-02-20,0.85,3,273,17,Exempt
+43133271,Beautiful apartment with patio close to the beach!,173171046,Lisanne Maria,Wijk 07 Scheveningen,Visserijbuurt,52.10272,4.28166,Entire home/apt,198,3,4,2022-10-22,0.59,1,9,4,0518 FC9B 71D1 0F63 48C0
+43437818,Vrijstaande luxe strandhuis mèt tuin in Kijkduin,36093342,Jolanthe,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05525,4.21345,Entire home/apt,150,3,13,2023-01-07,0.39,1,30,2,Exempt
+43474933,Spacious Harbour & Beach apartment (117m2),6537252,Keoma & Irene,Wijk 09 Geuzen- en Statenkwartier,Geuzenkwartier,52.09158,4.26707,Entire home/apt,85,6,5,2022-07-26,0.22,1,10,2,0518 DC4A 8AFC 64EA 3835
+43502137,Colorful private room for two with en-suite!,5285926,Diederick,Wijk 28 Centrum,Zuidwal,52.07501,4.30952,Private room,97,1,60,2022-12-04,1.76,29,252,15,Exempt
+43512593,Vibrant Private Room with en-suite!,5285926,Diederick,Wijk 28 Centrum,Kortenbos,52.0763,4.30746,Private room,97,1,11,2023-02-12,0.49,29,204,8,Exempt
+43512775,Private Double Room with en-suite bathroom!,5285926,Diederick,Wijk 28 Centrum,Zuidwal,52.0771,4.30869,Private room,97,1,17,2022-10-11,0.50,29,232,3,Exempt
+43512948,Amazing Private Room with Double Bed and En-suite,5285926,Diederick,Wijk 28 Centrum,Zuidwal,52.07679,4.30943,Private room,97,1,5,2021-08-17,0.15,29,205,0,Exempt
+43559657,Lovely cozy room 1e floor Europol OPCW World Forum,89688606,Irene,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.096352,4.282764,Private room,69,1,37,2022-11-13,1.13,6,82,19,0518 2A6F C1B8 DC7B FEF4
+43610181,Beach-Town house with garden. Perfect for family.,330871519,Marie-France,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07978,4.28384,Entire home/apt,200,6,5,2021-08-07,0.16,1,14,0,0518 1F2A FFDE 9D95 3E90
+43647687,High end apartment near beach,9165668,Robert,Wijk 07 Scheveningen,Rijslag,52.11153,4.28421,Entire home/apt,250,5,3,2022-11-30,0.15,22,357,2,Exempt
+43676898,luxurious spacious apartment with sea view,348820496,Fred,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10816,4.27587,Entire home/apt,160,3,10,2022-03-27,0.29,1,0,1,0518 FDEF 11D8 B7A7 C1D5
+43682506,Spacious & luxurious apartment with free parking,73035751,Lucienne,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08202,4.34077,Entire home/apt,175,4,10,2022-09-18,0.30,1,0,1,0518 58BB 5099 3EF5 9367
+43719854,Gerenoveerd gezins vakantiehuis nabij het strand,349282962,Johan,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05686,4.21081,Entire home/apt,205,7,6,2022-08-19,0.19,1,57,4,Exempt
+43739668,Relax house near the dunes and sea,18206092,Bas,Wijk 13 Vogelwijk,Vogelwijk,52.07988,4.25064,Entire home/apt,220,7,4,2022-08-05,0.12,1,74,1,0518 522D 4FAE 0BFF AD25
+43793883,Nice apartment with garden near  beach and city,42824916,Joost,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-Oost,52.08215,4.26505,Entire home/apt,200,4,4,2022-08-07,0.13,1,0,1,0518 0C95 70A7 00D2 BA20
+43812733,Relaxing jungle room with en-suite bathroom,5285926,Diederick,Wijk 28 Centrum,Zuidwal,52.07506,4.30865,Private room,103,1,14,2023-02-13,0.43,29,224,3,Exempt
+43838154,Family appartment 3 min from beach,151227694,Oscar,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10963,4.28137,Entire home/apt,235,5,10,2022-08-25,0.31,1,0,4,0518 A7E4 73E0 287B E61C
+43854710,Exclusive panorama terraced residential The Hague!,69870629,Leandro,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08455,4.34254,Entire home/apt,185,2,89,2022-11-29,2.66,1,6,27,Exempt
+43869545,"Scheveningen, 300 m van het strand",57494889,Sjors,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10818,4.27983,Entire home/apt,116,7,14,2023-03-13,0.43,1,158,9,0518 4C32 7D93 5873 274B
+43910461,Zen aan Zee in Kijkduin (Den Haag),351532044,Lucia En Ton,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05789,4.21135,Private room,74,2,66,2022-09-27,2.06,1,67,23,Exempt
+43951109,luxeappartement aan Noordeinde 166 Den Haag,351950387,Dorinde,Wijk 28 Centrum,Voorhout,52.0836,4.30557,Private room,56,1,167,2023-03-26,5.08,1,68,101,Exempt
+44091587,Riante woning aan de duinen en bij het strand,353882567,Peter,Wijk 14 Bohemen en Meer en Bos,Bohemen en Meer en Bos,52.06877,4.2331,Entire home/apt,325,4,1,2020-08-10,0.03,1,0,0,0518 8438 9D3F 7639 401E
+44095378,Den Haag luxury family home near beach and dunes,119971040,Jans,Wijk 13 Vogelwijk,Vogelwijk,52.08096,4.25155,Entire home/apt,395,7,6,2022-08-06,0.19,1,1,1,0518 C487 AF3A E4C5 DAB1
+44113779,Classic FAMILY HOME near BEACH (with sunny garden),13160784,Danny,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07914,4.28102,Entire home/apt,200,3,14,2022-08-14,0.43,1,0,7,0518 C82A 6ED0 1D42 1E3D
+44135002,Fully renovated apartment at Dutch dunes,83116034,Michelle,Wijk 08 Duindorp,Duindorp,52.08752,4.25296,Entire home/apt,225,2,41,2023-01-03,1.26,1,233,19,0518 3FA3 FA48 7E9B 809F
+44159437,Romantic escape away,244520390,Gunni,Wijk 28 Centrum,Voorhout,52.07923,4.31074,Entire home/apt,151,20,35,2021-09-10,1.06,14,113,0,0518 1506 5645 C894 4728
+44161057,Chique apartment in The Hague,244520390,Gunni,Wijk 28 Centrum,Voorhout,52.07859,4.31115,Entire home/apt,263,20,20,2021-09-05,0.61,14,326,0,0518 D2AA AC9C 5FAE B97B
+44172597,"A cozy home, just 15 min from the ocean.",41744261,Luke,Wijk 20 Valkenboskwartier,Heesterbuurt,52.06827,4.26974,Entire home/apt,199,12,6,2022-08-16,0.19,1,205,2,0518 2FBB 1614 DD58 3DA5
+44173587,BizStay Harbour 28C,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09686,4.26503,Entire home/apt,195,5,0,,,35,237,0,Exempt
+44174584,BizStay Harbour 72A Penthouse,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09555,4.26291,Entire home/apt,377,5,4,2022-11-26,0.13,35,303,2,Exempt
+44191572,Gezellig familiehuis dichtbij strand & bos,114811502,Chantal,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-West,52.07195,4.25223,Entire home/apt,280,4,8,2022-09-03,0.25,1,16,5,0518B319ADDA056D7710
+44229908,Lovely family home in city centre of The Hague,20934649,Jasper,Wijk 28 Centrum,Zuidwal,52.07351,4.30841,Entire home/apt,135,21,5,2022-08-06,0.16,1,22,3,0518 175D 8264 16E8 454D
+44230723,350m from the beach; Flat with rooftop-terrace!,3727604,Jacek,Wijk 07 Scheveningen,Visserijbuurt,52.10475,4.27631,Entire home/apt,225,5,4,2021-09-17,0.13,1,0,0,0518 A1D6 7261 203D EBD1
+44273101,"Apartment by the beach, the dunes and the harbor",2228322,Marilisa,Wijk 08 Duindorp,Duindorp,52.08967,4.25527,Entire home/apt,106,5,9,2022-08-20,0.44,2,2,5,0518 4AB1 F8B6 37C5 1DCE
+44280694,Heerlijk licht appartement nabij park en zee,47359171,Ellen,Wijk 18 Waldeck,Waldeck-Noord,52.05836,4.22771,Entire home/apt,125,1,29,2023-01-01,0.89,1,136,18,05180423CA5A4DFE57D5
+44310192,Luxury City Apartment close to the Beach!,80871506,Shimo & Daimy,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09519,4.27713,Entire home/apt,145,2,17,2021-11-01,0.54,2,85,0,0518 7245 F2FF C35B 6F89
+44316931,Modern huis met tuin dichtbij strand,4813443,Bjorn,Wijk 02 Belgisch Park,Belgisch Park,52.11057,4.28769,Entire home/apt,180,3,5,2022-08-15,0.44,1,0,5,0518 648F 085D 4EEB 2291
+44355880,Spacious Beach villa (2 minutes from North Sea),169785433,Taylor,Wijk 02 Belgisch Park,Belgisch Park,52.11173,4.2856,Entire home/apt,250,6,34,2022-08-21,1.07,2,13,11,0518B986B111EA2E9642
+44389472,New Scheveningen Golden Ray Beach family apartment,10239880,Lucas,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10599,4.27755,Entire home/apt,94,1,37,2023-03-08,1.16,9,292,16,0518 0AB6 1057 BE1B B314
+44422393,Luxury apartment nearby Beach & City Centre,80871506,Shimo & Daimy,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09495,4.27826,Entire home/apt,145,2,33,2023-01-16,1.02,2,43,4,0518 7245 F2FF C35B 6F89
+44451987,Sfeervol strandhuis in groene omgeving,8886242,Marjolein,Wijk 06 Van Stolkpark en Scheveningse Bosjes,Van Stolkpark en Scheveningse Bosjes,52.10243,4.28441,Entire home/apt,300,7,1,2020-09-03,0.03,1,261,0,0518 1804 2EA8 F24F 8FA7
+44486029,Tinyhouse Scheveningse strand FREE gated parking,140256209,Jur,Wijk 02 Belgisch Park,Belgisch Park,52.11312,4.28497,Entire home/apt,150,1,73,2023-01-29,2.26,1,246,17,0518 12F6 8D3A 3438 B090
+44503404,Beachhouse Scheveningen!,27008865,Eefje,Wijk 07 Scheveningen,Oud Scheveningen,52.10585,4.27198,Entire home/apt,250,1,38,2023-02-20,1.19,3,265,21,0518 829D E68D BC84 817B
+44528263,Scheveningen Sea Side Resort,360156234,Matias,Wijk 13 Vogelwijk,Vogelwijk,52.07642,4.23855,Private room,75,2,7,2022-11-04,0.31,2,79,4,0518 6513 3987 D30A FEDD
+44643551,Stylish house with 2bikes (beach/citycentre 10min),361358795,Pieternella,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07735,4.2794,Entire home/apt,110,2,21,2022-12-18,0.67,1,0,9,0518 D591 2F01 1210 C40A
+44662344,Spacious ground floor appartment in the old town,9659848,Anna,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08327,4.30043,Entire home/apt,235,3,37,2023-03-18,1.17,1,110,25,0518 B70C D534 2F79 4F25
+44678820,Monumentaal knus hofjes huisje dichtbij 't centrum,99902204,Beau,Wijk 05 Archipelbuurt,Archipelbuurt,52.0905,4.30063,Entire home/apt,180,1,5,2022-09-28,0.16,1,0,2,0518 4563 1F1F 4222 48A0
+44680484,Kaewkong Surf Motel. Bohemian comfort at the beach,136236229,Chanjira,Wijk 07 Scheveningen,Visserijbuurt,52.1052,4.27689,Entire home/apt,300,2,24,2022-12-26,0.76,1,93,7,Exempt
+44722660,*****250 m2 sophisticated space with 350 m2 garden,51820432,Sidney,Wijk 04 Benoordenhout,Arendsdorp,52.092216,4.311149,Entire home/apt,202,2,22,2023-03-12,0.71,4,78,3,Exempt
+44734627,Huis met zonnige tuin vlak bij het strand,222254947,Lusanne,Wijk 18 Waldeck,Nieuw Waldeck,52.06335,4.24039,Entire home/apt,149,5,0,,,1,101,0,0518 7790 5B4D F4DD 4462
+45056625,Eigen studio in een schitterend verbouwde kerk!,18426348,Erik & Defne,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.06975,4.25983,Private room,102,1,83,2023-03-12,2.69,1,303,51,0518 1C29 D46C D966 B504
+45084000,Urban oasis apartment,244520390,Gunni,Wijk 28 Centrum,Zuidwal,52.07466,4.30866,Entire home/apt,207,15,6,2022-03-21,0.19,14,237,0,0518 5CB1 1754 C38A 44C6
+45087455,Stunning apartment ‘Sauvignon Blanc’,244520390,Gunni,Wijk 28 Centrum,Zuidwal,52.07566,4.3101,Entire home/apt,250,20,3,2020-10-04,0.10,14,328,0,0518 B5EB 61A5 921C 68D2
+45087590,Central apartment ‘Cremant’,244520390,Gunni,Wijk 28 Centrum,Zuidwal,52.07555,4.31034,Entire home/apt,179,20,2,2021-01-26,0.06,14,303,0,0518 7D5E 2373 4523 049C
+45087688,Excellent listing ‘Shiraz’,244520390,Gunni,Wijk 28 Centrum,Zuidwal,52.075,4.31172,Entire home/apt,144,2,34,2023-02-11,1.09,14,119,22,0518 10FE 8F2E 1F05 9153
+45087748,Glamorous gateway ‘Rosé’,244520390,Gunni,Wijk 28 Centrum,Zuidwal,52.07406,4.31155,Entire home/apt,159,2,42,2023-03-06,1.44,14,87,35,0518 DA51 E5E0 59C7 7685
+45111639,Family Maisonette with City View,357621913,Rudy,Wijk 39 Binckhorst,Binckhorst,52.06782,4.33666,Private room,265,1,3,2023-01-06,0.26,9,360,3,Exempt
+45428331,Studio at YAYS The Hague Willemspark,365579773,YAYS The Hague Willemspark,Wijk 23 Willemspark,Willemspark,52.08796,4.31312,Entire home/apt,138,1,36,2022-12-20,1.57,5,259,8,Exempt
+45428395,One-bedroom Comfort at YAYS Willemspark,365579773,YAYS The Hague Willemspark,Wijk 23 Willemspark,Willemspark,52.08796,4.31312,Private room,215,1,4,2022-11-15,0.18,5,283,3,Exempt
+45428407,Two-bedroom (6 persons) at YAYS Willemspark,365579773,YAYS The Hague Willemspark,Wijk 23 Willemspark,Willemspark,52.08796,4.31312,Private room,413,1,6,2022-05-01,0.26,5,106,1,Exempt
+45428655,One-bedroom (4 persons) at YAYS Willemspark,365579773,YAYS The Hague Willemspark,Wijk 23 Willemspark,Willemspark,52.08796,4.31312,Private room,193,1,61,2023-01-30,2.65,5,283,19,Exempt
+45501408,Vitamin Sea Family Loft next to the Beach,10239880,Lucas,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10809,4.27431,Entire home/apt,62,1,115,2023-03-24,4.17,9,176,34,0518 0AB6 1057 BE1B B314
+45794893,Hidden gem with garden in the historical centre,34740509,David,Wijk 27 Stationsbuurt,Huygenspark,52.0713,4.31504,Entire home/apt,130,2,9,2022-09-24,0.32,1,62,7,0518 15BA 3E2A 50F0 8D28
+45981342,One-bedroom Suite with kitchen including breakfast,372741980,Staybridge Suites The Hague,Wijk 28 Centrum,Voorhout,52.08111,4.31186,Private room,158,7,4,2022-06-27,0.16,8,280,1,Exempt
+46122552,Beautiful luxury 2 bedroom apartment,373786679,Hendrik,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08533,4.29819,Entire home/apt,190,2,83,2023-02-26,2.86,2,129,28,Exempt
+46128323,Modern and bright 3 bedroom apartment,373786679,Hendrik,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08621,4.29832,Entire home/apt,195,2,116,2023-02-26,3.97,2,57,45,Exempt
+46164393,Gracious place in The Hague,244520390,Gunni,Wijk 28 Centrum,Zuidwal,52.07321,4.30864,Entire home/apt,156,28,7,2022-02-11,0.25,14,301,0,0518 0048 96FD A983 A776
+46762046,BizStay Harbour 28,405989,BizStay,Wijk 07 Scheveningen,Vissershaven,52.09751,4.26636,Entire home/apt,270,7,3,2022-09-19,0.14,35,287,2,Exempt
+47029167,Vissershuisje aan zee,27723192,Christianne,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10811,4.27445,Entire home/apt,130,7,8,2022-08-27,0.39,1,0,4,0518 0FE0 8FCA 18F5 412F
+47386788,Exceptional family house close to beach and city,193254200,Norbs & Rose,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.10085,4.27894,Entire home/apt,580,4,1,2022-08-13,0.13,1,36,1,0518 37CC 14F1 C06E 4778
+47827093,Studio suite with kitchen including breakfast,372741980,Staybridge Suites The Hague,Wijk 28 Centrum,Voorhout,52.08151,4.31247,Private room,148,7,18,2022-09-02,0.69,8,263,2,Exempt
+47986034,Studio Suite Parliament view including breakfast,372741980,Staybridge Suites The Hague,Wijk 28 Centrum,Voorhout,52.07996,4.31089,Private room,158,7,8,2023-01-28,0.31,8,280,3,Exempt
+47987866,One-bedroom suite sofa bed including breakfast,372741980,Staybridge Suites The Hague,Wijk 28 Centrum,Voorhout,52.082,4.31289,Private room,178,7,8,2022-08-05,0.31,8,273,2,Exempt
+47989128,Studio suite with kitchen including breakfast,372741980,Staybridge Suites The Hague,Wijk 28 Centrum,Voorhout,52.08166,4.31247,Private room,148,7,10,2022-09-02,0.39,8,280,3,Exempt
+48085426,Studio suite with kitchen including breakfast,372741980,Staybridge Suites The Hague,Wijk 28 Centrum,Voorhout,52.081112,4.311863,Private room,148,7,25,2022-10-29,0.98,8,280,7,Exempt
+48190566,Beach House Jacuzzi & Airconditioning and Bikes,388789118,Baudewyn,Wijk 08 Duindorp,Duindorp,52.08969,4.2565,Entire home/apt,99,2,130,2023-03-26,5.19,1,120,68,0518 EC02 7CE0 05B4 2AE7
+48209915,Spacious & light appt between centre and beach,20224155,Janneke,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07558,4.27242,Entire home/apt,129,3,8,2022-09-16,0.44,1,7,5,0518 B77C 3CCA B218 19DF
+48226589,"#3 Quiet,convenient, close to Station. Female only",31232633,Cherlene,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08377,4.33361,Private room,66,2,2,2021-08-15,0.09,3,218,0,0518E0A0B7535C52A683
+48236416,Stylish studio near the beach,9165668,Robert,Wijk 07 Scheveningen,Visserijbuurt,52.10473,4.27858,Entire home/apt,152,2,14,2022-11-25,0.62,22,254,9,Exempt
+48236942,Newly renovated studio near the beach,9165668,Robert,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10657,4.27898,Entire home/apt,138,3,16,2022-12-12,0.76,22,327,11,Exempt
+48237377,Beach-style studio near the beach,9165668,Robert,Wijk 07 Scheveningen,Visserijbuurt,52.10515,4.27896,Entire home/apt,120,3,9,2023-02-15,0.41,22,354,4,Exempt
+48278380,Prachtig appartement aan de grachten van Den Haag,17240425,Elwine,Wijk 28 Centrum,Voorhout,52.08459,4.31536,Entire home/apt,151,30,0,,,2,284,0,0518 6FD0 6B18 91CF 4F42
+48290467,Spacious apt with panoramic roof terrace!,26394784,Nathan,Wijk 09 Geuzen- en Statenkwartier,Geuzenkwartier,52.08981,4.27007,Entire home/apt,235,4,0,,,1,79,0,0518 8568 194A 54BE 4D67
+48396058,Spacious apartment with terrace,244520390,Gunni,Wijk 28 Centrum,Zuidwal,52.07274,4.30831,Entire home/apt,264,30,19,2021-10-05,0.77,14,318,0,0518 90CB C97B 63CB D1B5
+48669049,Ben's Boutique Hotel - Standard room,392201484,Bens Boutique Hotel,Wijk 07 Scheveningen,Visserijbuurt,52.10509,4.28005,Entire home/apt,74,1,52,2023-02-26,2.35,2,93,31,Exempt
+48669055,Ben's Boutique Hotel - Suite,392201484,Bens Boutique Hotel,Wijk 07 Scheveningen,Scheveningen Badplaats,52.1064,4.27951,Entire home/apt,88,1,58,2023-02-19,2.73,2,112,34,Exempt
+48696453,Elegant loft ‘Malbec’,244520390,Gunni,Wijk 28 Centrum,Zuidwal,52.07548,4.30989,Entire home/apt,155,2,34,2023-03-11,1.54,14,142,26,0518 2835 BC46 8472 3D10
+48798316,Uniek pakhuis in Scheveningen!,73533434,Anne,Wijk 07 Scheveningen,Rijslag,52.10833,4.28534,Entire home/apt,225,2,0,,,1,82,0,0518 09AF 0250 FE7A 49A6
+48820287,Prachtig appartement op unieke locatie,393803652,Julia,Wijk 28 Centrum,Kortenbos,52.08252,4.30518,Entire home/apt,120,2,111,2023-03-26,4.83,1,253,58,0518 2B8A F868 F08A D273
+48989372,Studio suite with kitchen including breakfast,372741980,Staybridge Suites The Hague,Wijk 28 Centrum,Voorhout,52.08089,4.31099,Private room,148,7,5,2022-07-16,0.23,8,280,1,Exempt
+49150552,LUXURIOUS classical dutch styled room FAST WIFI,61794951,Duanpen,Wijk 27 Stationsbuurt,Huygenspark,52.07251,4.31891,Private room,84,1,91,2022-12-31,4.22,2,324,68,0518 8DAC 67D5 6742 741C
+49236412,Beach Apartment Jordans Residence,10084732,Jordans,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10858,4.27725,Entire home/apt,110,14,0,,,2,78,0,Exempt
+49255897,Charmante studio op paar minuten van het strand,4199610,Charlotte,Wijk 02 Belgisch Park,Belgisch Park,52.11005,4.29164,Entire home/apt,95,3,43,2022-11-18,1.91,1,4,23,0518BDF954285E7D0DDA
+49360627,Gezellig appartement in leukste buurt van Den Haag,3604518,Lena,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.08076,4.28625,Entire home/apt,190,2,55,2023-03-05,2.38,1,73,27,0518 B45D 327E 8ED4 AAD3
+49766119,Nr 1 sea view apartment Scheveningen,125925328,Marcel,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10663,4.27394,Entire home/apt,197,2,46,2023-03-01,2.14,1,143,31,Exempt
+49768882,Strandhuis in oud scheveningen,401377777,R,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10912,4.28152,Entire home/apt,300,7,4,2022-08-13,0.20,1,31,3,05185d3bbe85534941d5
+49871793,Modern downtown Executive Studio,503491020,Rosalie,Wijk 27 Stationsbuurt,Huygenspark,52.07027,4.31887,Private room,84,1,11,2022-07-31,0.57,6,56,8,Exempt
+49876117,Le Garage city center apartment The Hague,541315,Arthur,Wijk 28 Centrum,Zuidwal,52.074272,4.31667,Entire home/apt,139,7,3,2023-03-05,0.55,3,183,3,Exempt
+49892689,One-bedroom (2 persons) at YAYS Willemspark,365579773,YAYS The Hague Willemspark,Wijk 23 Willemspark,Willemspark,52.08693,4.31377,Private room,149,1,1,2022-11-06,0.21,5,278,1,Exempt
+49903939,Comfy room for 8 guests with en-suite bathroom,5285926,Diederick,Wijk 28 Centrum,Zuidwal,52.07484,4.30887,Private room,244,1,25,2023-02-19,1.21,29,277,20,Exempt
+49925105,Beautiful appartment Scheveningen centre.,10229651,Dominique,Wijk 07 Scheveningen,Visserijbuurt,52.10491,4.2792,Entire home/apt,210,2,5,2022-07-29,0.25,1,0,2,0518 B5AB 2C44 7955 C5CF
+49941715,Casa Mieke,402714836,Petruska,Wijk 02 Belgisch Park,Belgisch Park,52.1113,4.29102,Entire home/apt,235,30,10,2022-08-14,0.50,1,62,8,0518 D394 3164 28DO A6E5
+49960977,Luxe woning (180 m2) bij zee en aan rand van bos,350162976,Arjen,Wijk 16 Kraayenstein en Vroondaal,Kraayenstein en Vroondaal,52.03916,4.20968,Entire home/apt,160,10,1,2022-08-05,0.13,1,212,1,0518311556A4C044B845
+49995550,"Spacious, light and cosy beach & city apartment!",178568145,Edwin,Wijk 12 Bomen- en Bloemenbuurt,Bomenbuurt,52.07848,4.26705,Entire home/apt,200,3,39,2022-10-03,1.77,1,67,27,0518 5806 33ED FAD9 9D2D
+50001531,Hippe loft,31538746,Linda,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07465,4.2785,Entire home/apt,95,2,16,2023-03-05,0.75,1,13,9,05181DD3A01998D4EF1B
+50002690,75m2 Indoor Glamping Scheveningen,403262956,Babet & Geert,Wijk 07 Scheveningen,Oud Scheveningen,52.10394,4.2706,Entire home/apt,119,3,67,2023-03-08,3.02,1,52,43,0518 F107 97EF 65ED E864
+50044060,Comfortable city house centrally located and calm,24800013,Valérie,Wijk 27 Stationsbuurt,Rivierenbuurt-Noord,52.07538,4.32491,Entire home/apt,155,28,0,,,1,48,0,0518 DF2E 0EF2 A6BC 48DA
+50082851,Gorgeous studio by the sea,9165668,Robert,Wijk 07 Scheveningen,Oud Scheveningen,52.10456,4.27525,Entire home/apt,159,1,7,2023-01-31,0.39,22,301,5,Exempt
+50083792,Bright studio near the sea,9165668,Robert,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10669,4.27367,Entire home/apt,130,3,14,2022-08-19,0.69,22,260,7,Exempt
+50098846,Fijn appartement in Oostbroek,73291666,Rens,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.06951,4.27847,Entire home/apt,100,3,4,2022-09-03,0.18,1,0,1,0518 B7B1 8AB1 751C 4558
+50126842,family home with garden close to the beach/centre,2762699,Linda,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.08206,4.28801,Entire home/apt,200,6,4,2022-08-21,0.20,1,0,2,051869FFB3FE3A84CD26
+50208372,Stroll the Waterfront from a Harbor-Side apartment,33132059,Stefanie,Wijk 09 Geuzen- en Statenkwartier,Geuzenkwartier,52.09819,4.27159,Entire home/apt,750,2,10,2021-09-26,0.47,3,27,0,Exempt
+50220147,Spacious loft by the sea,2461413,Bram,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-Oost,52.0759,4.26485,Entire home/apt,180,3,11,2023-01-29,0.56,1,0,8,0518 4A0E 3159 DB88 9278
+50275536,TOP Appartement aan het strand!,23407159,Zoyd,Wijk 07 Scheveningen,Rijslag,52.10698,4.28228,Entire home/apt,125,3,6,2023-03-02,0.94,1,104,6,0518 376C 16BA D274 424E
+50276976,Beautiful modern apartment close to the beach,66531450,Marloes Eva Theresia,Wijk 07 Scheveningen,Rijslag,52.10693,4.28268,Entire home/apt,189,2,6,2022-08-19,0.30,1,0,3,0518 A79F 2D3D 4AE4 63A9
+50277703,Deluxe Queen Design Room,503491020,Rosalie,Wijk 27 Stationsbuurt,Huygenspark,52.0707,4.32039,Private room,121,1,6,2022-12-23,0.30,6,330,5,Exempt
+50280667,Stijlvol familiehuis achter het strand,280250166,Florine,Wijk 12 Bomen- en Bloemenbuurt,Bomenbuurt,52.08343,4.26964,Entire home/apt,250,3,4,2022-07-29,0.20,1,74,1,0518275623FD9A27AABA
+50295545,Deluxe Studio Modern Downtown,503491020,Rosalie,Wijk 27 Stationsbuurt,Huygenspark,52.07021,4.31993,Private room,151,1,0,,,6,313,0,Exempt
+50295821,Modern Downtown Executive Queen,503491020,Rosalie,Wijk 27 Stationsbuurt,Huygenspark,52.07196,4.31946,Private room,115,1,0,,,6,229,0,Exempt
+50295982,Executive Studio Modern Design,503491020,Rosalie,Wijk 27 Stationsbuurt,Huygenspark,52.07063,4.31936,Private room,139,1,3,2022-07-04,0.14,6,63,2,Exempt
+50296070,Standard Double Downtown Room,503491020,Rosalie,Wijk 27 Stationsbuurt,Huygenspark,52.07075,4.32083,Private room,108,1,69,2022-09-12,3.25,6,117,26,Exempt
+50323184,"Great Location, beautiful City-apartment",21285639,Gemmy,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08318,4.34337,Entire home/apt,175,3,1,2021-09-04,0.05,1,291,0,0518 80D0 654D 9038 B713
+50346354,"Hosted by Wendy, Prins Willem 1",177701530,Hosted By Wendy,Wijk 07 Scheveningen,Visserijbuurt,52.10191,4.27889,Entire home/apt,182,3,29,2022-12-30,1.45,13,181,15,Exempt
+50347444,"Hosted by Wendy, Prins Willem 2",177701530,Hosted By Wendy,Wijk 07 Scheveningen,Visserijbuurt,52.10224,4.27854,Entire home/apt,207,3,51,2023-03-10,2.50,13,176,33,Exempt
+50347776,"Hosted by Wendy, Prins Willem 3",177701530,Hosted By Wendy,Wijk 07 Scheveningen,Visserijbuurt,52.10292,4.27861,Entire home/apt,182,3,10,2022-11-06,0.57,13,176,8,Exempt
+50432924,The Hague Poolvilla (between beach and  citycenter,34771198,Jacques,Wijk 03 Westbroekpark en Duttendel,Westbroekpark,52.10221,4.29661,Entire home/apt,800,3,8,2022-08-11,0.40,1,164,6,0518 68D0 69E6 FA61 6D11
+50475168,"Spacious family house +garden, near Beach & Centre",32275419,Tjitske & Sergio,Wijk 03 Westbroekpark en Duttendel,Duttendel,52.10733,4.3057,Entire home/apt,270,13,0,,,2,0,0,0518 38D3 9DF2 8149 B401
+50505220,Beautiful house with sunny garden nearby the beach,2598463,Annelie,Wijk 02 Belgisch Park,Belgisch Park,52.11078,4.29547,Entire home/apt,399,5,4,2023-01-03,0.21,1,221,2,0518 1B6B 0EF4 92C6 2605
+50511203,Appartement nabij Scheveningen strand!,80249788,Jeanneke,Wijk 04 Benoordenhout,Duinzigt,52.10231,4.31911,Entire home/apt,180,4,3,2023-03-03,0.15,1,28,1,0518 1B74 249A D173 3A2E
+50529236,Family house near the Beach,257506592,Merel,Wijk 09 Geuzen- en Statenkwartier,Geuzenkwartier,52.091122,4.266621,Entire home/apt,380,3,3,2022-08-07,0.15,1,31,2,0518 20E5 7033 16F7 18BC
+50541010,Mooi appartement dicht bij het strand en duinen!!,408348819,Andrea,Wijk 08 Duindorp,Duindorp,52.08763,4.25541,Entire home/apt,99,3,2,2021-10-09,0.09,1,140,0,0518 FE5B 8E92 1783 800D
+50592341,Mooie sfeervolle gezinswoning aan zee,189574432,Kim,Wijk 13 Vogelwijk,Vogelwijk,52.08001,4.25386,Entire home/apt,205,6,1,2021-08-14,0.05,1,177,0,0518 786C F212 53DB 0E7B
+50617923,Best family house ever right at the beach!,126146115,Albert,Wijk 07 Scheveningen,Oud Scheveningen,52.1046,4.27349,Entire home/apt,189,7,4,2022-12-30,0.20,1,0,2,0518 4A86 CB49 8563 74D2
+50652069,An attractive spacious townhouse!,10043845,Frank,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.08042,4.28831,Entire home/apt,389,3,1,2022-07-23,0.12,1,3,1,0518 C53C F764 F2C9 30ED
+50701524,Beach House Rodine free parking & bikes,409714549,Beach House,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10877,4.27444,Entire home/apt,160,7,62,2023-03-03,2.98,1,244,26,Exempt
+50740191,Cosy house in Scheveningen 5 min walk to the beach,141988286,Sander,Wijk 07 Scheveningen,Scheveningen Badplaats,52.108353,4.280472,Entire home/apt,115,3,3,2022-08-20,0.15,1,25,2,0518 7DF9 82A8 85F9 4CC0
+50787572,Welcome to Nyumbani House in the Hague where you experience a blend of Afropean Hospitality with the Dutch efficiency.,410459704,Aurelia,Wijk 36 Moerwijk,Moerwijk-Noord,52.05674,4.29912,Private room,48,1,25,2022-08-21,1.28,2,24,11,0518 B47E 33D4 9C7D F9C5
+50787575,"NYUMBANI means Home , so welcome Home",410459704,Aurelia,Wijk 34 Morgenstond,Morgenstond-Zuid,52.04481,4.27774,Private room,46,1,35,2023-03-08,1.85,2,51,22,0518B47E33D49C7DF9C5
+50802802,"Spacious loft in quaint area, close to city&beach",13744043,Vince,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08587,4.3406,Entire home/apt,139,4,15,2022-08-01,0.72,1,21,6,0518 324C FB81 66AE 0103
+50808994,Appartement Lavendel,132630030,Judith,Wijk 20 Valkenboskwartier,Heesterbuurt,52.06867,4.2719,Entire home/apt,100,2,9,2023-02-24,0.44,1,0,3,0518 43AA A1AE 4DEC 16FE
+50820421,Scheveningen Beach The Hague Family Long Stay app,10239880,Lucas,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10814,4.27393,Entire home/apt,184,1,4,2023-01-02,0.52,9,176,4,0518 0AB6 1057 BE1B B314
+50835102,Family house close to beach and city centre,2110978,Bernard,Wijk 04 Benoordenhout,Arendsdorp,52.09549,4.3148,Entire home/apt,240,7,6,2022-08-14,0.30,1,95,2,0518 D6F7 5CE8 59B9 FEEE
+50848319,"Huge, 2-bed beach apartment with trampoline",9777287,Adriaan,Wijk 02 Belgisch Park,Belgisch Park,52.11218,4.28696,Entire home/apt,185,4,7,2021-08-28,0.34,1,0,0,0518 D6F0 33D3 709D 0B45
+50885937,Vissershuisje in Scheveningen dichtbij de zee,57381662,Kirsten,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10727,4.27503,Entire home/apt,130,6,2,2023-01-06,0.25,1,42,2,0518 1332 7F63 C8EF 0E7C
+50891644,Mooi appartement nabij het strand,256357369,Nikita,Wijk 20 Valkenboskwartier,Heesterbuurt,52.07377,4.2684,Entire home/apt,150,5,7,2022-10-28,0.59,1,32,7,0518 7573 D910 84A1 DE90
+50966780,Studio,19894111,Arjen & Nathalie,Wijk 27 Stationsbuurt,Rivierenbuurt-Noord,52.075,4.3247,Entire home/apt,70,2,46,2023-03-10,2.23,2,46,24,051851E802309B6D529D
+50969001,Surf /Beach Mansion with 2 Cats,257089337,Thamar,Wijk 07 Scheveningen,Visserijbuurt,52.10429,4.28283,Entire home/apt,195,6,2,2022-08-12,0.24,1,14,2,0518 BDE7 D370 A511 507A
+50990091,Beautiful 2 bedroom apartment in the city center,61406693,Katie,Wijk 28 Centrum,Voorhout,52.0851,4.31454,Entire home/apt,200,2,86,2023-03-05,4.17,1,238,57,Exempt
+51030688,NEW renovated beach house with Scandinavian feel,24521399,Sebastiaan,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10913,4.28034,Entire home/apt,250,3,4,2022-08-16,0.21,1,156,3,0518 FEE8 325F 2BFA A7C9
+51065704,Fully renovated apartment with sunny garden,14273604,Florien,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08295,4.34613,Entire home/apt,200,2,10,2022-08-22,0.51,1,357,5,0518 A23B 4168 F059 B1FC
+51083078,Private room,374340160,Shahzad,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.0836,4.34034,Private room,41,1,27,2023-03-23,2.80,1,266,27,0518 6E51 9251 39F5 4BC9
+51127050,Modern spacious 2 bedroom Duplex centrally located,413741575,Aleks,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08469,4.337,Entire home/apt,156,2,15,2023-02-20,0.78,1,19,7,051801EE36F9E08C20A9
+51127123,"Mooi appartement, centraal gelegen",272818723,Idris,Wijk 30 Transvaalkwartier,Transvaalkwartier-Midden,52.0676,4.29207,Entire home/apt,90,1,19,2021-11-25,0.94,1,25,0,051801E88CE3AE430CDA
+51137061,"Royale woning met tuin aan water, gym en parking",58572113,Tashunka,Wijk 40 Wateringse Veld,Lage Veld,52.0252,4.29689,Entire home/apt,174,4,2,2022-07-24,0.10,1,3,1,0518 4EFA 4260 1C3E 44E1
+51204598,Mooie moderne kamer nabij strand en boulevard,7518101,Amelia,Wijk 02 Belgisch Park,Belgisch Park,52.112484,4.28573,Private room,102,1,83,2023-03-19,4.12,6,313,63,Exempt
+51279608,Ruim appartement vlak bij strand Scheveningen,415243792,Malice,Wijk 02 Belgisch Park,Belgisch Park,52.10979,4.28833,Entire home/apt,150,1,3,2022-08-22,0.39,1,219,3,0518 FB2B 85CD 4F4E 44AE
+51280911,Luxury home with roof terrace in The Hague near the beach,305882972,,Wijk 13 Vogelwijk,Vogelwijk,52.0823,4.25857,Entire home/apt,336,1,1,2021-10-22,0.06,1,358,0,0518D27A41F838FEC6F2
+51293257,Classic condo Statenkwartier a walk from the beach,397689918,Rogier,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.08749,4.27334,Entire home/apt,125,3,8,2022-09-09,0.92,1,0,8,0518 5C5E 578A 9C68 42F7
+51320972,"Scheveningen-apt mit Hafen und Meerblick, Hund OK",415634737,Johan,Wijk 07 Scheveningen,Vissershaven,52.100979,4.271289,Entire home/apt,800,4,5,2022-08-06,0.29,1,9,4,0518 6B94 C54A 8748 00CF
+51467857,Sfeervolle parterre woning met tuin,416855359,Loes,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07335,4.27056,Entire home/apt,100,3,2,2022-08-10,0.10,1,0,1,051871884ce4bf170426
+51498167,Lovely spacious apartment close to the beach!,72094069,Erwin,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10622,4.27698,Entire home/apt,255,2,17,2022-09-25,0.86,1,241,8,0518 8C2C 0C94 71FC E9F7
+51499293,Lovely modern apartment - 2 minutes from the beach,27697288,Nikita,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10609,4.27561,Entire home/apt,170,2,2,2022-08-14,0.10,1,0,1,0518 6250 3E29 B9D1 4D5E
+51527040,Unique home+garden close to city center and beach!,18026719,Marco,Wijk 04 Benoordenhout,Van Hoytemastraat en omgeving,52.09065,4.32413,Entire home/apt,155,2,7,2021-10-24,0.38,1,0,0,0518 34AF C664 08C2 4457
+51538165,Luxurious familyhouse in popular Zeeheldenkwartier,13926343,Selene,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08174,4.29859,Entire home/apt,321,6,2,2022-04-29,0.10,1,217,1,0518 848B C59D 6CFD 74CC
+51609585,Mooi appartement vlakbij strand haven en eettenten,41059083,Gijs,Wijk 09 Geuzen- en Statenkwartier,Geuzenkwartier,52.09173,4.26777,Entire home/apt,130,3,13,2022-11-01,0.69,1,0,8,0518 5485 01D9 4466 1F3F
+51650966,Centre of Scheveningen 2 near beach and boulevard,38531421,Cristina,Wijk 02 Belgisch Park,Belgisch Park,52.1122,4.28671,Entire home/apt,80,2,48,2023-02-27,2.63,2,262,37,Exempt
+52020487,Lovely 2-bedroom condo in Den Haag,114895276,Marco,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07480239868164,4.273040771484375,Entire home/apt,120,5,3,2023-01-04,0.55,1,0,3,0518 528D 308B 19CE 41F0
+52025807,"A light, spacious, private room",2890051,Lydia,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.0769,4.27706,Private room,68,1,100,2023-03-22,5.31,1,285,72,0518 CD67 135E 6B92 8B6B
+52055479,Exclusive apartment ‘Viognier’,244520390,Gunni,Wijk 28 Centrum,Zuidwal,52.07413,4.31135,Entire home/apt,147,2,12,2023-02-27,1.63,14,139,12,0518 299B EBA6 EC3C CFDF
+52147184,Spacious double room on the main city square.,5285926,Diederick,Wijk 28 Centrum,Kortenbos,52.07617,4.30794,Private room,114,1,8,2022-03-11,0.46,29,166,0,Exempt
+52164719,Spacious room for four on the Grote Markt!,5285926,Diederick,Wijk 28 Centrum,Zuidwal,52.07676,4.30932,Private room,138,1,43,2022-10-03,2.50,29,166,22,Exempt
+52165472,Hollywood bath in private room for two!,5285926,Diederick,Wijk 28 Centrum,Kortenbos,52.0768,4.30774,Private room,126,1,48,2022-08-05,2.81,29,176,14,Exempt
+52165927,Hollywood bath in private room for three!,5285926,Diederick,Wijk 28 Centrum,Kortenbos,52.07543,4.30768,Private room,139,1,7,2022-09-14,0.41,29,176,4,Exempt
+52182563,Penthouse room for two on the Grote Markt!,5285926,Diederick,Wijk 28 Centrum,Kortenbos,52.07551,4.30739,Private room,147,1,40,2022-09-05,2.28,29,174,9,Exempt
+52183047,Penthouse room for three on the Grote Markt!,5285926,Diederick,Wijk 28 Centrum,Kortenbos,52.07544,4.30747,Private room,170,1,38,2022-09-04,2.23,29,174,13,Exempt
+52183613,Comfy 2-bedroom room for 4 on the Grote Markt!,5285926,Diederick,Wijk 28 Centrum,Zuidwal,52.07494,4.30752,Private room,166,1,15,2022-09-10,0.91,29,171,11,Exempt
+52184510,Comfy 2-bedroom room for 2 on the Grote Markt!,5285926,Diederick,Wijk 28 Centrum,Zuidwal,52.0748,4.30724,Private room,139,1,13,2022-08-12,0.74,29,171,6,Exempt
+52186330,Intimate yellow room for 2 on the Grote Markt!,5285926,Diederick,Wijk 28 Centrum,Kortenbos,52.07539,4.30723,Private room,88,1,12,2022-08-24,0.69,29,171,4,Exempt
+52230259,Sunny yellow room for 2 on the Grote Markt!,5285926,Diederick,Wijk 28 Centrum,Kortenbos,52.07641,4.3077,Private room,88,1,12,2022-10-06,0.69,29,170,6,Exempt
+52230825,Top floor room for 2 on the Grote Markt!,5285926,Diederick,Wijk 28 Centrum,Kortenbos,52.07706,4.30732,Private room,88,1,4,2022-08-20,0.23,29,169,2,Exempt
+52231979,Romantic room with views of the Old Church!,5285926,Diederick,Wijk 28 Centrum,Zuidwal,52.07679,4.30918,Private room,129,1,8,2022-03-26,0.46,29,176,0,Exempt
+52233977,Lovely passion room with balcony on Grote Markt!,5285926,Diederick,Wijk 28 Centrum,Kortenbos,52.07568,4.30742,Private room,125,1,8,2022-08-14,0.49,29,176,4,Exempt
+52238743,Charming loft studio for a non-smoker (HEPA 13),406230883,Thijs,Wijk 38 Laakkwartier en Spoorwijk,Laakkwartier-West,52.05591,4.32292,Private room,64,13,6,2022-08-03,0.43,2,289,1,
+52273400,Luau themed room for 2 on the Grote Markt!,5285926,Diederick,Wijk 28 Centrum,Kortenbos,52.07656,4.30813,Private room,118,1,7,2022-08-22,0.40,29,176,3,Exempt
+52275939,Comfort Suite at Hotel Bries,423125973,Hotel Bries,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09553,4.27356,Private room,115,1,3,2023-01-01,0.17,4,345,2,Exempt
+52277187,Relaxing room for 2 with shopping street view!,5285926,Diederick,Wijk 28 Centrum,Kortenbos,52.07617,4.30805,Private room,124,1,4,2022-03-13,0.25,29,168,0,Exempt
+52277589,Relaxing room for 3 with shopping street view!,5285926,Diederick,Wijk 28 Centrum,Zuidwal,52.07553,4.30952,Private room,134,1,20,2022-10-02,1.15,29,168,9,Exempt
+52278583,Bright room for 2 on the Grote Markt!,5285926,Diederick,Wijk 28 Centrum,Kortenbos,52.077,4.30731,Private room,126,1,4,2022-05-20,0.30,29,174,3,Exempt
+52279168,Bright room for 3 on the Grote Markt!,5285926,Diederick,Wijk 28 Centrum,Zuidwal,52.07481,4.30739,Private room,138,1,7,2022-08-28,0.41,29,174,6,Exempt
+52279618,Hawaiian themed room for 2 on the Grote Markt!,5285926,Diederick,Wijk 28 Centrum,Kortenbos,52.0755,4.30747,Private room,126,1,14,2022-09-09,0.86,29,176,7,Exempt
+52283400,Boutique  Hotel Havenkantoor/Hosted by Wendy,177701530,Hosted By Wendy,Wijk 38 Laakkwartier en Spoorwijk,Laakhaven-Oost,52.06849,4.33014,Entire home/apt,150,1,14,2023-02-06,0.84,13,35,11,Exempt
+52291109,Beautiful apartment 400 meter from the beach,17541407,Roeland,Wijk 07 Scheveningen,Rijslag,52.10981,4.28577,Entire home/apt,130,4,4,2022-07-17,0.23,2,169,2,0518 DC7C 8853 A5E5 3A01
+52471128,Fantastisch herenhuis in Den Haag,20903763,Matthijs,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.078426361083984,4.2781081199646,Entire home/apt,225,2,6,2022-08-21,0.71,1,89,6,0518 F567 234F 1CE4 A694
+52547067,B&B Berdo,15737229,Justin,Wijk 02 Belgisch Park,Belgisch Park,52.11219,4.2947,Entire home/apt,89,4,49,2023-03-19,2.89,1,115,37,0518C5A8951016EBA808
+52548044,Huis dichtbij het strand en de stad,36431648,Lydia,Wijk 19 Vruchtenbuurt,Eykenduinen,52.06939,4.26388,Entire home/apt,180,6,5,2022-08-02,0.29,1,10,3,0518 17A3 065A 7305 5FC8
+52562220,The Family Suite in Hotel Bries,423125973,Hotel Bries,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09527,4.27495,Private room,151,1,28,2022-11-05,1.64,4,335,23,Exempt
+52562328,The Standard Suite in Hotel Bries,423125973,Hotel Bries,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09468,4.27506,Private room,111,1,28,2022-11-01,1.64,4,345,27,Exempt
+52562363,The XL-Suite in Hotel Bries,423125973,Hotel Bries,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09621,4.2744,Private room,126,1,5,2023-01-02,0.29,4,341,2,Exempt
+52623234,Tiny House vlakbij het strand in Den Haag,18576524,Martijn,Wijk 19 Vruchtenbuurt,Eykenduinen,52.06531,4.25826,Entire home/apt,71,1,91,2023-03-23,5.08,1,46,70,0518 0858 6EF6 E8F7 FB8E
+52745951,Tiny artist beach house (Oud) Scheveningen,69078926,Marleen,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10771,4.27627,Entire home/apt,180,3,4,2022-10-23,0.32,1,82,3,0518 BE23 0259 4B31 64B5
+52764019,Beautiful home close to the beach in the Hague,269034709,Frederik,Wijk 11 Duinoord,Stadhoudersplantsoen,52.08553,4.27922,Entire home/apt,167,3,7,2023-03-10,0.42,1,4,3,05185128C105F1C3AF1C
+52839202,Stylish home with spacious garden near the beach!,71308138,Bart,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.066917,4.25696,Entire home/apt,160,5,3,2022-08-07,0.36,1,87,3,0518 F2A6 E588 C297 561C
+52858611,Large private room. Great transport links.,427963082,Farah Chung,Wijk 36 Moerwijk,Moerwijk-West,52.04677,4.29046,Private room,49,1,22,2023-03-20,2.12,3,0,22,0518 8DDE 4FDA 0F94 4614
+52859647,Large private room with great transport links.,427963082,Farah Chung,Wijk 36 Moerwijk,Moerwijk-West,52.04794,4.28945,Private room,50,1,15,2023-03-21,1.44,3,0,15,0518 8DDE 4FDA 0F94 4614
+52859936,Two large private rooms on private floor.,427963082,Farah Chung,Wijk 36 Moerwijk,Moerwijk-West,52.04819,4.29093,Private room,101,1,6,2023-03-05,0.59,3,0,6,0518 8DDE 4FDA 0F94 4614
+52947670,115 m2 spacious apartment with garden at the beach,428647028,Emile,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10873,4.27597,Entire home/apt,285,3,7,2022-07-29,0.60,1,28,7,0518 1553 5D27 C9F3 0EB5
+53056929,Studio suite with kitchen including breakfast,372741980,Staybridge Suites The Hague,Wijk 28 Centrum,Voorhout,52.08086,4.31098,Private room,148,7,15,2022-12-23,0.94,8,279,4,Exempt
+53197086,Spacious 2-bedroom house with garden and office,78501737,Necdet,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08806,4.33736,Entire home/apt,380,4,7,2023-01-01,0.42,1,10,5,0518 D52D 2E82 D68D 46B3
+53201935,Stijlvol appartement in Scheveningen,430694992,Auke En Marjan,Wijk 07 Scheveningen,Rijslag,52.109043,4.287881,Entire home/apt,141,1,60,2023-03-14,3.69,9,283,48,Exempt
+53225411,Spacious Ground Floor Apartment in The Hague!,170850,Mani,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07505,4.27691,Entire home/apt,150,1,2,2022-12-29,0.47,1,0,2,0518 1E7F 4063 5D9A AA71
+53248099,Beach loft Scheveningen,14627840,Laura,Wijk 07 Scheveningen,Oud Scheveningen,52.10434,4.27564,Entire home/apt,150,1,13,2022-10-30,1.23,1,17,13,0518 BCD4 0C84 78AD 3B02
+53358227,Eight,430694992,Auke En Marjan,Wijk 07 Scheveningen,Rijslag,52.10976,4.28727,Entire home/apt,70,5,2,2022-02-09,0.13,9,246,0,Exempt
+53359980,Group room for 8 guests with en-suite bathroom,5285926,Diederick,Wijk 28 Centrum,Zuidwal,52.07704,4.30856,Private room,244,1,5,2022-12-18,0.50,29,274,5,Exempt
+53426672,Studio Six,430694992,Auke En Marjan,Wijk 02 Belgisch Park,Belgisch Park,52.10956,4.28893,Entire home/apt,150,6,8,2022-12-24,0.52,9,273,4,Exempt
+53447415,Three,430694992,Auke En Marjan,Wijk 07 Scheveningen,Rijslag,52.109116,4.28782,Entire home/apt,150,2,5,2022-12-29,0.33,9,321,3,Exempt
+53453458,Seven,430694992,Auke En Marjan,Wijk 07 Scheveningen,Rijslag,52.109116,4.28782,Private room,140,2,1,2022-06-19,0.11,9,276,1,Exempt
+53603004,"Luxe bovenwoning 
+Scheveningen",17541407,Roeland,Wijk 07 Scheveningen,Rijslag,52.10989,4.2843,Entire home/apt,156,4,10,2022-10-29,0.66,2,80,8,0518 DC7C 8853 A5E5 3A01
+53608141,Easy going in the heart of The Hague,10076415,Oksana,Wijk 28 Centrum,Kortenbos,52.0793,4.30467,Private room,60,1,10,2023-01-22,0.64,3,352,9,0518D5ED6A83459814E6
+53644600,Beautiful standing-alone house with a backyard,198348361,Vitaly,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09989,4.27638,Entire home/apt,586,1,9,2023-03-19,0.75,1,66,9,0518 BC24 F9FC E25D 5265
+53747582,Very convenient studio near city centre,7805856,F. Aicha,Wijk 29 Schildersbuurt,Schildersbuurt-Noord,52.06807,4.30607,Entire home/apt,56,14,6,2023-01-29,0.39,2,311,4,0518 6E5C E326 1361 DF0B
+53803510,Five voor 3,430694992,Auke En Marjan,Wijk 02 Belgisch Park,Belgisch Park,52.10939,4.28889,Private room,150,2,4,2022-06-07,0.27,9,282,1,Exempt
+53820758,Hidden apartment ‘Bordeaux’,244520390,Gunni,Wijk 28 Centrum,Zuidwal,52.07617,4.31031,Entire home/apt,160,20,0,,,14,269,0,0518 4CAD 576B B716 0E5B
+53820876,Eclectic loft ‘Pinot Noir’,244520390,Gunni,Wijk 28 Centrum,Zuidwal,52.07571,4.31199,Entire home/apt,164,2,20,2023-02-26,2.63,14,115,20,0518 7273 FA90 451A A8EF
+53931538,"in the Forest  but close to city, unique place!",1268439,Eva,Wijk 25 Mariahoeve en Marlot,Marlot,52.0964,4.34599,Shared room,82,1,12,2022-08-26,1.14,1,358,12,0518 AB77 17DC BB53 AD75
+54075176,Tiny house - near the beach,69752659,Annemarie,Wijk 13 Vogelwijk,Vogelwijk,52.07886,4.25111,Entire home/apt,120,3,10,2022-11-24,1.36,1,255,10,0518FA3955D4D53E3D05
+54076131,Great family home with garden close to beach,7710945,Nicole,Wijk 04 Benoordenhout,Waalsdorp,52.09792,4.31167,Entire home/apt,307,4,3,2023-01-02,0.41,1,143,3,0518 30F2 5832 6271 27F6
+54105873,Beautiful  90m2 city center apartment,15050333,Ashwin,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.0804557800293,4.295612812042236,Entire home/apt,182,5,3,2023-01-03,0.46,1,304,3,0518 0DA2 A245 AC91 0EF6
+54120583,Stijlvol topappartement dichtbij strand en musea,13458012,Robert,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09471,4.28186,Private room,140,2,19,2023-02-19,1.50,1,106,17,0518 CE24 F65B 2DBB A017
+54159079,Gerenoveerd en modern appartement in Den Haag,17780916,Francesco,Wijk 11 Duinoord,Stadhoudersplantsoen,52.08584,4.28097,Entire home/apt,160,7,6,2022-08-28,0.44,1,100,4,0518 E75F 64EA 0165 D256
+54190793,Licht en modern appartement bij het strand (6 mnd),43792556,Marc,Wijk 07 Scheveningen,Oud Scheveningen,52.10651,4.27259,Entire home/apt,50,160,0,,,1,144,0,0518 157B 6C7A 3169 7FEB
+54338768,Novallure Apartments - Calm suburb of Den Haag(3),115403367,Homey,Wijk 43 Forepark,Vlietzoom-Oost,52.07549,4.38499,Private room,83,2,8,2022-12-30,0.63,7,343,7,Exempt
+54338786,Novallure Apartments - Calm suburb of Den Haag (1),115403367,Homey,Wijk 43 Forepark,Vlietzoom-Oost,52.07527,4.38477,Private room,83,2,20,2023-01-13,1.52,7,336,16,Exempt
+54353594,Novallure Apartments - Calm suburb of Den Haag(17),115403367,Homey,Wijk 43 Forepark,Vlietzoom-Oost,52.07575,4.38502,Private room,83,2,14,2023-02-15,1.01,7,333,12,Exempt
+497813396203762738,Jungle room for 4 with private bathroom,5285926,Diederick,Wijk 28 Centrum,Zuidwal,52.07495,4.30952,Private room,145,1,9,2023-01-21,0.70,29,224,8,Exempt
+549827441064206636,Deluxe Room,424243316,Boutique Hotel,Wijk 27 Stationsbuurt,Huygenspark,52.07469,4.31984,Private room,134,1,40,2023-02-12,2.91,3,360,35,Exempt
+549829867105118158,Family Room,424243316,Boutique Hotel,Wijk 27 Stationsbuurt,Huygenspark,52.07427,4.31983,Private room,152,1,15,2023-02-14,1.28,3,313,15,Exempt
+549831536896903749,Deluxe Family Room,424243316,Boutique Hotel,Wijk 27 Stationsbuurt,Huygenspark,52.07421,4.31959,Private room,161,1,6,2023-02-20,0.53,3,286,6,Exempt
+551270389925191254,Smaakvolle Studio in voormalig melkfabriekje,154649037,Mary,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.082451,4.295795,Entire home/apt,92,2,43,2023-03-13,3.60,1,234,43,Exempt
+551464757661122328,Ten,430694992,Auke En Marjan,Wijk 07 Scheveningen,Rijslag,52.1085,4.28683,Private room,150,4,2,2022-06-03,0.16,9,328,2,Exempt
+552006699909232624,Lovely home with garden and great location.,415244042,Monique,Wijk 12 Bomen- en Bloemenbuurt,Bomenbuurt,52.07651,4.26872,Entire home/apt,175,2,2,2023-01-04,0.71,1,76,2,0518 E579 38F3 2FEB 5E15
+552133905814421203,Lovely 1 bedroom appartement with patio,30018852,Rick,Wijk 10 Zorgvliet,Zorgvliet,52.08788,4.28008,Entire home/apt,150,2,5,2023-01-06,0.56,1,252,5,0518867908BB6FE469E9
+552182514408411747,Lovely studio for a non-smoker (HEPA 13 equipped),406230883,Thijs,Wijk 38 Laakkwartier en Spoorwijk,Laakkwartier-West,52.05637,4.32211,Private room,64,13,9,2022-11-07,0.65,2,275,4,
+557292990920576962,Studio Mazie,27517039,Jody,Wijk 28 Centrum,Kortenbos,52.08223,4.30325,Entire home/apt,143,2,54,2023-02-20,4.05,1,222,46,0518 2086 A67F 37C7 8AA9
+558484513115243131,Hosted by Wendy Beach house next to the beach,177701530,Hosted By Wendy,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05579,4.21286,Entire home/apt,112,2,7,2022-10-08,0.66,13,94,7,Exempt
+559146820973459936,Studio Apartment at Cove Centrum,444425347,Cove Centrum,Wijk 28 Centrum,Voorhout,52.07779,4.3124,Entire home/apt,158,1,587,2023-03-12,47.98,3,365,586,Exempt
+559152754773148613,Studio Apartment Accessible at Cove Centrum,444425347,Cove Centrum,Wijk 28 Centrum,Zuidwal,52.07612,4.31375,Entire home/apt,158,1,27,2023-03-08,2.21,3,331,26,Exempt
+559868007744607458,Double Studio with Street Art,357621913,Rudy,Wijk 39 Binckhorst,Binckhorst,52.06771,4.33827,Private room,143,1,0,,,9,361,0,Exempt
+559883123050519865,Corner Studio with City View  ,357621913,Rudy,Wijk 39 Binckhorst,Binckhorst,52.06743,4.33677,Private room,142,1,0,,,9,361,0,Exempt
+559898296797206320,Quadruple Studio with Street Art,357621913,Rudy,Wijk 39 Binckhorst,Binckhorst,52.06905,4.33778,Private room,217,1,2,2023-03-05,0.53,9,355,2,Exempt
+559903638306666183,Budget Friends Studio with Street Art,357621913,Rudy,Wijk 39 Binckhorst,Binckhorst,52.06867,4.33831,Private room,166,1,1,2023-02-08,0.63,9,360,1,Exempt
+559908234257629909,Twin Studio with Street Art,357621913,Rudy,Wijk 39 Binckhorst,Binckhorst,52.06726,4.33648,Private room,158,1,1,2022-11-06,0.21,9,360,1,Exempt
+559939954014180520,Budget Family Studio with Street Art,357621913,Rudy,Wijk 39 Binckhorst,Binckhorst,52.06847,4.33642,Private room,238,1,10,2023-03-03,0.75,9,356,9,Exempt
+559976233754713607,Family Maisonette with Bunk Bed and City View,357621913,Rudy,Wijk 39 Binckhorst,Binckhorst,52.06714,4.33776,Private room,232,1,1,2022-07-08,0.11,9,345,1,Exempt
+560030400393780892,Panoramic Studio with City View,357621913,Rudy,Wijk 39 Binckhorst,Binckhorst,52.06887,4.33794,Private room,156,1,1,2022-05-01,0.09,9,360,1,Exempt
+561416283484193581,Studio | 5 min walk from city centre |,444868933,Cor,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08052,4.29332,Entire home/apt,95,2,36,2023-03-13,2.90,1,55,35,0518 B491 30D7 1487 C465
+562064692798136069,Large Studio Apartment at Cove Centrum,444425347,Cove Centrum,Wijk 28 Centrum,Zuidwal,52.07755,4.31266,Entire home/apt,239,1,7,2023-02-28,0.77,3,346,7,Exempt
+562665603377193206,"Beach, city, musea, garden, parking",32029060,Robert,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09162,4.27835,Entire home/apt,249,7,3,2022-07-08,0.33,1,24,3,0518 FC94 D25E 86D5 C2AE
+562982986161386773,Stylish apartment near the beach of The Hague,353247494,Noud,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.0728,4.26076,Entire home/apt,114,5,2,2022-06-12,0.19,1,0,2,0518 0CDE 699A D1C8 BEA7
+567303572046646896,Lovely Cosy 1-bed for rent in good location.,446167211,Norma,Wijk 31 Rustenburg en Oostbroek,Oostbroek-Zuid,52.06441,4.28854,Private room,47,1,1,2023-01-25,0.48,1,269,1,0518 DF99 6486 67B4 42A9
+571546101490556946,Cosy studio by the sea,31092045,Gael,Wijk 13 Vogelwijk,Vogelwijk,52.07296,4.2405,Entire home/apt,66,3,20,2022-10-03,1.89,1,0,20,05188A424ACD2C48D560
+572439562107059576,Bright double beach house at Scheveningen,5344857,Frederiek,Wijk 07 Scheveningen,Visserijbuurt,52.10374,4.27775,Entire home/apt,350,6,4,2023-01-04,0.40,1,69,4,0518 8C85 05C7 C95F 855D
+575078564703281534,Kd 765 - Vakantiepark Kijkduin,256391686,Eezz,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05481,4.21562,Entire home/apt,111,1,0,,,10,54,0,Exempt
+575931851626976021,Light Apartment Near the Beach with Sunny Terrace,6985609,Julie,Wijk 07 Scheveningen,Visserijbuurt,52.103,4.27855,Entire home/apt,175,2,10,2022-08-14,0.87,1,270,10,0518 D0DF 56EB 0E25 1F07
+579488313916529140,Complete Apartment in the City Center of Den Haag,448749794,Bekir,Wijk 28 Centrum,Kortenbos,52.07474,4.30497,Entire home/apt,247,2,48,2023-03-25,3.84,1,30,47,Exempt
+580282042490899935,Cozy studio within walking distance of the beach,9165668,Robert,Wijk 07 Scheveningen,Scheveningen Badplaats,52.105511,4.274664,Entire home/apt,125,1,14,2023-03-16,1.21,22,294,14,Exempt
+580298231650220153,Deluxe studio with kingsize bed,9165668,Robert,Wijk 07 Scheveningen,Scheveningen Badplaats,52.105515,4.274669,Entire home/apt,162,5,15,2022-11-05,1.21,22,310,14,Exempt
+581061428704987536,Family home in the Hague nearby beach&city center,388963171,Marieke,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.08062,4.27756,Entire home/apt,280,7,0,,,1,50,0,0518 CF2D 8D5C F716 4F31
+582212421230419264,Light spacious apartment in suburb neighborhood,238721922,Renske,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.06853,4.25901,Entire home/apt,85,1,2,2022-06-26,0.21,1,0,2,0518 9C5C 4228 77E8 E9B4
+587642200811871780,Large and luxurious townhouse in Zeeheldenkwartier,8300451,Sjoerd,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08411,4.2972,Entire home/apt,275,7,1,2022-05-01,0.09,1,159,1,0518 AD65 CFAC B64E F435
+590623848230030146,Entire 3 floor Apartment in Den Haag,34266522,Njambi,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.08164,4.28257,Entire home/apt,363,7,1,2022-08-28,0.14,3,306,1,0518 A48B 6237 575B 0894
+590624364001038096,Room Simba - Lovely one bedroom in a home,34266522,Njambi,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.08124,4.28133,Private room,120,2,6,2022-11-19,0.52,3,303,6,0518 A48B 6237 575B 0894
+590624533435926710,"Room Twiga -Warm, charming rooms in my house",34266522,Njambi,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.082031,4.281731,Private room,120,2,2,2022-06-23,0.18,3,312,2,0518 A48B 6237 575B 0894
+591803560026873476,Bright and relaxed room in The Hague,37696154,Thomas,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07744,4.28322,Private room,66,1,53,2023-02-20,4.42,1,15,53,Exempt
+591869584340967591,Design 2 bedroom cottage close to the beach,15478680,Marco,Wijk 07 Scheveningen,Rijslag,52.1105,4.28548,Entire home/apt,250,3,7,2022-08-21,0.66,1,25,7,0518 BCE7 965C E9C3 026D
+593433960226940720,Apartment near the beach with spectacular views,366086049,Alrik,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10842,4.27339,Entire home/apt,220,7,3,2022-07-27,0.35,1,21,3,0518 8E72 F96B 2289 20C0
+594762986878063956,Spacious holiday house on 100m from the beach,424323112,Hannah,Wijk 07 Scheveningen,Oud Scheveningen,52.10552,4.27332,Entire home/apt,211,2,1,2022-09-11,0.15,2,21,1,05184214D19D4505D327
+596271629835987800,House in lovely neighbourhood 15 mins from beach,89648697,Jochgem,Wijk 04 Benoordenhout,Waalsdorp,52.09947,4.3138,Entire home/apt,210,14,1,2022-08-06,0.13,1,91,1,05186B286EC229622D8F
+597420714125723682,Big loft 100m from beach (with permit parking),424323112,Hannah,Wijk 07 Scheveningen,Scheveningen Badplaats,52.106812,4.272468,Entire home/apt,175,2,12,2023-03-19,1.22,2,321,12,0518 4214 D19D 4505 D327
+597623365365421460,Komfortables schönes Einfamilienhaus in Strandnähe,292482633,Hendrik,Wijk 13 Vogelwijk,Vogelwijk,52.08208,4.25741,Entire home/apt,350,8,0,,,1,245,0,0518AF54A08E5DB9D56F
+597729985972035289,Een heerlijke kamer in de duinen en bij het strand,452697258,Marcel Ellen,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05649,4.21275,Private room,90,2,0,,,1,217,0,Exempt
+598807009507064166,Big private room in Den Haag,356284071,Tymen,Wijk 20 Valkenboskwartier,Heesterbuurt,52.06809,4.2703,Private room,85,30,5,2022-07-16,0.44,1,237,5,0518 7DB0 34E9 CEC4 0599
+598934742274781389,Kd 870 - Vakantiepark Kijkduin,256391686,Eezz,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05984,4.21248,Entire home/apt,111,1,6,2023-02-20,0.57,10,218,6,Exempt
+599763755393926516,"Hosted by Wendy, Lovely, cosy home near the beach",177701530,Hosted By Wendy,Wijk 14 Bohemen en Meer en Bos,Bosjes van Pex,52.07148,4.24217,Entire home/apt,195,2,4,2022-08-13,0.49,13,38,4,05184044429AEA2A21A3
+602891377544397233,♡ one bedroom condo in vibrant Den Haag ♡,453826509,Anne,Wijk 30 Transvaalkwartier,Transvaalkwartier-Zuid,52.0636,4.29945,Private room,79,2,21,2022-11-11,1.94,1,19,21,0518 6B02 FA69 5209 393A
+605541884004824686,"Newly renovated, 2bedroom, fireplace, near beach",9165668,Robert,Wijk 07 Scheveningen,Rijslag,52.10651,4.28026,Entire home/apt,188,2,9,2022-12-26,0.79,22,334,9,Exempt
+605589022699282809,Relaxed Harbour Apartment Scheveningen,74480580,Remco,Wijk 07 Scheveningen,Vissershaven,52.096737,4.264888,Entire home/apt,238,1,0,,,1,87,0,0518AD22D9BAE330769F
+605603025179190157,Unique spacious family house in the city center,10390645,Marija,Wijk 27 Stationsbuurt,Rivierenbuurt-Noord,52.07689,4.32549,Entire home/apt,220,6,4,2023-01-07,0.50,1,13,4,0518 8E8C AE9C AC3E 6707
+606180365754735130,Beautiful family home near beach and parks,60124547,Ernst,Wijk 16 Kraayenstein en Vroondaal,Kraayenstein en Vroondaal,52.03964,4.22992,Entire home/apt,225,14,1,2022-08-14,0.13,1,81,1,0518 456D 0828 F92A 0715
+608053529183731192,Lovely 1 bedroom Holiday home with patio,430694992,Auke En Marjan,Wijk 02 Belgisch Park,Belgisch Park,52.10984,4.28831,Entire home/apt,153,2,28,2023-01-23,2.56,9,26,28,Exempt
+610434736184689449,Sun filled apartment near beach <3,7968303,Diane,Wijk 07 Scheveningen,Visserijbuurt,52.1047,4.28382,Entire home/apt,200,4,2,2023-02-17,0.35,1,23,2,0518 E771 0C9E 1493 5BEF
+610765255052324835,IVY Comfortable & stylish apartment near beach,27985889,Merel,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-Oost,52.074082,4.261622099999999,Entire home/apt,70,1,1,2023-02-13,0.70,1,158,1,0518 9CC8 1959 B404 4A52
+611414134492675211,Huisje aan zee,42260060,Mendi,Wijk 07 Scheveningen,Oud Scheveningen,52.105316,4.271798,Entire home/apt,82,21,7,2022-08-09,0.68,1,46,7,0518 B95C 1503 249C 331B
+615746151181888472,Vrolijk familiehuis+tuin bij het mooiste strand,456618841,F,Wijk 18 Waldeck,Nieuw Waldeck,52.05844,4.24511,Entire home/apt,202,3,1,2022-08-26,0.14,1,0,1,0518 6B89 DE93 2B8C 4E8D
+616471006075334010,Prachtige studio | Circus theater/zee,104008868,Kevin,Wijk 02 Belgisch Park,Belgisch Park,52.10991,4.29082,Entire home/apt,279,2,12,2022-09-12,1.34,1,215,12,0518 FEE1 B7BD C63A CA60
+617204999805459829,Gezellige ruime en lichte woning op Scheveningen,456919585,Lot,Wijk 07 Scheveningen,Rijslag,52.10799,4.28483,Entire home/apt,165,2,8,2023-03-19,0.79,1,34,8,0518 A898 665F 5E92 2644
+617772427562245916,Prachtig herenhuis met veel ruimte,33513137,Ruud,Wijk 40 Wateringse Veld,Hoge Veld,52.03122,4.29136,Entire home/apt,170,14,2,2022-08-22,0.20,1,167,2,0518 5BAD D3E3 60B1 D7EE
+618762162087463564,Hosted by Wendy SEA SKY duinvilla,177701530,Hosted By Wendy,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.06041,4.21367,Entire home/apt,196,2,7,2022-10-06,0.66,13,249,7,Exempt
+620038814615216077,Charming 2-bedroom Apartment near Beach & City,457569599,Gijs,Wijk 04 Benoordenhout,Duinzigt,52.10357,4.31813,Entire home/apt,160,10,5,2023-02-26,0.59,1,310,5,0518 A0D9 0F6B FB73 4A86
+621020227052947203,Charming studio with patio,430694992,Auke En Marjan,Wijk 07 Scheveningen,Rijslag,52.10797,4.28715,Private room,199,1,8,2023-01-29,0.80,9,365,8,Exempt
+621745722249658660,Private room in shared flat. note: there's cats.,99679439,Romina,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08696,4.34005,Private room,29,3,8,2023-03-21,1.58,1,47,8,0518 955B 8E50 3FE6 4AF4
+622935720981412318,Bright & airy home with sunny garden in The Hague,300267010,Evelien,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.0755,4.27636,Entire home/apt,190,2,4,2022-10-09,0.40,1,126,4,0518 499E 2D33 0622 3C61
+623909263961727627,"Charming 19th century family home, newly renovated",2732890,Annie,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08259,4.29166,Entire home/apt,199,3,3,2023-01-06,0.30,1,0,3,0518 FA8D D5F6 C701 5E3A
+624311921066367397,Centrally located spacious appartment,458531993,Daan,Wijk 27 Stationsbuurt,Rivierenbuurt-Noord,52.07573,4.3256,Entire home/apt,150,2,0,,,1,0,0,0518E524A64664579AFD
+626711712305356222,Beach town urban oasis,11517776,Juultje,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07751,4.28074,Entire home/apt,170,5,4,2022-08-15,0.47,1,4,4,0518 BC1B 4961 AF84 9900
+626773297028147543,A cozy apartment close to the beach,459079815,Maciej,Wijk 09 Geuzen- en Statenkwartier,Geuzenkwartier,52.09448,4.26923,Entire home/apt,175,5,4,2022-08-14,0.49,1,8,4,0518 E214 7DD2 5D6A 116E
+627486756194841973,"Lovely family home with lush, sunny garden",4855575,Anouk,Wijk 19 Vruchtenbuurt,Eykenduinen,52.065998,4.265967,Entire home/apt,156,5,6,2023-01-24,0.62,1,14,6,0518 A456 E2BF D3A1 0ED8
+628094824463728568,Beach place for plant lovers,8771286,Ines,Wijk 07 Scheveningen,Scheveningen Badplaats,52.11031,4.28162,Entire home/apt,110,7,1,2022-08-13,0.13,1,0,1,0518 1C01 7356 C274 13AE
+628135938072637964,KKA Rooms,269439514,Kinzy,Wijk 38 Laakkwartier en Spoorwijk,Noordpolderbuurt,52.06341,4.32993,Private room,45,1,11,2022-07-27,1.07,3,72,11,0518 B47E 33D4 9C7D F9K6
+630003099657245934,Design-loft met tuin in hipste wijk van Den Haag,16162192,Chantal,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.079144,4.292379,Entire home/apt,325,6,2,2022-07-29,0.24,1,201,2,0518 40F0 EEBE CD38 441E
+631021458535304614,Cosy place near the sea🌞🌞🌞,61772807,Josee,Wijk 14 Bohemen en Meer en Bos,Bosjes van Pex,52.07049,4.24442,Entire home/apt,75,5,2,2022-06-09,0.20,1,0,2,0518 5E4A 4DDE 81AB 5F65
+631649159726764599,Rustig gelegen appartement dichtbij het strand.,460173306,Hidde-Jan,Wijk 13 Vogelwijk,Vogelwijk,52.082718,4.261731,Entire home/apt,125,3,3,2022-06-19,0.30,1,0,3,0518 4C14 D0A4 8AFF 0D4A
+632460182393438384,Leuke studio in gezellige wijk.,2908456,Lies,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.072296,4.277085,Entire home/apt,100,1,15,2023-02-27,1.49,1,0,15,0518 42DB 5B27 3DF7 44AC
+632508172008775539,Luxe Appartement (incl pp) nabij haven en strand,84692323,Marco,Wijk 07 Scheveningen,Vissershaven,52.09453,4.26664,Entire home/apt,165,5,4,2022-08-15,0.42,1,146,4,0518 41F3 5F8B 60DE 42BE
+635195263557411163,Beachy apartment with garden and office,25649719,Gilbert,Wijk 09 Geuzen- en Statenkwartier,Geuzenkwartier,52.0899,4.2706,Entire home/apt,149,3,2,2022-06-19,0.21,1,23,2,0518 7D43 CF16 040F 47E8
+636183158348281603,The Harbor home,461240930,Rodrigo,Wijk 38 Laakkwartier en Spoorwijk,Laakhaven-West,52.05792,4.31066,Entire home/apt,129,2,23,2023-02-28,2.39,1,84,23,0518 45B2 C29C 773E 47D0
+636854013158408098,Kranenburg Beach House - 200m van het strand!,461373203,Michael,Wijk 07 Scheveningen,Vissershaven,52.094994,4.261623,Entire home/apt,400,5,2,2022-08-17,0.26,1,208,2,0518 1378 9572 D68D 4509
+637550883001174552,"Spacious sunny city house, very central :)",5144582,Dorien,Wijk 23 Willemspark,Willemspark,52.08725,4.30905,Entire home/apt,189,5,3,2022-08-08,0.35,1,154,3,0518E20B54A4DEBF49D2
+638154839040051120,SUNNY HOME NEARBY BEACH AND FOREST,16964076,Ankarturo,Wijk 16 Kraayenstein en Vroondaal,Kraayenstein en Vroondaal,52.045021,4.215636,Entire home/apt,96,2,3,2022-08-11,0.35,1,116,3,05182B0E127D4E8A4CC7
+638309035222227025,Private room,269439514,Kinzy,Wijk 38 Laakkwartier en Spoorwijk,Noordpolderbuurt,52.06226,4.3298,Private room,60,1,2,2022-07-18,0.21,3,299,2,0518B47E33D49C7DF9K6
+638324147709080738,Een hippe benedenwoning met 4 slaapkamers,11100380,Terry,Wijk 12 Bomen- en Bloemenbuurt,Bomenbuurt,52.07744,4.27188,Entire home/apt,220,5,2,2022-08-09,0.25,1,196,2,0518 56C3 FEF5 9092 C24C
+639696764327466182,Hosted by Wendy Beach house 3 minutes walk beach,177701530,Hosted By Wendy,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10848,4.27761,Entire home/apt,250,5,4,2022-08-13,0.47,13,30,4,Exempt
+641097573837740724,Luxury home in quiet neighbourhood near beach,398842799,Bruno,Wijk 13 Vogelwijk,Vogelwijk,52.075738,4.2406762,Entire home/apt,250,5,4,2022-08-20,0.45,2,112,4,0518 67D4 6096 1727 46BF
+641908720441028533,Cozy one bedroom apartment  in a calm area,84981076,Sanae,Wijk 05 Archipelbuurt,Archipelbuurt,52.08961,4.30707,Entire home/apt,120,7,2,2023-01-03,0.27,2,73,2,0518 AC01 028B FF09 4EC0
+642695419037099035,Beautiful 5 bed house in the heart of The Hague,17730372,Alexa,Wijk 28 Centrum,Voorhout,52.083927,4.3094915,Entire home/apt,500,5,1,2023-01-02,0.35,1,136,1,0518 0258 C6C0 3FCE 4C14
+642729956369142346,Mooi ruim appartement in Den Haag dichtbij strand,923242,Les,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.06641,4.24856,Entire home/apt,220,14,0,,,1,194,0,0518 879B 1536 AB65 42DB
+643244982481419491,"Sfeervol appartement bij strand Zuid, Scheveningen",12068818,Jitske,Wijk 08 Duindorp,Duindorp,52.08777,4.25388,Entire home/apt,150,1,5,2022-09-02,0.62,1,0,5,0518 3633 A4A2 51E0 77A2
+644646347914812476,Lovely 1-bedroom apartment with large patio,8666835,Emma,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08165,4.29083,Entire home/apt,140,7,4,2022-11-19,0.70,1,302,4,0518 3891 EC20 835B 4A7A
+644784967308757141,"Beautiful villa, large garden, close to the beach",64910450,Rosali,Wijk 03 Westbroekpark en Duttendel,Duttendel,52.10499,4.30624,Entire home/apt,495,7,0,,,1,273,0,0518 1F50 6E8D 7E64 4A1F
+645698261439302557,Cozy family house near the beach,8024313,Magdot,Wijk 19 Vruchtenbuurt,Vruchtenbuurt,52.0662,4.24918,Entire home/apt,250,4,2,2022-12-31,0.40,1,58,2,0518 D822 A5C0 557D C6CB
+645708641491752673,Large bedroom with independent entrance,13513881,Sergio,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.08231,4.28305,Entire home/apt,98,3,11,2022-11-28,1.29,1,23,11,0518520AA0169EA04564
+647799761652935409,"Lovely family house close to beach, with parking",463896401,Anouk,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10978,4.28211,Entire home/apt,180,7,1,2023-01-06,0.37,1,159,1,0518607BE38BB21B629E
+649116823478446739,Ruim familiehuis op 100m van het strand,83109315,Martijn,Wijk 07 Scheveningen,Oud Scheveningen,52.10591078570535,4.272099653967287,Entire home/apt,155,5,0,,,1,133,0,05187B94C5DFB5C64915
+652868538526275313,Arty ground floor apartment with sunny garden,16819780,Suzanne,Wijk 31 Rustenburg en Oostbroek,Oostbroek-Noord,52.06872,4.27961,Entire home/apt,115,4,4,2022-10-28,0.47,1,16,4,0518 5E47 6B84 7C2D 4D32
+652871713873370713,Homelike room with double bed in center,438972681,Henk,Wijk 29 Schildersbuurt,Schildersbuurt-West,52.07277,4.29747,Private room,68,1,10,2022-10-28,1.09,3,323,10,0518 2E46 A60C CE76 0C76
+653432918249395423,Spacious cheerful  house close to the beach.,27166938,Alexandre And Renée,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09147114341904,4.273874424397945,Entire home/apt,180,2,0,,,1,120,0,0518 BDAA E27E 8C5D 450A
+654330561638149300,Luxe herenhuis met heerlijk balkon en gym,465405072,Antoinette,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08866279999999,4.336795299999999,Entire home/apt,225,10,0,,,1,218,0,0518883640F6461B4F5E
+654792210637258594,"Hosted by Wendy, spacious house and lovely garden",177701530,Hosted By Wendy,Wijk 11 Duinoord,Stadhoudersplantsoen,52.08452,4.28073,Entire home/apt,395,6,2,2022-08-02,0.24,13,38,2,0518 D50E D34A E2B5 47B5
+654929229983852657,Hosted by Wendy City apartment,177701530,Hosted By Wendy,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.07863,4.29973,Entire home/apt,146,5,12,2023-03-20,1.46,13,91,12,Exempt
+655371492283902124,Stylish 3-bdrm apt. w/ terraces next to the beach,6099061,Boris,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09017,4.27321,Entire home/apt,388,3,14,2023-03-22,1.59,1,299,14,0518 7D2D 18CD 8CB4 490D
+655571918068288367,Design Family house - sunny garden - close 2 beach,14647609,Nadine Cristianne,Wijk 04 Benoordenhout,Waalsdorp,52.096940934637956,4.315740846305078,Entire home/apt,600,5,1,2022-10-30,0.20,1,0,1,0518 ABC1 C04C 40FE 4835
+655607520510721940,Beach House Scheveningen,462711934,Tamar,Wijk 07 Scheveningen,Vissershaven,52.10288,4.2698,Entire home/apt,75,7,2,2022-08-28,0.25,1,148,2,0518 5BFA C824 3E2F 44BC
+655616980608807919,"Family Beach house - (2 adults, 2 children)",13273144,Peter-Paul,Wijk 07 Scheveningen,Rijslag,52.1074657,4.2824469,Entire home/apt,220,5,0,,,1,8,0,0518 3440 598B ED73 52C5
+656525592524130595,Bright and Spacious room in The Hague center,438972681,Henk,Wijk 29 Schildersbuurt,Schildersbuurt-West,52.07301,4.29768,Private room,72,2,11,2023-02-02,1.36,3,352,11,0518 2E46 A60C CE76 0C76
+658397653526205544,Kd 879 - Vakantiepark Kijkduin,256391686,Eezz,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.06095,4.21258,Entire home/apt,111,1,4,2022-10-28,0.56,10,130,4,Exempt
+659150571694033002,BIG FURNISHED  ROOM   THE HAGUE A LOCATION,7368483,Maurits,Wijk 26 Bezuidenhout,Bezuidenhout-Midden,52.08418065638288,4.331570138623029,Private room,41,1,4,2022-09-18,0.52,2,106,4,05185FOFC8BAFB727012
+659448343536253788,"City villa with character, 280 m2 (incl. bikes)",19899759,Petra,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.077031,4.2823973,Entire home/apt,300,14,1,2022-08-15,0.13,1,27,1,0518 8547 0222 4D75 CB65
+660159328189569787,Surf & Chill House on 5min walk from the beach,72246813,Rob,Wijk 07 Scheveningen,Vissershaven,52.10125,4.27304,Entire home/apt,172,4,3,2022-09-21,0.36,1,174,3,abcd1234ab1289efa0f9
+661354843109429470,Stylish & spacious apt. near beach & city centre,19795388,Thessa,Wijk 02 Belgisch Park,Belgisch Park,52.11175679999999,4.2973181,Entire home/apt,200,3,6,2023-01-29,0.71,1,6,6,0518 71D2 8399 18B9 45A2
+661613055644846116,Lovely family home at a fantastic location!,15083658,Meike,Wijk 04 Benoordenhout,Arendsdorp,52.09502,4.32402,Entire home/apt,300,5,2,2022-08-05,0.25,1,92,2,0518 AC53 5DA2 8CEF 463F
+661937500407123902,"Lovely, spacious family home behind the dunes",323276481,Evelien,Wijk 13 Vogelwijk,Vogelwijk,52.07988520000001,4.2565595,Entire home/apt,240,10,2,2022-10-27,0.25,1,77,2,0518 0E1C 3EA3 AE6C 7268
+662121401184350833,Den Haag apartments,465584883,Andriy,Wijk 29 Schildersbuurt,Schildersbuurt-West,52.06417,4.30409,Private room,150,1,1,2022-07-23,0.12,1,0,1,0518 8C72 EAC9 392D 4A61
+662987954979363779,"Bovenwoning aan het strand, Scheveningen",467447055,Lisa,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10695,4.28085,Entire home/apt,140,14,0,,,1,28,0,0518 D9EC 7205 1B35 409C
+664962639560063855,Luxe en gezellig appartment dicht bij stad en zee,150823110,Robert,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.0853836,4.2992303,Entire home/apt,182,3,4,2022-09-26,0.49,1,162,4,051883F58DB7871C41E7
+665017652041802435,Knus vissershuis in Scheveningen - Bad,27270032,Monique,Wijk 07 Scheveningen,Scheveningen Badplaats,52.1062,4.27494,Entire home/apt,249,3,6,2022-08-27,0.73,1,7,6,0518 29CO EB68 1651 4D5E
+665240182653450533,Prachtige buitenverblijf dicht bij het strand,275578058,Muhammad,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.06196,4.22481,Private room,200,1,0,,,1,365,0,05186B95C88F93414445
+665922670318356451,Fijn huis op loopafstand van strand en haven,27490683,Willemijn,Wijk 09 Geuzen- en Statenkwartier,Geuzenkwartier,52.09288,4.2684,Entire home/apt,200,3,6,2022-12-27,0.80,1,128,6,05180EBEFB5FDE9E4B2C
+666507283704776325,Den Haag Chic: 2 bedroom home,1809694,Deborah,Wijk 23 Willemspark,Willemspark,52.08832,4.30793,Entire home/apt,120,20,1,2022-10-08,0.18,1,178,1,05181CA228482D214775
+667393190052421682,"Luxe huis nabij het strand, ideaal met kinderen!",28416486,Kiki,Wijk 02 Belgisch Park,Belgisch Park,52.11219,4.28577,Entire home/apt,228,5,2,2022-07-27,0.24,1,8,2,0518 97D0 4D02 B371 44CF
+669460315423555790,Landscape Architect's Hofje The Hague Zeehelden,35040535,Daniel,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.0824238,4.2926842,Entire home/apt,108,2,9,2022-08-30,1.06,1,48,9,0518 0B33 B6EF 383D 458B
+669577869682897098,Luxurious townhouse in great location!,469123233,Nicole,Wijk 04 Benoordenhout,Waalsdorp,52.09505,4.31018,Entire home/apt,350,5,0,,,1,116,0,0518 F289 B0EB C15A 43D7
+670214053966962364,The Little Green Dream Machine,77190721,Darren,Wijk 04 Benoordenhout,Van Hoytemastraat en omgeving,52.09312,4.32359,Entire home/apt,91,2,0,,,1,327,0,Exempt
+675204533417582963,"bedroom in luxury home, near beach",398842799,Bruno,Wijk 13 Vogelwijk,Vogelwijk,52.0754,4.24178,Private room,136,2,0,,,2,275,0,051867D46096172746BF
+675780065065517091,Kd 883 - Vakantiepark Kijkduin,256391686,Eezz,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05748,4.21281,Entire home/apt,106,1,0,,,10,179,0,Exempt
+679332017285494595,Herenhuis vlakbij het strand,56741226,Mikel,Wijk 07 Scheveningen,Visserijbuurt,52.1038,4.28573,Entire home/apt,190,4,2,2023-02-20,0.44,1,53,2,0518 A843 43ED 75CE 4AFB
+681121464832663549,2 bedroom apartment in the heart of Scheveningen,9165668,Robert,Wijk 07 Scheveningen,Visserijbuurt,52.10397,4.27653,Entire home/apt,175,4,2,2022-10-05,0.26,22,343,2,Exempt
+681134871360025451,Beautiful apartment close to the beach.,9165668,Robert,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10564,4.27489,Entire home/apt,157,5,5,2023-02-19,0.65,22,297,5,Exempt
+683081887455582595,Mooie bungalow op 5 minuten van Kijkduin strand,472490127,Leon,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05476,4.21351,Entire home/apt,200,7,2,2022-10-16,0.29,1,239,2,Exempt
+683251969914457402,Lovely 2-bedrooms flat in a central Den Haag condo,14966033,Thomas,Wijk 24 Haagse Bos,Haagse Bos,52.08346,4.32462,Entire home/apt,113,2,3,2022-10-13,0.44,1,264,3,0518 31C3 0D94 AC32 43D3
+684731498766066295,Fijne 2 persoonskamer direct aan zee en strand,138679740,Ilja,Wijk 07 Scheveningen,Vissershaven,52.10394,4.2692,Private room,130,1,19,2023-03-19,2.49,1,327,19,0518 0E5B 24EF B434 4ECE
+686020293080452214,Mooie centraal gelegen nieuwbouw hoekwoning,77323657,Saskia,Wijk 36 Moerwijk,Moerwijk-Zuid,52.0437584,4.290066299999999,Entire home/apt,175,2,3,2023-03-19,2.57,1,68,3,051827838AD9A293412A
+686692614316784008,"Lovely neighbourhood, near the sea",231675684,Marit,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07894,4.2847,Private room,82,1,45,2023-03-22,5.90,1,72,45,0518 0938 4088 ACC1 462F
+686827398897544730,Beachhome Scheveningen,27008865,Eefje,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10744,4.27165,Entire home/apt,1200,1,0,,,3,365,0,0518 829D E68D BC84 817B
+688407003551487671,Group room for 8 guests with en-suite bathroom,5285926,Diederick,Wijk 28 Centrum,Zuidwal,52.07696,4.30911,Private room,244,1,4,2022-12-30,0.57,29,267,4,Exempt
+688408588112697314,Group room for 6 guests with en-suite bathroom,5285926,Diederick,Wijk 28 Centrum,Kortenbos,52.07558,4.30738,Private room,205,1,0,,,29,255,0,Exempt
+688464415558760348,Ruim en gezellige gezinswoning in Den Haag,70098610,Carla,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.08039,4.28083,Entire home/apt,250,5,0,,,1,70,0,0518 13C3 D1A3 0F1E 4DAB
+689575921723895546,Fully renovated 2 bedroom apartment with balcony.,71981073,Marloes,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08613,4.34461,Entire home/apt,126,3,0,,,1,32,0,0518 2EA2 B4E3 89F4 4C0C
+689904608561500248,Cozy 3-bed room apartment with free parking,454098721,NingNing,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08143,4.34902,Entire home/apt,178,2,5,2023-03-23,0.67,1,121,5,
+693399419384721252,Lovely 2-bedroom city-center loft with balcony,213921672,Joel,Wijk 28 Centrum,Zuidwal,52.07297,4.30374,Entire home/apt,185,4,5,2023-01-02,1.01,1,160,5,0518 5EC6 3E8C 9F5F 46B2
+693961761118490778,Den Haag Keizerstraat | Suite XL + sep. kitchen,418270816,Limehome,Wijk 07 Scheveningen,Oud Scheveningen,52.103767,4.276362,Entire home/apt,138,1,2,2023-01-15,0.45,8,104,2,Exempt
+693963766103689566,Den Haag Keizerstraat | Suite XL,418270816,Limehome,Wijk 07 Scheveningen,Oud Scheveningen,52.103767,4.276362,Entire home/apt,150,1,9,2023-03-06,2.70,8,102,9,Exempt
+693965918038793245,Den Haag Keizerstraat | Suite XL with balcony,418270816,Limehome,Wijk 07 Scheveningen,Oud Scheveningen,52.1037679,4.276362,Entire home/apt,156,1,2,2023-01-15,0.50,8,46,2,Exempt
+693967951951549689,Den Haag Keizerstraat | One-Bedroom Suite,418270816,Limehome,Wijk 07 Scheveningen,Oud Scheveningen,52.1037679,4.276362,Entire home/apt,172,1,0,,,8,46,0,Exempt
+693970124941101342,Den Haag Keizerstraat | Suite L with terrace,418270816,Limehome,Wijk 07 Scheveningen,Oud Scheveningen,52.103767,4.276362,Entire home/apt,135,1,3,2023-01-29,0.67,8,49,3,Exempt
+693972273451830212,Den Haag Keizerstraat | Suite L,418270816,Limehome,Wijk 07 Scheveningen,Oud Scheveningen,52.103767,4.276362,Entire home/apt,119,1,1,2022-12-19,0.30,8,55,1,Exempt
+693974605367871881,Den Haag Keizerstraat | Suite XL (28+ nights),418270816,Limehome,Wijk 07 Scheveningen,Oud Scheveningen,52.103767,4.276362,Entire home/apt,141,1,0,,,8,46,0,Exempt
+693976627210346083,Den Haag Keizerstraat | 1-Bedroom Suite 28+ nights,418270816,Limehome,Wijk 07 Scheveningen,Oud Scheveningen,52.103767,4.276362,Entire home/apt,161,1,0,,,8,46,0,Exempt
+694779826654470741,"Apartment with garden terrace, BBQ, free parking.",2270832,Arnold,Wijk 34 Morgenstond,Morgenstond-Oost,52.05198,4.27984,Entire home/apt,135,3,10,2023-02-26,1.52,1,290,10,051888C9B1CAA821BCE9
+698181744551096753,Spacious beach house with beautiful view,54057143,Babette,Wijk 02 Belgisch Park,Belgisch Park,52.1123294,4.2960632,Entire home/apt,170,13,1,2022-11-08,0.21,1,2,1,0518 D0C8 D084 BF2E 48A3
+698330111210878389,Lovely private room in the heart of The Hague,84981076,Sanae,Wijk 05 Archipelbuurt,Archipelbuurt,52.08958,4.30871,Private room,51,1,24,2023-03-19,3.50,2,315,24,0518 AC01 028B FF09 4EC0
+701189147242893606,Gehele woning met heerlijk grote tuin.,33752159,Imke,Wijk 12 Bomen- en Bloemenbuurt,Bomenbuurt,52.08032,4.27246,Entire home/apt,180,3,1,2022-11-20,0.23,1,24,1,0518 3FF8 6207 EEE3 411F
+709197963034970590,Beautiful & spacious room with couch in The Hague,115324475,Lin,Wijk 38 Laakkwartier en Spoorwijk,Laakhaven-West,52.06147,4.32026,Private room,71,1,6,2023-02-08,0.91,2,74,6,Exempt
+710514053436828673,Nice apartment close to the center of The Hague,216271956,Benjamin,Wijk 38 Laakkwartier en Spoorwijk,Laakkwartier-Oost,52.05848,4.32475,Entire home/apt,2000,2,0,,,1,87,0,Exempt
+711993238225426718,"Cozy Home with workplaces, garden and bikes",62931715,Olga,Wijk 31 Rustenburg en Oostbroek,Oostbroek-Noord,52.06763,4.28381,Entire home/apt,149,10,1,2023-01-31,0.54,1,196,1,0518 B5F6 05FF CABA 44A3
+712032106671528400,Charming family house near beach and city center,26105624,Sanne,Wijk 05 Archipelbuurt,Archipelbuurt,52.09113,4.30141,Entire home/apt,350,3,0,,,1,44,0,0518 344D F7B2 6848 4A4F
+714208885264939624,Luxurious City Centre Studio,89577677,Marvin,Wijk 28 Centrum,Kortenbos,52.0779,4.30841,Entire home/apt,148,7,1,2023-01-03,0.36,4,301,1,Exempt
+714219042466915637,Luxurious City Centre 1 Bedroom Apartment,89577677,Marvin,Wijk 28 Centrum,Voorhout,52.07972,4.31004,Entire home/apt,177,7,3,2023-03-15,0.96,4,362,3,Exempt
+714224535530635063,Luxurious City Centre 2 Bedroom Apartment,89577677,Marvin,Wijk 28 Centrum,Voorhout,52.08007,4.30881,Entire home/apt,205,7,5,2023-02-04,1.76,4,324,5,Exempt
+714226741314983474,Luxurious City Centre 2 Bedroom Apartment 360 view,89577677,Marvin,Wijk 28 Centrum,Voorhout,52.07804,4.30999,Entire home/apt,240,7,0,,,4,299,0,Exempt
+716555126368446401,Gorgeous bedroom in The Hague,405254283,Boris,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09533,4.27848,Private room,150,2,8,2023-03-06,1.26,1,295,8,0518 6B0A BC3C 02EC 4201
+723672042468451637,"Huis nabij centrum, free parking & zonnige tuin.",56613213,Vera,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08142,4.34358,Entire home/apt,149,2,4,2023-01-02,0.71,1,326,4,0518 C2DF 3DF9 C9D9 A3C4
+723677034709131887,Prachtige nieuw gerenoveerde 3 kamer appartement,14791629,Has,Wijk 44 Leidschenveen,De Velden,52.0650423371618,4.4024978153442484,Entire home/apt,175,15,3,2023-02-13,0.72,1,249,3,0518 5753 E3E6 B4DA 4F94
+726008931538221648,Cosy & Artsy Apartment in The Hague,8113181,Juliette,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07526,4.27632,Entire home/apt,110,2,1,2023-03-21,1,1,232,1,0518 665B 9503 36DC 4ACE
+728122490764584311,"Knus, licht en comfortabel jaren '30 appartement",4765515,Aimee,Wijk 38 Laakkwartier en Spoorwijk,Laakkwartier-Oost,52.05707,4.32817,Entire home/apt,72,1,12,2023-03-12,2.20,1,40,12,
+730222114565298612,Bright house with 2 bedrooms+garden+free parking,4548426,Chantal,Wijk 42 Ypenburg,Morgenweide,52.05017,4.38395,Entire home/apt,95,3,2,2023-02-09,0.36,1,204,2,
+731448069613618265,Unieke villa dichtbij strand,18824059,Paulien,Wijk 06 Van Stolkpark en Scheveningse Bosjes,Van Stolkpark en Scheveningse Bosjes,52.1033175,4.2866759,Entire home/apt,800,2,0,,,1,238,0,0518 CD85 1906 24E6 42B0
+731594622045066447,Knus appartement in Den Haag,9035342,Sophie,Wijk 19 Vruchtenbuurt,Eykenduinen,52.064239,4.2606592,Entire home/apt,148,7,1,2023-01-07,0.37,1,46,1,0518 6BA6 43D3 D35A 441C
+732484979276883723,Charming Apartment in the city center of The Hague,19763992,Geneviève,Wijk 27 Stationsbuurt,Huygenspark,52.07243,4.31619,Entire home/apt,74,2,22,2023-03-19,5.41,1,225,22,0518DD1D900705B24422
+738794287137344182,Spacious double bedroom in the Hague,258586924,Toby,Wijk 18 Waldeck,Rosenburg,52.06305,4.25822,Private room,58,1,14,2023-03-11,2.73,1,56,14,0518 D39F A89C F180 4DCE
+739075989823503263,Appartement vlakbij strand en duinen,24012574,Jochem,Wijk 02 Belgisch Park,Belgisch Park,52.1114474,4.293997,Entire home/apt,140,4,4,2023-02-16,1.35,1,110,4,05181783C49B0391424B
+741022348258738683,Gehele woning in hartje Den Haag,14039517,Stephanie,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.0821,4.2994,Entire home/apt,220,14,1,2022-12-31,0.34,1,326,1,0518 982D 0049 8538 43EC
+741951345651940713,Hosted by Wendy at the beach appartement,177701530,Hosted By Wendy,Wijk 02 Belgisch Park,Belgisch Park,52.11323,4.28814,Entire home/apt,114,5,3,2023-03-02,2.31,13,62,3,Exempt
+746392732904931117,"New renovated home, 3 floors 180 m2, 10 min beach",4179993,Sophie,Wijk 04 Benoordenhout,Nassaubuurt,52.08792,4.31815,Entire home/apt,1400,1,0,,,1,364,0,0518 001A D693 33CF 4E43
+746950457110372598,Family Friendly and Spacious Modern Apartment,485306833,Marina,Wijk 07 Scheveningen,Oud Scheveningen,52.1059649,4.2738245,Private room,199,7,2,2023-01-02,0.68,1,207,2,Exempt
+747731033823292952,Scheveningen The Hague next Beach Family Loft Long,10239880,Lucas,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10703,4.27565,Entire home/apt,177,1,0,,,9,176,0,0518 0AB6 1057 BE1B B314
+747884819637498354,Tiny House near The Hague Beaches,22425095,Richard,Wijk 13 Vogelwijk,Vogelwijk,52.0808402,4.2565278,Entire home/apt,91,1,19,2023-02-26,4.22,1,182,19,0518 E5E6 9ED4 4AAB 47A9
+749044620614103468,Bright & spacious Garden room in The Hague center,115324475,Lin,Wijk 38 Laakkwartier en Spoorwijk,Laakkwartier-Oost,52.05938,4.32219,Private room,69,1,4,2023-03-15,0.90,2,73,4,Exempt
+751806444849601826,Beautiful apartment with garden.,18003640,Jerome,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08331,4.34526,Entire home/apt,265,2,4,2023-01-01,0.94,1,355,4,0518 77A2 6214 BDE7 47FB
+754803427097701047,Townhouse with 3 bedrooms and a beautiful garden,110800262,Vesela,Wijk 18 Waldeck,Waldeck-Noord,52.06119,4.23518,Entire home/apt,130,2,2,2023-03-02,0.71,1,54,2,0518 B1F5 AD8F 9066 4A02
+755112391017766840,The sleeping experience,2817394,Ian,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.07991,4.29274,Private room,40,1,20,2023-03-13,4.35,2,2,20,0518 5ACD E2BE 95EC 4A1D
+755687507630655166,Villa de Grasduin vlakbij zee,90972865,Ilse,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05742742858284,4.2090524571166865,Entire home/apt,150,5,0,,,1,278,0,Exempt
+757072602547907526,Hotel Novallure City - Twin room with kitchenette,115403367,Homey,Wijk 28 Centrum,Zuidwal,52.07594,4.30918,Private room,82,2,31,2023-03-08,7.27,7,323,31,Exempt
+757180377912319471,Hotel Novallure City - Twin Room with Balcony,115403367,Homey,Wijk 28 Centrum,Zuidwal,52.07738,4.30887,Private room,82,2,13,2023-03-11,3.05,7,297,13,Exempt
+757202521154776667,Hotel Novallure City Centre - Double Room,115403367,Homey,Wijk 28 Centrum,Voorhout,52.07753,4.31059,Private room,82,2,10,2023-02-19,2.38,7,298,10,Exempt
+757203509229769340,Hotel Novallure City - Double Room W/ Kitchenette,115403367,Homey,Wijk 28 Centrum,Zuidwal,52.07726,4.30888,Private room,82,2,10,2023-03-03,2.34,7,317,10,Exempt
+757333272851183727,Scheveningen Sea breez Family apartment top floor,10239880,Lucas,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10725,4.27547,Entire home/apt,106,1,8,2023-02-28,2.00,9,238,8,0518 0AB6 1057 BE1B B314
+757767801937019147,Kd 866 - Vakantiepark Kijkduin,256391686,Eezz,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05388,4.21391,Entire home/apt,101,1,1,2023-03-20,1,10,129,1,Exempt
+758501421292545703,Smaakvol appartement met patio,6803271,Karin,Wijk 05 Archipelbuurt,Archipelbuurt,52.09185,4.30368,Entire home/apt,176,2,5,2023-02-12,1.50,1,225,5,0518 2D90 3D24 2317 4C74
+761631691624690687,Stylish and spacious house,60649540,Fran,Wijk 11 Duinoord,Stadhoudersplantsoen,52.08465100000001,4.278423699999999,Entire home/apt,231,5,2,2023-01-02,0.68,1,24,2,0518 9630 E3D9 3043 48A5
+763486684496666111,Lovely room aan zee,406010428,Marina,Wijk 07 Scheveningen,Vissershaven,52.10179,4.27146,Private room,68,1,0,,,1,12,0,0518 1307 120D 06EF 47DC
+765752109392480766,leuk appartement in Den Haag!,138975391,Silvienne,Wijk 38 Laakkwartier en Spoorwijk,Laakkwartier-Oost,52.06315,4.32783,Entire home/apt,72,1,2,2023-01-01,0.56,1,120,2,0518 AF8A A334 3F77 400F
+768154775980291671,Appartement met 2 verdiepingen,68178075,Anouk,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07458,4.27416,Entire home/apt,95,5,0,,,1,3,0,0518 E198 6BC1 8E51 4C71
+770239039018336230,Boutique stay | Artistic |,543455,Jody,Wijk 20 Valkenboskwartier,Valkenboskwartier,52.07086,4.27579,Entire home/apt,132,2,1,2023-02-15,0.73,1,292,1,0518 C363 38B9 9CB4 4960
+770270062603085048,Kamer bij het Theater,42836334,Auke,Wijk 07 Scheveningen,Scheveningen Badplaats,52.11145,4.28123,Private room,56,1,0,,,5,136,0,Exempt
+772910831435685152,Room next to the sea and more,2228322,Marilisa,Wijk 08 Duindorp,Duindorp,52.08783,4.25692,Private room,60,1,0,,,2,89,0,0518 4AB1 F8B6 37C5 1DCE
+777578700896924075,2 Bedroom house with lovely back garden,11776348,Mert,Wijk 44 Leidschenveen,Rietbuurt,52.05791,4.40606,Entire home/apt,160,7,0,,,1,151,0,0518 44F9 0787 5B31 404F
+778822400558244154,Beautiful two-room apartment,9165668,Robert,Wijk 07 Scheveningen,Visserijbuurt,52.10532,4.27903,Entire home/apt,122,4,0,,,22,325,0,Exempt
+779797302698234289,Relaxing room in the hague center,438972681,Henk,Wijk 21 Regentessekwartier,Rond de Energiecentrale,52.07468,4.2958,Private room,66,2,0,,,3,0,0,Exempt
+782752158069178592,Carmen's casita uno,23540105,Carmen,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08559,4.34063,Private room,35,2,4,2023-03-21,1.56,2,0,4,0518 D8A7 F138 802C 4673
+789741750203831031,Denhaag top locatie appartement,492695225,Bily,Wijk 38 Laakkwartier en Spoorwijk,Laakkwartier-Oost,52.06256,4.32312,Entire home/apt,100,1,3,2023-03-19,1.76,1,53,3,Abcd 1234 efgh 5678 ijkf
+790600773826221671,Guest room in Den Haag near Delft,492870479,Ding,Wijk 42 Ypenburg,Waterbuurt,52.03389,4.36165,Private room,70,1,0,,,1,118,0,0518 3980 D8F5 45A9 4EC9
+793480147074761641,Carmen's casita dos,23540105,Carmen,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08632,4.34093,Private room,35,3,2,2023-02-13,1.25,2,0,2,0518D8A7F138802C4673
+794596580050824333,Duinvilla vlakbij het strand. Gratis P,106599541,Laila,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05621,4.2117,Entire home/apt,136,3,4,2023-03-20,3.08,2,226,4,Exempt
+795415354267129644,Bright apartment + roof terrace,56697182,Jaap,Wijk 20 Valkenboskwartier,Heesterbuurt,52.0742591,4.2688967,Entire home/apt,95,7,1,2023-02-19,0.81,1,84,1,0518 4444 A5AE 1606 4FE6
+795716675594783844,"Zonnige parterre met tuin, nabij strand",10973910,Carlijn,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-West,52.07175,4.25524,Entire home/apt,149,7,0,,,1,67,0,05185EF0995DADFE48EF
+796202495448975287,NEW renovated & private Tiny House with bikes,32213859,Camilla,Wijk 04 Benoordenhout,Duinzigt,52.1021953,4.3251676,Entire home/apt,129,2,0,,,1,7,0,0518 42CE 1A64 839D 4C3A
+796826572190384864,Cozy loft style home,15577960,Sanne,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07867,4.277,Entire home/apt,126,1,0,,,1,47,0,0518 B8F0 9D2F 0AA6 41B4
+797566582559489003,Amazing North Sea beach house,15478039,Bram,Wijk 07 Scheveningen,Scheveningen Badplaats,52.106602133289066,4.2762346531146544,Entire home/apt,165,6,0,,,1,0,0,0518 56DA F2A1 FE18 4883
+805660319530158694,Comfortable house with veranda,72395709,Merel,Wijk 31 Rustenburg en Oostbroek,Oostbroek-Noord,52.06684407310244,4.279340345507832,Entire home/apt,80,26,0,,,1,0,0,0518 DDB4 7BFE A240 4B4E
+806279156832159654,Family surf home,50302213,Yoshi,Wijk 32 Leyenburg,Leyenburg,52.06154,4.27515,Entire home/apt,65,15,0,,,1,114,0,0518F68A49D5EEFC44D0
+806349497028035795,Big Family house close to the beach,177701530,Hosted By Wendy,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-West,52.07203,4.25381,Entire home/apt,490,6,0,,,13,17,0,Exempt
+810809021737050160,Comfort double room | Hotel Corel,497580178,Andriy,Wijk 02 Belgisch Park,Belgisch Park,52.1100557,4.2877714,Private room,80,1,15,2023-03-26,11.25,2,28,15,Exempt
+810841616411778569,Duplex Apartment,58122253,Rutger,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-Oost,52.0776704,4.2630373,Entire home/apt,350,3,0,,,1,314,0,0518 208E 85C3 138E 4BB4
+815578788180732361,Boho Beach,262890,Mp,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10908,4.27984,Entire home/apt,133,1,0,,,1,318,0,0518 5709 1E35 3B18 B430
+816644818039414648,Familiekamer bij het Theater,42836334,Auke,Wijk 07 Scheveningen,Scheveningen Badplaats,52.11037,4.28321,Private room,100,1,6,2023-03-05,3.75,5,47,6,Exempt
+818571296733401912,Elegant stay in The Hague,39970171,Edward,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07912,4.28986,Entire home/apt,120,2,0,,,1,143,0,0518 22F0 A10E 92B1 40A4
+818916759070961750,Huis aan zee,101939770,Stéphanie,Wijk 02 Belgisch Park,Belgisch Park,52.1113582,4.2890636,Entire home/apt,148,1,0,,,1,73,0,0518 44DE 0A09 3C2C 42CF
+820153688071531055,Modern 2 floor apartment,222807576,Stephan,Wijk 07 Scheveningen,Visserijbuurt,52.104104283102025,4.28472061852418,Entire home/apt,200,3,0,,,1,335,0,0518 FE95 6156 25D6 44A3
+823097911827212102,Mooi beachhouse!,224278576,Noor,Wijk 14 Bohemen en Meer en Bos,Bohemen en Meer en Bos,52.07007,4.23664,Entire home/apt,219,7,0,,,1,183,0,0518 DAA7 85B2 7FCA 446A
+823947761971680410,Nice & cosy Flat in Den Haag,131320585,Ayad,Wijk 27 Stationsbuurt,Huygenspark,52.07328,4.31829,Entire home/apt,204,7,0,,,1,365,0,0518 A958 E9AB 925A 407D
+824591592112939631,Een ruim huis dichtbij het strand.,500612077,Daria,Wijk 16 Kraayenstein en Vroondaal,Kraayenstein en Vroondaal,52.03946,4.20953,Entire home/apt,160,5,0,,,1,57,0,051806E88F4155F8443E
+824619738223476197,Zonnig huisje,4536061,Kate,Wijk 04 Benoordenhout,Van Hoytemastraat en omgeving,52.0923436,4.3236371,Entire home/apt,151,4,0,,,1,152,0,0518 4AC3 D0CA C0BA 43FF
+825111076414392336,Scheveningen Home,27008865,Eefje,Wijk 07 Scheveningen,Oud Scheveningen,52.103801509267285,4.27397970110178,Entire home/apt,135,3,0,,,3,78,0,0518829DE68DBC84817B
+825398965300275763,Prachtig ruim herenhuis,19082476,Minique,Wijk 11 Duinoord,Sweelinckplein en omgeving,52.08213,4.28426,Entire home/apt,314,2,0,,,1,223,0,0518 2C1C 785D 4012 4337
+828175017655647578,Kd 805 - Vakantiepark Kijkduin,256391686,Eezz,Wijk 15 Kijkduin en Ockenburgh,Ockenburgh,52.05241,4.21477,Entire home/apt,106,1,0,,,10,48,0,Exempt
+828319825517697979,Here's what you are looking for!,232053755,Karim,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08593,4.29919,Entire home/apt,140,1,1,2023-03-26,1,1,362,1,0518 81AD 7061 9B03 4A8A
+831225426212756499,Redershuis op Scheveningen,2182590,Tobias,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10757962287758,4.2756505880340345,Entire home/apt,200,3,0,,,1,48,0,0518 E222 2414 B4E9 4650
+831916345424884705,Comfort double room|Hotel Corel,497580178,Andriy,Wijk 07 Scheveningen,Rijslag,52.10951,4.28701,Private room,62,1,0,,,2,33,0,Exempt
+833054740864562551,Private room in the Hague,117267946,Regina,Wijk 38 Laakkwartier en Spoorwijk,Laakkwartier-Oost,52.0568866,4.324992,Private room,50,1,1,2023-03-05,1,1,63,1,0518 7F1B 3133 FF98 4239
+833841209782869511,4-bed Apartment at The Monument Hotel Den Haag,482179193,Niek,Wijk 28 Centrum,Kortenbos,52.0741077,4.3045705,Entire home/apt,253,1,0,,,9,186,0,Exempt
+834086291411116658,Family apartment next to the beach,489625702,Ralph,Wijk 07 Scheveningen,Scheveningen Badplaats,52.10981,4.27958,Entire home/apt,159,4,0,,,1,101,0,Exempt
+835364710333218129,Spacious cityhouse with sunny garden near beach.,32957967,Jan Arie De Graaf,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08175,4.29623,Entire home/apt,395,3,0,,,1,42,0,0518A0713BE41BDF49F2
+836383765962208408,Cozy Garden House Kijkduin Beach,360156234,Matias,Wijk 15 Kijkduin en Ockenburgh,Kijkduin,52.07474,4.23838,Entire home/apt,61,5,0,,,2,276,0,051865133987D30AFEDD
+836855367412555711,4-bed Souterrain Appartement The Monument hotel,482179193,Niek,Wijk 28 Centrum,Kortenbos,52.0741077,4.3045705,Entire home/apt,212,1,0,,,9,159,0,Exempt
+836869473777060105,"""The Loft"" Double Room",482179193,Niek,Wijk 28 Centrum,Kortenbos,52.0741077,4.3045705,Private room,104,1,0,,,9,114,0,Exempt
+836899268540803278,Charming and comfy house,30520858,Joost,Wijk 26 Bezuidenhout,Bezuidenhout-Oost,52.08808,4.33489,Entire home/apt,135,2,0,,,1,118,0,0518 B8AC 0E50 55FB 42EB
+837449914389048085,The Jungle Double Suite,482179193,Niek,Wijk 28 Centrum,Kortenbos,52.0741077,4.3045705,Private room,131,1,0,,,9,148,0,Exempt
+837455005629587729,The Superior Double Suite,482179193,Niek,Wijk 28 Centrum,Kortenbos,52.0741077,4.3045705,Private room,136,1,0,,,9,156,0,Exempt
+837459783746336472,The Courtyard Suite,482179193,Niek,Wijk 28 Centrum,Kortenbos,52.0741077,4.3045705,Private room,123,1,1,2023-03-09,1,9,155,1,Exempt
+837463403733236586,Twin Room at The Monument Hotel,482179193,Niek,Wijk 28 Centrum,Kortenbos,52.0741077,4.3045705,Private room,109,1,1,2023-03-16,1,9,133,1,Exempt
+837466466597344786,Souterrain Double Room,482179193,Niek,Wijk 28 Centrum,Kortenbos,52.0741077,4.3045705,Private room,101,1,0,,,9,157,0,Exempt
+837473185886595776,Double Room The Monument Hotel,482179193,Niek,Wijk 28 Centrum,Kortenbos,52.0741077,4.3045705,Private room,109,1,0,,,9,141,0,Exempt
+841775674467002207,Prachtig authentieke gezinswoning,21915222,Floor,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.0783432422576,4.283528029918671,Entire home/apt,120,6,0,,,1,26,0,0518 F2CC BC41 8D7E 4B9D
+842449393342416042,Hotspot in centre of The Hague,204494601,Daniel,Wijk 21 Regentessekwartier,Rond de Energiecentrale,52.077108125522145,4.293785467743874,Entire home/apt,103,6,0,,,1,35,0,0518FADD5F889DCE4C66
+842599029366919541,ruime kamer bij het theater,42836334,Auke,Wijk 07 Scheveningen,Scheveningen Badplaats,52.11073,4.2816,Private room,71,1,0,,,5,45,0,Exempt
+842646841505926664,Luxe herenhuis met trampoline dichtbij strand,30470066,Debby,Wijk 21 Regentessekwartier,Koningsplein en omgeving,52.07726679327774,4.282157085835934,Entire home/apt,395,14,0,,,1,35,0,0518 C5CB F55A 1845 48E2
+842862947896211587,Single/double bed - city centre,74685552,Ayub,Wijk 28 Centrum,Kortenbos,52.07379,4.29859,Private room,61,1,0,,,1,288,0,0518 BD21 D5D8 C81A 470D
+843316587638326359,Dune view 1-bedroom appartement in The Hague,278943960,Clara,Wijk 02 Belgisch Park,Belgisch Park,52.11151,4.29543,Entire home/apt,101,7,0,,,1,14,0,0518 DC80 23FC 3E82 4CB4
+843832821630026552,Relaxing one bed flat in center,504595425,Kelly,Wijk 28 Centrum,Kortenbos,52.07387,4.29721,Entire home/apt,121,1,0,,,1,346,0,Exempt
+846162301682721650,Come SEA us!,11863422,Catherine,Wijk 09 Geuzen- en Statenkwartier,Geuzenkwartier,52.09633585285276,4.270636327564716,Private room,129,1,0,,,1,70,0,0518 A577 018D 45AA 4284
+847131956645058756,Heerlijk huis bij strand en duin,251011178,Irene,Wijk 12 Bomen- en Bloemenbuurt,Bloemenbuurt-West,52.0717509,4.2528704,Entire home/apt,164,6,0,,,1,28,0,0518 8D79 42CC 25F0 496A
+847836944407441005,Klassiek appartement met terras,112551987,Mirthe,Wijk 22 Zeeheldenkwartier,Zeeheldenkwartier,52.08166,4.29614,Entire home/apt,180,3,0,,,1,62,0,0518DEBCAA213C494CE6
+849225278490090310,Luxe huis in Den Haag.,505821149,Shagufta,Wijk 29 Schildersbuurt,Schildersbuurt-Oost,52.0655697,4.3076921,Entire home/apt,195,1,0,,,1,359,0,0518 F18C 795C B725 4BA8
+849809084165537462,Halfvrijstaande villa Den Haag in rustige omgeving,505925619,Ronald,Wijk 42 Ypenburg,Bosweide,52.0503339,4.3659789,Entire home/apt,233,7,0,,,1,42,0,0518 C30B C690 C421 4188
+852978924489522643,The Hague - Scheveningen Beach,4988707,Lorraine,Wijk 09 Geuzen- en Statenkwartier,Statenkwartier,52.09694,4.27593,Entire home/apt,195,2,0,,,1,141,0,0518 6683 B5BB 1414 491F
+853254448367859833,Luxurious Apartment Available,297455790,Hubert,Wijk 28 Centrum,Voorhout,52.0811,4.31014,Private room,214,1,0,,,1,358,0,051891ABFADA5C664C80
+853362603859571729,Woning aan het strand,220660337,Julien,Wijk 08 Duindorp,Duindorp,52.088609142023095,4.2584292619018616,Entire home/apt,160,5,0,,,1,52,0,0518 AE3D 5EE4 3D85 43C5
+854109904328878247,Appartement met tuin loopafstand van het strand,27587931,Joost En Jodie,Wijk 18 Waldeck,Nieuw Waldeck,52.06207,4.23656,Entire home/apt,128,1,0,,,1,302,0,0518 2A51 65FE 6FBF 4F06
+854913279639212322,Ruim familiehuis in Den Haag,506980419,Remco,Wijk 04 Benoordenhout,Waalsdorp,52.10213,4.31651,Entire home/apt,345,4,0,,,1,90,0,0518 3478 944F 4691 46C8
