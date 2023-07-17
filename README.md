@@ -1,1 +1,1 @@
-# better_travel_index
+# Better Travel Guide
