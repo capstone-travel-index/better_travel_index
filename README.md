@@ -5,7 +5,7 @@
 
 
 ## Overview
-The Better Travel Guide is a user-friendly tool built on Tableau dashboards, utilizing several .csv tables as data sources (previously sourced from a SQL database). The accompanying notebooks handle data cleaning, structuring, and analysis to prepare the data for visualization in Tableau. In addition to data normalization and analysis, the notebooks also incorporate comprehensive data analysis procedures.
+The Better Travel Guide is a user-friendly tool built on Tableau dashboards, utilizing several .csv tables as data sources (previously sourced from a SQL database). The accompanying notebooks handle data cleaning, structuring and analysis to prepare the data for visualization in Tableau. In addition to data normalization and analysis, the notebooks also incorporate comprehensive data analysis procedures.
 <br/><br/>
 Users can input their desired "percentage of their yearly footprint budget allocated to the trip", "daily spending at the destination" and select cities for comparison against the recommendation table. The tool generates three columns of information: the carbon footprint associated with traveling to the chosen destination using the selected mode of transportation, estimated daily costs and the Responsibility Index. The Responsibility Index is a key performance indicator that encompasses environmental, social and governance indicators of the destination, as well as the aforementioned carbon footprint.
 <br/><br/>
