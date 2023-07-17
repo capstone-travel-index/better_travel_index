@@ -1,4 +1,5 @@
 # Better Travel Guide
+[Untitled presentation.pdf](https://github.com/capstone-travel-index/better_travel_index/files/12067891/Untitled.presentation.pdf)
 
 
 
